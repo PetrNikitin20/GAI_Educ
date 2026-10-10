@@ -1,0 +1,7 @@
+﻿comparison,type,difference,ci_low,ci_high,p,p_holm_two_beta_contrasts
+quality minus requests,standardized_beta_signed_HC3,-0.142697259957,-0.483194950992,0.197800431078,0.393317931497,0.786635862994
+quality minus requests,pearson_signed_paired_bootstrap,-0.0789825891945,-0.534438876462,0.388593203136,,
+quality minus requests,pearson_absolute_paired_bootstrap,0.0168728682754,-0.288751682429,0.266986633107,,
+completeness minus requests,standardized_beta_signed_HC3,-0.0437220185242,-0.441346403197,0.353902366149,0.821337257708,0.821337257708
+completeness minus requests,pearson_signed_paired_bootstrap,-0.0317721223394,-0.492483172484,0.440854752434,,
+completeness minus requests,pearson_absolute_paired_bootstrap,-0.0303375985797,-0.29860919948,0.251360921695,,

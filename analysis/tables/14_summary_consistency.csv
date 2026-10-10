@@ -1,0 +1,70 @@
+﻿source,metric,stated,recalculated,difference
+Описательная.csv,pre_score experimental,52.7555555556,52.7555555556,0
+Описательная.csv,pre_score experimental SD,9.65275302831,9.65275302831,-1.7763568394e-15
+Описательная.csv,pre_score comparison,53.5551724138,53.5551724138,0
+Описательная.csv,pre_score comparison SD,11.6884126445,11.6884126445,0
+Описательная.csv,post_score experimental,70.6851851852,70.6851851852,0
+Описательная.csv,post_score experimental SD,7.7171987596,7.7171987596,0
+Описательная.csv,post_score comparison,60.5965517241,60.5965517241,0
+Описательная.csv,post_score comparison SD,9.31295114952,9.31295114952,-1.7763568394e-15
+Описательная.csv,delayed_score experimental,61.5666666667,61.5666666667,0
+Описательная.csv,delayed_score experimental SD,9.56717143312,9.56717143312,0
+Описательная.csv,delayed_score comparison,52.2965517241,52.2965517241,0
+Описательная.csv,delayed_score comparison SD,9.80967025653,9.80967025653,0
+Описательная.csv,ai_literacy experimental,31.7888888889,31.7888888889,0
+Описательная.csv,ai_literacy experimental SD,4.68888483817,4.68888483817,0
+Описательная.csv,ai_literacy comparison,26.8413793103,26.8413793103,0
+Описательная.csv,ai_literacy comparison SD,4.54473928542,4.54473928542,0
+Описательная.csv,transfer_score experimental,15.4,15.4,-1.7763568394e-15
+Описательная.csv,transfer_score experimental SD,2.69272524235,2.69272524235,0
+Описательная.csv,transfer_score comparison,12.3,12.3,-1.7763568394e-15
+Описательная.csv,transfer_score comparison SD,3.31877774403,3.31877774403,0
+Артефакты.csv,question mean_exp,3.25925925926,3.25925925926,0
+Артефакты.csv,question sd_exp,0.543676416248,0.543676416248,0
+Артефакты.csv,question mean_comp,2.6724137931,2.6724137931,0
+Артефакты.csv,question sd_comp,0.522286560455,0.522286560455,0
+Артефакты.csv,question hedges_g,1.08628676141,1.08628676141,0
+Артефакты.csv,hypothesis mean_exp,3.25925925926,3.25925925926,0
+Артефакты.csv,hypothesis sd_exp,0.57796676725,0.57796676725,0
+Артефакты.csv,hypothesis mean_comp,2.56896551724,2.56896551724,0
+Артефакты.csv,hypothesis sd_comp,0.457558308756,0.457558308756,5.55111512313e-17
+Артефакты.csv,hypothesis hedges_g,1.31140762351,1.31140762351,0
+Артефакты.csv,sources mean_exp,3.25925925926,3.25925925926,0
+Артефакты.csv,sources sd_exp,0.561083607687,0.561083607687,0
+Артефакты.csv,sources mean_comp,2.48275862069,2.48275862069,0
+Артефакты.csv,sources sd_comp,0.49067662141,0.49067662141,0
+Артефакты.csv,sources hedges_g,1.45631783176,1.45631783176,0
+Артефакты.csv,design mean_exp,3.2037037037,3.2037037037,-4.4408920985e-16
+Артефакты.csv,design sd_exp,0.444177270122,0.444177270122,0
+Артефакты.csv,design mean_comp,2.6724137931,2.6724137931,0
+Артефакты.csv,design sd_comp,0.710581528309,0.710581528309,0
+Артефакты.csv,design hedges_g,0.877026027215,0.877026027215,0
+Артефакты.csv,provenance mean_exp,3.55555555556,3.55555555556,-4.4408920985e-16
+Артефакты.csv,provenance sd_exp,0.445777914121,0.445777914121,5.55111512313e-17
+Артефакты.csv,provenance mean_comp,2.20689655172,2.20689655172,0
+Артефакты.csv,provenance sd_comp,0.619868093389,0.619868093389,0
+Артефакты.csv,provenance hedges_g,2.44879707767,2.44879707767,-4.4408920985e-16
+Артефакты.csv,reproducibility mean_exp,3.38888888889,3.38888888889,0
+Артефакты.csv,reproducibility sd_exp,0.487010767006,0.487010767006,0
+Артефакты.csv,reproducibility mean_comp,2.46551724138,2.46551724138,0
+Артефакты.csv,reproducibility sd_comp,0.516358030598,0.516358030598,0
+Артефакты.csv,reproducibility hedges_g,1.81212477485,1.81212477485,-4.4408920985e-16
+Артефакты.csv,model_choice mean_exp,3.2962962963,3.2962962963,0
+Артефакты.csv,model_choice sd_exp,0.523656876415,0.523656876415,0
+Артефакты.csv,model_choice mean_comp,2.58620689655,2.58620689655,0
+Артефакты.csv,model_choice sd_comp,0.464238345443,0.464238345443,0
+Артефакты.csv,model_choice hedges_g,1.41811522524,1.41811522524,0
+Артефакты.csv,reflection mean_exp,2.96296296296,2.96296296296,0
+Артефакты.csv,reflection sd_exp,0.649347689341,0.649347689341,0
+Артефакты.csv,reflection mean_comp,2.31034482759,2.31034482759,0
+Артефакты.csv,reflection sd_comp,0.588791029863,0.588791029863,0
+Артефакты.csv,reflection hedges_g,1.0401228961,1.0401228961,0
+Артефакты.csv,artifact_total mean_exp,26.1851851852,26.1851851852,0
+Артефакты.csv,artifact_total sd_exp,1.53890663077,1.53890663077,0
+Артефакты.csv,artifact_total mean_comp,19.9655172414,19.9655172414,0
+Артефакты.csv,artifact_total sd_comp,1.49362355701,1.49362355701,0
+Артефакты.csv,artifact_total hedges_g,4.04651651071,4.04651651071,0
+Сводка.csv,post ANCOVA OLS + experience,9.96197419048,9.96197419048,1.24344978758e-14
+Сводка.csv,delayed ANCOVA OLS + experience,9.92495721818,9.92495721818,3.5527136788e-15
+Сводка.csv,ai_literacy ANCOVA OLS + experience,5.27727549478,5.27727549478,8.881784197e-15
+Сводка.csv,transfer ANCOVA OLS + experience,3.09746767375,3.09746767375,7.9936057773e-15

@@ -1,0 +1,5 @@
+﻿variable,label,n_exp,n_comp,mean_exp,mean_comp,difference,ci_low,ci_high,ci_method,odds_ratio,p,test,events_exp,events_comp,p_holm_exploratory
+links_fraction,Доля проверенных ссылок,27,29,0.964052819608,0.781804813397,0.182248006211,0.127798014148,0.240989088969,stratified participant percentile bootstrap,,4.65067156931e-08,Mann–Whitney (participant measures),,,1.86026862773e-07
+claims_rate,Неподтверждённые утверждения на 1000 слов,27,29,0.485219453752,1.61875168526,-1.13353223151,-1.42559779904,-0.837326615466,stratified participant percentile bootstrap,,6.66850518467e-08,Mann–Whitney (participant measures),,,2.0005515554e-07
+reproduced,Успешное воспроизведение,27,29,0.814814814815,0.448275862069,0.366538952746,0.120051085568,0.610472541507,stratified participant percentile bootstrap,5.41538461538,0.00613667678789,Fisher exact (participants),22,13,0.00613667678789
+model_justified,Обоснованный выбор модели,27,29,0.925925925926,0.551724137931,0.374201787995,0.164750957854,0.583652618135,stratified participant percentile bootstrap,10.15625,0.00213708795942,Fisher exact (participants),25,16,0.00427417591884

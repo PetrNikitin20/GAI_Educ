@@ -1,0 +1,38 @@
+{
+  "source_commit": "a2a5246960889eaad21681d432c2dfc13839d2f0",
+  "seed": 20261010,
+  "resamples": 20000,
+  "n_total": 56,
+  "n_experimental": 27,
+  "n_comparison": 29,
+  "h1": {
+    "estimate": 10.598133566625172,
+    "ci_low": 7.749915456459538,
+    "ci_high": 13.446351676790806,
+    "p": 8.106256664025536e-10,
+    "p_holm_primary_family": 4.0531283320127685e-09
+  },
+  "h2": {
+    "estimate": 9.805902211482634,
+    "ci_low": 6.251075204347595,
+    "ci_high": 13.360729218617672,
+    "p": 9.917140214429786e-07,
+    "p_holm_primary_family": 2.9751420643289357e-06
+  },
+  "h4_raw_r": {
+    "quality": -0.04792772873492657,
+    "completeness": -0.0007172618798164943,
+    "requests": 0.03105486045956267
+  },
+  "h4_log_mean_r": {
+    "quality": -0.05312073157919777,
+    "completeness": -0.00038617622221478326,
+    "requests": 0.03105486045956267
+  },
+  "h4_model_r_squared": 0.750375695731415,
+  "h4_model_adjusted_r_squared": 0.6909413375722282,
+  "h5_pooled_kappa": 0.7627118644067796,
+  "h5_overall_agreement": 0.9027777777777778,
+  "audit_failures": 2,
+  "data_authenticity": "Not established; historical snapshot d6a7855 contained a reconstruction heading, current bibliography entries explicitly describe templates"
+}
