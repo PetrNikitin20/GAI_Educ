@@ -1,3 +1,4 @@
 /README.md text eol=lf
 /analysis/** text eol=lf
 /analysis/figures/*.png binary
+/h5_interviews/** text eol=lf
