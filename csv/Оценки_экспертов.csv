@@ -1,0 +1,897 @@
+﻿Код участника,Группа,Код эксперта,Код критерия,Критерий,Оценка,Максимальная оценка,Код для слепой оценки
+EXP001,experimental,E1,question,Исследовательский вопрос,3,4,ART-001
+EXP001,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-001
+EXP001,experimental,E1,sources,Проверка источников,3,4,ART-001
+EXP001,experimental,E1,design,Дизайн и базовые линии,3,4,ART-001
+EXP001,experimental,E1,provenance,Происхождение данных,4,4,ART-001
+EXP001,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-001
+EXP001,experimental,E1,model_choice,Выбор модели,4,4,ART-001
+EXP001,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-001
+EXP001,experimental,E2,question,Исследовательский вопрос,3,4,ART-001
+EXP001,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-001
+EXP001,experimental,E2,sources,Проверка источников,3,4,ART-001
+EXP001,experimental,E2,design,Дизайн и базовые линии,4,4,ART-001
+EXP001,experimental,E2,provenance,Происхождение данных,4,4,ART-001
+EXP001,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-001
+EXP001,experimental,E2,model_choice,Выбор модели,4,4,ART-001
+EXP001,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-001
+EXP002,experimental,E1,question,Исследовательский вопрос,3,4,ART-002
+EXP002,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-002
+EXP002,experimental,E1,sources,Проверка источников,3,4,ART-002
+EXP002,experimental,E1,design,Дизайн и базовые линии,2,4,ART-002
+EXP002,experimental,E1,provenance,Происхождение данных,4,4,ART-002
+EXP002,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-002
+EXP002,experimental,E1,model_choice,Выбор модели,4,4,ART-002
+EXP002,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-002
+EXP002,experimental,E2,question,Исследовательский вопрос,3,4,ART-002
+EXP002,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-002
+EXP002,experimental,E2,sources,Проверка источников,3,4,ART-002
+EXP002,experimental,E2,design,Дизайн и базовые линии,3,4,ART-002
+EXP002,experimental,E2,provenance,Происхождение данных,3,4,ART-002
+EXP002,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-002
+EXP002,experimental,E2,model_choice,Выбор модели,4,4,ART-002
+EXP002,experimental,E2,reflection,Ограничения и рефлексия,4,4,ART-002
+EXP003,experimental,E1,question,Исследовательский вопрос,4,4,ART-003
+EXP003,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-003
+EXP003,experimental,E1,sources,Проверка источников,4,4,ART-003
+EXP003,experimental,E1,design,Дизайн и базовые линии,3,4,ART-003
+EXP003,experimental,E1,provenance,Происхождение данных,4,4,ART-003
+EXP003,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-003
+EXP003,experimental,E1,model_choice,Выбор модели,4,4,ART-003
+EXP003,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-003
+EXP003,experimental,E2,question,Исследовательский вопрос,4,4,ART-003
+EXP003,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-003
+EXP003,experimental,E2,sources,Проверка источников,4,4,ART-003
+EXP003,experimental,E2,design,Дизайн и базовые линии,3,4,ART-003
+EXP003,experimental,E2,provenance,Происхождение данных,4,4,ART-003
+EXP003,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-003
+EXP003,experimental,E2,model_choice,Выбор модели,3,4,ART-003
+EXP003,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-003
+EXP004,experimental,E1,question,Исследовательский вопрос,2,4,ART-004
+EXP004,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-004
+EXP004,experimental,E1,sources,Проверка источников,4,4,ART-004
+EXP004,experimental,E1,design,Дизайн и базовые линии,3,4,ART-004
+EXP004,experimental,E1,provenance,Происхождение данных,3,4,ART-004
+EXP004,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-004
+EXP004,experimental,E1,model_choice,Выбор модели,3,4,ART-004
+EXP004,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-004
+EXP004,experimental,E2,question,Исследовательский вопрос,3,4,ART-004
+EXP004,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-004
+EXP004,experimental,E2,sources,Проверка источников,4,4,ART-004
+EXP004,experimental,E2,design,Дизайн и базовые линии,3,4,ART-004
+EXP004,experimental,E2,provenance,Происхождение данных,3,4,ART-004
+EXP004,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-004
+EXP004,experimental,E2,model_choice,Выбор модели,2,4,ART-004
+EXP004,experimental,E2,reflection,Ограничения и рефлексия,1,4,ART-004
+EXP005,experimental,E1,question,Исследовательский вопрос,4,4,ART-005
+EXP005,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-005
+EXP005,experimental,E1,sources,Проверка источников,4,4,ART-005
+EXP005,experimental,E1,design,Дизайн и базовые линии,3,4,ART-005
+EXP005,experimental,E1,provenance,Происхождение данных,3,4,ART-005
+EXP005,experimental,E1,reproducibility,Воспроизводимость,2,4,ART-005
+EXP005,experimental,E1,model_choice,Выбор модели,3,4,ART-005
+EXP005,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-005
+EXP005,experimental,E2,question,Исследовательский вопрос,3,4,ART-005
+EXP005,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-005
+EXP005,experimental,E2,sources,Проверка источников,3,4,ART-005
+EXP005,experimental,E2,design,Дизайн и базовые линии,3,4,ART-005
+EXP005,experimental,E2,provenance,Происхождение данных,3,4,ART-005
+EXP005,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-005
+EXP005,experimental,E2,model_choice,Выбор модели,3,4,ART-005
+EXP005,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-005
+EXP006,experimental,E1,question,Исследовательский вопрос,3,4,ART-006
+EXP006,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-006
+EXP006,experimental,E1,sources,Проверка источников,4,4,ART-006
+EXP006,experimental,E1,design,Дизайн и базовые линии,3,4,ART-006
+EXP006,experimental,E1,provenance,Происхождение данных,4,4,ART-006
+EXP006,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-006
+EXP006,experimental,E1,model_choice,Выбор модели,2,4,ART-006
+EXP006,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-006
+EXP006,experimental,E2,question,Исследовательский вопрос,4,4,ART-006
+EXP006,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-006
+EXP006,experimental,E2,sources,Проверка источников,3,4,ART-006
+EXP006,experimental,E2,design,Дизайн и базовые линии,3,4,ART-006
+EXP006,experimental,E2,provenance,Происхождение данных,4,4,ART-006
+EXP006,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-006
+EXP006,experimental,E2,model_choice,Выбор модели,3,4,ART-006
+EXP006,experimental,E2,reflection,Ограничения и рефлексия,2,4,ART-006
+EXP007,experimental,E1,question,Исследовательский вопрос,4,4,ART-007
+EXP007,experimental,E1,hypothesis,Гипотеза и опровержение,2,4,ART-007
+EXP007,experimental,E1,sources,Проверка источников,3,4,ART-007
+EXP007,experimental,E1,design,Дизайн и базовые линии,3,4,ART-007
+EXP007,experimental,E1,provenance,Происхождение данных,3,4,ART-007
+EXP007,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-007
+EXP007,experimental,E1,model_choice,Выбор модели,3,4,ART-007
+EXP007,experimental,E1,reflection,Ограничения и рефлексия,4,4,ART-007
+EXP007,experimental,E2,question,Исследовательский вопрос,4,4,ART-007
+EXP007,experimental,E2,hypothesis,Гипотеза и опровержение,2,4,ART-007
+EXP007,experimental,E2,sources,Проверка источников,3,4,ART-007
+EXP007,experimental,E2,design,Дизайн и базовые линии,4,4,ART-007
+EXP007,experimental,E2,provenance,Происхождение данных,3,4,ART-007
+EXP007,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-007
+EXP007,experimental,E2,model_choice,Выбор модели,4,4,ART-007
+EXP007,experimental,E2,reflection,Ограничения и рефлексия,4,4,ART-007
+EXP008,experimental,E1,question,Исследовательский вопрос,4,4,ART-008
+EXP008,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-008
+EXP008,experimental,E1,sources,Проверка источников,3,4,ART-008
+EXP008,experimental,E1,design,Дизайн и базовые линии,3,4,ART-008
+EXP008,experimental,E1,provenance,Происхождение данных,4,4,ART-008
+EXP008,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-008
+EXP008,experimental,E1,model_choice,Выбор модели,3,4,ART-008
+EXP008,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-008
+EXP008,experimental,E2,question,Исследовательский вопрос,4,4,ART-008
+EXP008,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-008
+EXP008,experimental,E2,sources,Проверка источников,2,4,ART-008
+EXP008,experimental,E2,design,Дизайн и базовые линии,3,4,ART-008
+EXP008,experimental,E2,provenance,Происхождение данных,4,4,ART-008
+EXP008,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-008
+EXP008,experimental,E2,model_choice,Выбор модели,3,4,ART-008
+EXP008,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-008
+EXP009,experimental,E1,question,Исследовательский вопрос,3,4,ART-009
+EXP009,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-009
+EXP009,experimental,E1,sources,Проверка источников,4,4,ART-009
+EXP009,experimental,E1,design,Дизайн и базовые линии,3,4,ART-009
+EXP009,experimental,E1,provenance,Происхождение данных,3,4,ART-009
+EXP009,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-009
+EXP009,experimental,E1,model_choice,Выбор модели,4,4,ART-009
+EXP009,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-009
+EXP009,experimental,E2,question,Исследовательский вопрос,3,4,ART-009
+EXP009,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-009
+EXP009,experimental,E2,sources,Проверка источников,4,4,ART-009
+EXP009,experimental,E2,design,Дизайн и базовые линии,3,4,ART-009
+EXP009,experimental,E2,provenance,Происхождение данных,3,4,ART-009
+EXP009,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-009
+EXP009,experimental,E2,model_choice,Выбор модели,3,4,ART-009
+EXP009,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-009
+EXP010,experimental,E1,question,Исследовательский вопрос,3,4,ART-010
+EXP010,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-010
+EXP010,experimental,E1,sources,Проверка источников,3,4,ART-010
+EXP010,experimental,E1,design,Дизайн и базовые линии,3,4,ART-010
+EXP010,experimental,E1,provenance,Происхождение данных,3,4,ART-010
+EXP010,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-010
+EXP010,experimental,E1,model_choice,Выбор модели,4,4,ART-010
+EXP010,experimental,E1,reflection,Ограничения и рефлексия,4,4,ART-010
+EXP010,experimental,E2,question,Исследовательский вопрос,3,4,ART-010
+EXP010,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-010
+EXP010,experimental,E2,sources,Проверка источников,3,4,ART-010
+EXP010,experimental,E2,design,Дизайн и базовые линии,3,4,ART-010
+EXP010,experimental,E2,provenance,Происхождение данных,3,4,ART-010
+EXP010,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-010
+EXP010,experimental,E2,model_choice,Выбор модели,4,4,ART-010
+EXP010,experimental,E2,reflection,Ограничения и рефлексия,4,4,ART-010
+EXP011,experimental,E1,question,Исследовательский вопрос,3,4,ART-011
+EXP011,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-011
+EXP011,experimental,E1,sources,Проверка источников,3,4,ART-011
+EXP011,experimental,E1,design,Дизайн и базовые линии,2,4,ART-011
+EXP011,experimental,E1,provenance,Происхождение данных,4,4,ART-011
+EXP011,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-011
+EXP011,experimental,E1,model_choice,Выбор модели,3,4,ART-011
+EXP011,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-011
+EXP011,experimental,E2,question,Исследовательский вопрос,3,4,ART-011
+EXP011,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-011
+EXP011,experimental,E2,sources,Проверка источников,2,4,ART-011
+EXP011,experimental,E2,design,Дизайн и базовые линии,3,4,ART-011
+EXP011,experimental,E2,provenance,Происхождение данных,4,4,ART-011
+EXP011,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-011
+EXP011,experimental,E2,model_choice,Выбор модели,3,4,ART-011
+EXP011,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-011
+EXP012,experimental,E1,question,Исследовательский вопрос,4,4,ART-012
+EXP012,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-012
+EXP012,experimental,E1,sources,Проверка источников,4,4,ART-012
+EXP012,experimental,E1,design,Дизайн и базовые линии,3,4,ART-012
+EXP012,experimental,E1,provenance,Происхождение данных,3,4,ART-012
+EXP012,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-012
+EXP012,experimental,E1,model_choice,Выбор модели,3,4,ART-012
+EXP012,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-012
+EXP012,experimental,E2,question,Исследовательский вопрос,4,4,ART-012
+EXP012,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-012
+EXP012,experimental,E2,sources,Проверка источников,4,4,ART-012
+EXP012,experimental,E2,design,Дизайн и базовые линии,4,4,ART-012
+EXP012,experimental,E2,provenance,Происхождение данных,4,4,ART-012
+EXP012,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-012
+EXP012,experimental,E2,model_choice,Выбор модели,3,4,ART-012
+EXP012,experimental,E2,reflection,Ограничения и рефлексия,2,4,ART-012
+EXP013,experimental,E1,question,Исследовательский вопрос,3,4,ART-013
+EXP013,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-013
+EXP013,experimental,E1,sources,Проверка источников,4,4,ART-013
+EXP013,experimental,E1,design,Дизайн и базовые линии,4,4,ART-013
+EXP013,experimental,E1,provenance,Происхождение данных,3,4,ART-013
+EXP013,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-013
+EXP013,experimental,E1,model_choice,Выбор модели,4,4,ART-013
+EXP013,experimental,E1,reflection,Ограничения и рефлексия,4,4,ART-013
+EXP013,experimental,E2,question,Исследовательский вопрос,3,4,ART-013
+EXP013,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-013
+EXP013,experimental,E2,sources,Проверка источников,3,4,ART-013
+EXP013,experimental,E2,design,Дизайн и базовые линии,4,4,ART-013
+EXP013,experimental,E2,provenance,Происхождение данных,4,4,ART-013
+EXP013,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-013
+EXP013,experimental,E2,model_choice,Выбор модели,3,4,ART-013
+EXP013,experimental,E2,reflection,Ограничения и рефлексия,4,4,ART-013
+EXP014,experimental,E1,question,Исследовательский вопрос,4,4,ART-014
+EXP014,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-014
+EXP014,experimental,E1,sources,Проверка источников,3,4,ART-014
+EXP014,experimental,E1,design,Дизайн и базовые линии,3,4,ART-014
+EXP014,experimental,E1,provenance,Происхождение данных,3,4,ART-014
+EXP014,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-014
+EXP014,experimental,E1,model_choice,Выбор модели,3,4,ART-014
+EXP014,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-014
+EXP014,experimental,E2,question,Исследовательский вопрос,4,4,ART-014
+EXP014,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-014
+EXP014,experimental,E2,sources,Проверка источников,3,4,ART-014
+EXP014,experimental,E2,design,Дизайн и базовые линии,2,4,ART-014
+EXP014,experimental,E2,provenance,Происхождение данных,4,4,ART-014
+EXP014,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-014
+EXP014,experimental,E2,model_choice,Выбор модели,4,4,ART-014
+EXP014,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-014
+EXP015,experimental,E1,question,Исследовательский вопрос,3,4,ART-015
+EXP015,experimental,E1,hypothesis,Гипотеза и опровержение,2,4,ART-015
+EXP015,experimental,E1,sources,Проверка источников,4,4,ART-015
+EXP015,experimental,E1,design,Дизайн и базовые линии,4,4,ART-015
+EXP015,experimental,E1,provenance,Происхождение данных,3,4,ART-015
+EXP015,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-015
+EXP015,experimental,E1,model_choice,Выбор модели,3,4,ART-015
+EXP015,experimental,E1,reflection,Ограничения и рефлексия,4,4,ART-015
+EXP015,experimental,E2,question,Исследовательский вопрос,3,4,ART-015
+EXP015,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-015
+EXP015,experimental,E2,sources,Проверка источников,4,4,ART-015
+EXP015,experimental,E2,design,Дизайн и базовые линии,4,4,ART-015
+EXP015,experimental,E2,provenance,Происхождение данных,3,4,ART-015
+EXP015,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-015
+EXP015,experimental,E2,model_choice,Выбор модели,3,4,ART-015
+EXP015,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-015
+EXP016,experimental,E1,question,Исследовательский вопрос,3,4,ART-016
+EXP016,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-016
+EXP016,experimental,E1,sources,Проверка источников,3,4,ART-016
+EXP016,experimental,E1,design,Дизайн и базовые линии,3,4,ART-016
+EXP016,experimental,E1,provenance,Происхождение данных,4,4,ART-016
+EXP016,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-016
+EXP016,experimental,E1,model_choice,Выбор модели,4,4,ART-016
+EXP016,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-016
+EXP016,experimental,E2,question,Исследовательский вопрос,3,4,ART-016
+EXP016,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-016
+EXP016,experimental,E2,sources,Проверка источников,3,4,ART-016
+EXP016,experimental,E2,design,Дизайн и базовые линии,3,4,ART-016
+EXP016,experimental,E2,provenance,Происхождение данных,3,4,ART-016
+EXP016,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-016
+EXP016,experimental,E2,model_choice,Выбор модели,4,4,ART-016
+EXP016,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-016
+EXP017,experimental,E1,question,Исследовательский вопрос,3,4,ART-017
+EXP017,experimental,E1,hypothesis,Гипотеза и опровержение,2,4,ART-017
+EXP017,experimental,E1,sources,Проверка источников,4,4,ART-017
+EXP017,experimental,E1,design,Дизайн и базовые линии,4,4,ART-017
+EXP017,experimental,E1,provenance,Происхождение данных,4,4,ART-017
+EXP017,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-017
+EXP017,experimental,E1,model_choice,Выбор модели,3,4,ART-017
+EXP017,experimental,E1,reflection,Ограничения и рефлексия,4,4,ART-017
+EXP017,experimental,E2,question,Исследовательский вопрос,3,4,ART-017
+EXP017,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-017
+EXP017,experimental,E2,sources,Проверка источников,3,4,ART-017
+EXP017,experimental,E2,design,Дизайн и базовые линии,4,4,ART-017
+EXP017,experimental,E2,provenance,Происхождение данных,3,4,ART-017
+EXP017,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-017
+EXP017,experimental,E2,model_choice,Выбор модели,4,4,ART-017
+EXP017,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-017
+EXP018,experimental,E1,question,Исследовательский вопрос,3,4,ART-018
+EXP018,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-018
+EXP018,experimental,E1,sources,Проверка источников,3,4,ART-018
+EXP018,experimental,E1,design,Дизайн и базовые линии,3,4,ART-018
+EXP018,experimental,E1,provenance,Происхождение данных,3,4,ART-018
+EXP018,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-018
+EXP018,experimental,E1,model_choice,Выбор модели,4,4,ART-018
+EXP018,experimental,E1,reflection,Ограничения и рефлексия,4,4,ART-018
+EXP018,experimental,E2,question,Исследовательский вопрос,3,4,ART-018
+EXP018,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-018
+EXP018,experimental,E2,sources,Проверка источников,4,4,ART-018
+EXP018,experimental,E2,design,Дизайн и базовые линии,3,4,ART-018
+EXP018,experimental,E2,provenance,Происхождение данных,3,4,ART-018
+EXP018,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-018
+EXP018,experimental,E2,model_choice,Выбор модели,4,4,ART-018
+EXP018,experimental,E2,reflection,Ограничения и рефлексия,4,4,ART-018
+EXP019,experimental,E1,question,Исследовательский вопрос,3,4,ART-019
+EXP019,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-019
+EXP019,experimental,E1,sources,Проверка источников,3,4,ART-019
+EXP019,experimental,E1,design,Дизайн и базовые линии,3,4,ART-019
+EXP019,experimental,E1,provenance,Происхождение данных,3,4,ART-019
+EXP019,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-019
+EXP019,experimental,E1,model_choice,Выбор модели,3,4,ART-019
+EXP019,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-019
+EXP019,experimental,E2,question,Исследовательский вопрос,3,4,ART-019
+EXP019,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-019
+EXP019,experimental,E2,sources,Проверка источников,3,4,ART-019
+EXP019,experimental,E2,design,Дизайн и базовые линии,4,4,ART-019
+EXP019,experimental,E2,provenance,Происхождение данных,3,4,ART-019
+EXP019,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-019
+EXP019,experimental,E2,model_choice,Выбор модели,3,4,ART-019
+EXP019,experimental,E2,reflection,Ограничения и рефлексия,2,4,ART-019
+EXP020,experimental,E1,question,Исследовательский вопрос,3,4,ART-020
+EXP020,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-020
+EXP020,experimental,E1,sources,Проверка источников,3,4,ART-020
+EXP020,experimental,E1,design,Дизайн и базовые линии,4,4,ART-020
+EXP020,experimental,E1,provenance,Происхождение данных,4,4,ART-020
+EXP020,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-020
+EXP020,experimental,E1,model_choice,Выбор модели,3,4,ART-020
+EXP020,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-020
+EXP020,experimental,E2,question,Исследовательский вопрос,3,4,ART-020
+EXP020,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-020
+EXP020,experimental,E2,sources,Проверка источников,3,4,ART-020
+EXP020,experimental,E2,design,Дизайн и базовые линии,3,4,ART-020
+EXP020,experimental,E2,provenance,Происхождение данных,4,4,ART-020
+EXP020,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-020
+EXP020,experimental,E2,model_choice,Выбор модели,3,4,ART-020
+EXP020,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-020
+EXP021,experimental,E1,question,Исследовательский вопрос,3,4,ART-021
+EXP021,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-021
+EXP021,experimental,E1,sources,Проверка источников,4,4,ART-021
+EXP021,experimental,E1,design,Дизайн и базовые линии,3,4,ART-021
+EXP021,experimental,E1,provenance,Происхождение данных,3,4,ART-021
+EXP021,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-021
+EXP021,experimental,E1,model_choice,Выбор модели,2,4,ART-021
+EXP021,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-021
+EXP021,experimental,E2,question,Исследовательский вопрос,3,4,ART-021
+EXP021,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-021
+EXP021,experimental,E2,sources,Проверка источников,4,4,ART-021
+EXP021,experimental,E2,design,Дизайн и базовые линии,3,4,ART-021
+EXP021,experimental,E2,provenance,Происхождение данных,3,4,ART-021
+EXP021,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-021
+EXP021,experimental,E2,model_choice,Выбор модели,2,4,ART-021
+EXP021,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-021
+EXP022,experimental,E1,question,Исследовательский вопрос,4,4,ART-022
+EXP022,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-022
+EXP022,experimental,E1,sources,Проверка источников,2,4,ART-022
+EXP022,experimental,E1,design,Дизайн и базовые линии,3,4,ART-022
+EXP022,experimental,E1,provenance,Происхождение данных,4,4,ART-022
+EXP022,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-022
+EXP022,experimental,E1,model_choice,Выбор модели,3,4,ART-022
+EXP022,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-022
+EXP022,experimental,E2,question,Исследовательский вопрос,4,4,ART-022
+EXP022,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-022
+EXP022,experimental,E2,sources,Проверка источников,2,4,ART-022
+EXP022,experimental,E2,design,Дизайн и базовые линии,3,4,ART-022
+EXP022,experimental,E2,provenance,Происхождение данных,4,4,ART-022
+EXP022,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-022
+EXP022,experimental,E2,model_choice,Выбор модели,3,4,ART-022
+EXP022,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-022
+EXP023,experimental,E1,question,Исследовательский вопрос,4,4,ART-023
+EXP023,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-023
+EXP023,experimental,E1,sources,Проверка источников,3,4,ART-023
+EXP023,experimental,E1,design,Дизайн и базовые линии,3,4,ART-023
+EXP023,experimental,E1,provenance,Происхождение данных,4,4,ART-023
+EXP023,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-023
+EXP023,experimental,E1,model_choice,Выбор модели,3,4,ART-023
+EXP023,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-023
+EXP023,experimental,E2,question,Исследовательский вопрос,4,4,ART-023
+EXP023,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-023
+EXP023,experimental,E2,sources,Проверка источников,2,4,ART-023
+EXP023,experimental,E2,design,Дизайн и базовые линии,3,4,ART-023
+EXP023,experimental,E2,provenance,Происхождение данных,4,4,ART-023
+EXP023,experimental,E2,reproducibility,Воспроизводимость,2,4,ART-023
+EXP023,experimental,E2,model_choice,Выбор модели,3,4,ART-023
+EXP023,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-023
+EXP024,experimental,E1,question,Исследовательский вопрос,3,4,ART-024
+EXP024,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-024
+EXP024,experimental,E1,sources,Проверка источников,4,4,ART-024
+EXP024,experimental,E1,design,Дизайн и базовые линии,3,4,ART-024
+EXP024,experimental,E1,provenance,Происхождение данных,4,4,ART-024
+EXP024,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-024
+EXP024,experimental,E1,model_choice,Выбор модели,3,4,ART-024
+EXP024,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-024
+EXP024,experimental,E2,question,Исследовательский вопрос,2,4,ART-024
+EXP024,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-024
+EXP024,experimental,E2,sources,Проверка источников,4,4,ART-024
+EXP024,experimental,E2,design,Дизайн и базовые линии,3,4,ART-024
+EXP024,experimental,E2,provenance,Происхождение данных,4,4,ART-024
+EXP024,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-024
+EXP024,experimental,E2,model_choice,Выбор модели,3,4,ART-024
+EXP024,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-024
+EXP025,experimental,E1,question,Исследовательский вопрос,2,4,ART-025
+EXP025,experimental,E1,hypothesis,Гипотеза и опровержение,2,4,ART-025
+EXP025,experimental,E1,sources,Проверка источников,3,4,ART-025
+EXP025,experimental,E1,design,Дизайн и базовые линии,3,4,ART-025
+EXP025,experimental,E1,provenance,Происхождение данных,4,4,ART-025
+EXP025,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-025
+EXP025,experimental,E1,model_choice,Выбор модели,4,4,ART-025
+EXP025,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-025
+EXP025,experimental,E2,question,Исследовательский вопрос,3,4,ART-025
+EXP025,experimental,E2,hypothesis,Гипотеза и опровержение,2,4,ART-025
+EXP025,experimental,E2,sources,Проверка источников,3,4,ART-025
+EXP025,experimental,E2,design,Дизайн и базовые линии,3,4,ART-025
+EXP025,experimental,E2,provenance,Происхождение данных,4,4,ART-025
+EXP025,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-025
+EXP025,experimental,E2,model_choice,Выбор модели,4,4,ART-025
+EXP025,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-025
+EXP026,experimental,E1,question,Исследовательский вопрос,2,4,ART-026
+EXP026,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-026
+EXP026,experimental,E1,sources,Проверка источников,3,4,ART-026
+EXP026,experimental,E1,design,Дизайн и базовые линии,3,4,ART-026
+EXP026,experimental,E1,provenance,Происхождение данных,4,4,ART-026
+EXP026,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-026
+EXP026,experimental,E1,model_choice,Выбор модели,3,4,ART-026
+EXP026,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-026
+EXP026,experimental,E2,question,Исследовательский вопрос,3,4,ART-026
+EXP026,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-026
+EXP026,experimental,E2,sources,Проверка источников,3,4,ART-026
+EXP026,experimental,E2,design,Дизайн и базовые линии,4,4,ART-026
+EXP026,experimental,E2,provenance,Происхождение данных,4,4,ART-026
+EXP026,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-026
+EXP026,experimental,E2,model_choice,Выбор модели,4,4,ART-026
+EXP026,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-026
+EXP027,experimental,E1,question,Исследовательский вопрос,4,4,ART-027
+EXP027,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-027
+EXP027,experimental,E1,sources,Проверка источников,3,4,ART-027
+EXP027,experimental,E1,design,Дизайн и базовые линии,4,4,ART-027
+EXP027,experimental,E1,provenance,Происхождение данных,4,4,ART-027
+EXP027,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-027
+EXP027,experimental,E1,model_choice,Выбор модели,3,4,ART-027
+EXP027,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-027
+EXP027,experimental,E2,question,Исследовательский вопрос,4,4,ART-027
+EXP027,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-027
+EXP027,experimental,E2,sources,Проверка источников,3,4,ART-027
+EXP027,experimental,E2,design,Дизайн и базовые линии,4,4,ART-027
+EXP027,experimental,E2,provenance,Происхождение данных,4,4,ART-027
+EXP027,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-027
+EXP027,experimental,E2,model_choice,Выбор модели,4,4,ART-027
+EXP027,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-027
+CTRL001,comparison,E1,question,Исследовательский вопрос,3,4,ART-001
+CTRL001,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-001
+CTRL001,comparison,E1,sources,Проверка источников,3,4,ART-001
+CTRL001,comparison,E1,design,Дизайн и базовые линии,3,4,ART-001
+CTRL001,comparison,E1,provenance,Происхождение данных,2,4,ART-001
+CTRL001,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-001
+CTRL001,comparison,E1,model_choice,Выбор модели,3,4,ART-001
+CTRL001,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-001
+CTRL001,comparison,E2,question,Исследовательский вопрос,3,4,ART-001
+CTRL001,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-001
+CTRL001,comparison,E2,sources,Проверка источников,3,4,ART-001
+CTRL001,comparison,E2,design,Дизайн и базовые линии,3,4,ART-001
+CTRL001,comparison,E2,provenance,Происхождение данных,2,4,ART-001
+CTRL001,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-001
+CTRL001,comparison,E2,model_choice,Выбор модели,2,4,ART-001
+CTRL001,comparison,E2,reflection,Ограничения и рефлексия,4,4,ART-001
+CTRL002,comparison,E1,question,Исследовательский вопрос,2,4,ART-002
+CTRL002,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-002
+CTRL002,comparison,E1,sources,Проверка источников,3,4,ART-002
+CTRL002,comparison,E1,design,Дизайн и базовые линии,3,4,ART-002
+CTRL002,comparison,E1,provenance,Происхождение данных,1,4,ART-002
+CTRL002,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-002
+CTRL002,comparison,E1,model_choice,Выбор модели,2,4,ART-002
+CTRL002,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-002
+CTRL002,comparison,E2,question,Исследовательский вопрос,2,4,ART-002
+CTRL002,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-002
+CTRL002,comparison,E2,sources,Проверка источников,3,4,ART-002
+CTRL002,comparison,E2,design,Дизайн и базовые линии,3,4,ART-002
+CTRL002,comparison,E2,provenance,Происхождение данных,1,4,ART-002
+CTRL002,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-002
+CTRL002,comparison,E2,model_choice,Выбор модели,3,4,ART-002
+CTRL002,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-002
+CTRL003,comparison,E1,question,Исследовательский вопрос,3,4,ART-003
+CTRL003,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-003
+CTRL003,comparison,E1,sources,Проверка источников,3,4,ART-003
+CTRL003,comparison,E1,design,Дизайн и базовые линии,3,4,ART-003
+CTRL003,comparison,E1,provenance,Происхождение данных,2,4,ART-003
+CTRL003,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-003
+CTRL003,comparison,E1,model_choice,Выбор модели,2,4,ART-003
+CTRL003,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-003
+CTRL003,comparison,E2,question,Исследовательский вопрос,2,4,ART-003
+CTRL003,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-003
+CTRL003,comparison,E2,sources,Проверка источников,3,4,ART-003
+CTRL003,comparison,E2,design,Дизайн и базовые линии,2,4,ART-003
+CTRL003,comparison,E2,provenance,Происхождение данных,2,4,ART-003
+CTRL003,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-003
+CTRL003,comparison,E2,model_choice,Выбор модели,2,4,ART-003
+CTRL003,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-003
+CTRL004,comparison,E1,question,Исследовательский вопрос,2,4,ART-004
+CTRL004,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-004
+CTRL004,comparison,E1,sources,Проверка источников,2,4,ART-004
+CTRL004,comparison,E1,design,Дизайн и базовые линии,2,4,ART-004
+CTRL004,comparison,E1,provenance,Происхождение данных,3,4,ART-004
+CTRL004,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-004
+CTRL004,comparison,E1,model_choice,Выбор модели,2,4,ART-004
+CTRL004,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-004
+CTRL004,comparison,E2,question,Исследовательский вопрос,2,4,ART-004
+CTRL004,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-004
+CTRL004,comparison,E2,sources,Проверка источников,3,4,ART-004
+CTRL004,comparison,E2,design,Дизайн и базовые линии,3,4,ART-004
+CTRL004,comparison,E2,provenance,Происхождение данных,2,4,ART-004
+CTRL004,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-004
+CTRL004,comparison,E2,model_choice,Выбор модели,3,4,ART-004
+CTRL004,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-004
+CTRL005,comparison,E1,question,Исследовательский вопрос,3,4,ART-005
+CTRL005,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-005
+CTRL005,comparison,E1,sources,Проверка источников,2,4,ART-005
+CTRL005,comparison,E1,design,Дизайн и базовые линии,3,4,ART-005
+CTRL005,comparison,E1,provenance,Происхождение данных,3,4,ART-005
+CTRL005,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-005
+CTRL005,comparison,E1,model_choice,Выбор модели,3,4,ART-005
+CTRL005,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-005
+CTRL005,comparison,E2,question,Исследовательский вопрос,4,4,ART-005
+CTRL005,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-005
+CTRL005,comparison,E2,sources,Проверка источников,2,4,ART-005
+CTRL005,comparison,E2,design,Дизайн и базовые линии,3,4,ART-005
+CTRL005,comparison,E2,provenance,Происхождение данных,3,4,ART-005
+CTRL005,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-005
+CTRL005,comparison,E2,model_choice,Выбор модели,3,4,ART-005
+CTRL005,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-005
+CTRL006,comparison,E1,question,Исследовательский вопрос,3,4,ART-006
+CTRL006,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-006
+CTRL006,comparison,E1,sources,Проверка источников,2,4,ART-006
+CTRL006,comparison,E1,design,Дизайн и базовые линии,2,4,ART-006
+CTRL006,comparison,E1,provenance,Происхождение данных,3,4,ART-006
+CTRL006,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-006
+CTRL006,comparison,E1,model_choice,Выбор модели,2,4,ART-006
+CTRL006,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-006
+CTRL006,comparison,E2,question,Исследовательский вопрос,2,4,ART-006
+CTRL006,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-006
+CTRL006,comparison,E2,sources,Проверка источников,1,4,ART-006
+CTRL006,comparison,E2,design,Дизайн и базовые линии,2,4,ART-006
+CTRL006,comparison,E2,provenance,Происхождение данных,3,4,ART-006
+CTRL006,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-006
+CTRL006,comparison,E2,model_choice,Выбор модели,2,4,ART-006
+CTRL006,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-006
+CTRL007,comparison,E1,question,Исследовательский вопрос,3,4,ART-007
+CTRL007,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-007
+CTRL007,comparison,E1,sources,Проверка источников,2,4,ART-007
+CTRL007,comparison,E1,design,Дизайн и базовые линии,3,4,ART-007
+CTRL007,comparison,E1,provenance,Происхождение данных,2,4,ART-007
+CTRL007,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-007
+CTRL007,comparison,E1,model_choice,Выбор модели,2,4,ART-007
+CTRL007,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-007
+CTRL007,comparison,E2,question,Исследовательский вопрос,3,4,ART-007
+CTRL007,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-007
+CTRL007,comparison,E2,sources,Проверка источников,2,4,ART-007
+CTRL007,comparison,E2,design,Дизайн и базовые линии,3,4,ART-007
+CTRL007,comparison,E2,provenance,Происхождение данных,1,4,ART-007
+CTRL007,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-007
+CTRL007,comparison,E2,model_choice,Выбор модели,3,4,ART-007
+CTRL007,comparison,E2,reflection,Ограничения и рефлексия,1,4,ART-007
+CTRL008,comparison,E1,question,Исследовательский вопрос,2,4,ART-008
+CTRL008,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-008
+CTRL008,comparison,E1,sources,Проверка источников,3,4,ART-008
+CTRL008,comparison,E1,design,Дизайн и базовые линии,2,4,ART-008
+CTRL008,comparison,E1,provenance,Происхождение данных,3,4,ART-008
+CTRL008,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-008
+CTRL008,comparison,E1,model_choice,Выбор модели,3,4,ART-008
+CTRL008,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-008
+CTRL008,comparison,E2,question,Исследовательский вопрос,3,4,ART-008
+CTRL008,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-008
+CTRL008,comparison,E2,sources,Проверка источников,3,4,ART-008
+CTRL008,comparison,E2,design,Дизайн и базовые линии,2,4,ART-008
+CTRL008,comparison,E2,provenance,Происхождение данных,3,4,ART-008
+CTRL008,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-008
+CTRL008,comparison,E2,model_choice,Выбор модели,3,4,ART-008
+CTRL008,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-008
+CTRL009,comparison,E1,question,Исследовательский вопрос,2,4,ART-009
+CTRL009,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-009
+CTRL009,comparison,E1,sources,Проверка источников,3,4,ART-009
+CTRL009,comparison,E1,design,Дизайн и базовые линии,3,4,ART-009
+CTRL009,comparison,E1,provenance,Происхождение данных,3,4,ART-009
+CTRL009,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-009
+CTRL009,comparison,E1,model_choice,Выбор модели,2,4,ART-009
+CTRL009,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-009
+CTRL009,comparison,E2,question,Исследовательский вопрос,2,4,ART-009
+CTRL009,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-009
+CTRL009,comparison,E2,sources,Проверка источников,2,4,ART-009
+CTRL009,comparison,E2,design,Дизайн и базовые линии,3,4,ART-009
+CTRL009,comparison,E2,provenance,Происхождение данных,2,4,ART-009
+CTRL009,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-009
+CTRL009,comparison,E2,model_choice,Выбор модели,2,4,ART-009
+CTRL009,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-009
+CTRL010,comparison,E1,question,Исследовательский вопрос,4,4,ART-010
+CTRL010,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-010
+CTRL010,comparison,E1,sources,Проверка источников,2,4,ART-010
+CTRL010,comparison,E1,design,Дизайн и базовые линии,1,4,ART-010
+CTRL010,comparison,E1,provenance,Происхождение данных,3,4,ART-010
+CTRL010,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-010
+CTRL010,comparison,E1,model_choice,Выбор модели,2,4,ART-010
+CTRL010,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-010
+CTRL010,comparison,E2,question,Исследовательский вопрос,4,4,ART-010
+CTRL010,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-010
+CTRL010,comparison,E2,sources,Проверка источников,2,4,ART-010
+CTRL010,comparison,E2,design,Дизайн и базовые линии,1,4,ART-010
+CTRL010,comparison,E2,provenance,Происхождение данных,3,4,ART-010
+CTRL010,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-010
+CTRL010,comparison,E2,model_choice,Выбор модели,2,4,ART-010
+CTRL010,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-010
+CTRL011,comparison,E1,question,Исследовательский вопрос,3,4,ART-011
+CTRL011,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-011
+CTRL011,comparison,E1,sources,Проверка источников,2,4,ART-011
+CTRL011,comparison,E1,design,Дизайн и базовые линии,3,4,ART-011
+CTRL011,comparison,E1,provenance,Происхождение данных,2,4,ART-011
+CTRL011,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-011
+CTRL011,comparison,E1,model_choice,Выбор модели,3,4,ART-011
+CTRL011,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-011
+CTRL011,comparison,E2,question,Исследовательский вопрос,3,4,ART-011
+CTRL011,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-011
+CTRL011,comparison,E2,sources,Проверка источников,2,4,ART-011
+CTRL011,comparison,E2,design,Дизайн и базовые линии,3,4,ART-011
+CTRL011,comparison,E2,provenance,Происхождение данных,3,4,ART-011
+CTRL011,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-011
+CTRL011,comparison,E2,model_choice,Выбор модели,3,4,ART-011
+CTRL011,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-011
+CTRL012,comparison,E1,question,Исследовательский вопрос,2,4,ART-012
+CTRL012,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-012
+CTRL012,comparison,E1,sources,Проверка источников,2,4,ART-012
+CTRL012,comparison,E1,design,Дизайн и базовые линии,3,4,ART-012
+CTRL012,comparison,E1,provenance,Происхождение данных,2,4,ART-012
+CTRL012,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-012
+CTRL012,comparison,E1,model_choice,Выбор модели,2,4,ART-012
+CTRL012,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-012
+CTRL012,comparison,E2,question,Исследовательский вопрос,3,4,ART-012
+CTRL012,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-012
+CTRL012,comparison,E2,sources,Проверка источников,2,4,ART-012
+CTRL012,comparison,E2,design,Дизайн и базовые линии,3,4,ART-012
+CTRL012,comparison,E2,provenance,Происхождение данных,3,4,ART-012
+CTRL012,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-012
+CTRL012,comparison,E2,model_choice,Выбор модели,2,4,ART-012
+CTRL012,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-012
+CTRL013,comparison,E1,question,Исследовательский вопрос,2,4,ART-013
+CTRL013,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-013
+CTRL013,comparison,E1,sources,Проверка источников,3,4,ART-013
+CTRL013,comparison,E1,design,Дизайн и базовые линии,3,4,ART-013
+CTRL013,comparison,E1,provenance,Происхождение данных,3,4,ART-013
+CTRL013,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-013
+CTRL013,comparison,E1,model_choice,Выбор модели,3,4,ART-013
+CTRL013,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-013
+CTRL013,comparison,E2,question,Исследовательский вопрос,3,4,ART-013
+CTRL013,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-013
+CTRL013,comparison,E2,sources,Проверка источников,3,4,ART-013
+CTRL013,comparison,E2,design,Дизайн и базовые линии,4,4,ART-013
+CTRL013,comparison,E2,provenance,Происхождение данных,3,4,ART-013
+CTRL013,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-013
+CTRL013,comparison,E2,model_choice,Выбор модели,3,4,ART-013
+CTRL013,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-013
+CTRL014,comparison,E1,question,Исследовательский вопрос,2,4,ART-014
+CTRL014,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-014
+CTRL014,comparison,E1,sources,Проверка источников,3,4,ART-014
+CTRL014,comparison,E1,design,Дизайн и базовые линии,4,4,ART-014
+CTRL014,comparison,E1,provenance,Происхождение данных,3,4,ART-014
+CTRL014,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-014
+CTRL014,comparison,E1,model_choice,Выбор модели,2,4,ART-014
+CTRL014,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-014
+CTRL014,comparison,E2,question,Исследовательский вопрос,2,4,ART-014
+CTRL014,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-014
+CTRL014,comparison,E2,sources,Проверка источников,3,4,ART-014
+CTRL014,comparison,E2,design,Дизайн и базовые линии,4,4,ART-014
+CTRL014,comparison,E2,provenance,Происхождение данных,3,4,ART-014
+CTRL014,comparison,E2,reproducibility,Воспроизводимость,1,4,ART-014
+CTRL014,comparison,E2,model_choice,Выбор модели,2,4,ART-014
+CTRL014,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-014
+CTRL015,comparison,E1,question,Исследовательский вопрос,3,4,ART-015
+CTRL015,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-015
+CTRL015,comparison,E1,sources,Проверка источников,3,4,ART-015
+CTRL015,comparison,E1,design,Дизайн и базовые линии,3,4,ART-015
+CTRL015,comparison,E1,provenance,Происхождение данных,2,4,ART-015
+CTRL015,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-015
+CTRL015,comparison,E1,model_choice,Выбор модели,3,4,ART-015
+CTRL015,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-015
+CTRL015,comparison,E2,question,Исследовательский вопрос,3,4,ART-015
+CTRL015,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-015
+CTRL015,comparison,E2,sources,Проверка источников,3,4,ART-015
+CTRL015,comparison,E2,design,Дизайн и базовые линии,3,4,ART-015
+CTRL015,comparison,E2,provenance,Происхождение данных,2,4,ART-015
+CTRL015,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-015
+CTRL015,comparison,E2,model_choice,Выбор модели,3,4,ART-015
+CTRL015,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-015
+CTRL016,comparison,E1,question,Исследовательский вопрос,2,4,ART-016
+CTRL016,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-016
+CTRL016,comparison,E1,sources,Проверка источников,3,4,ART-016
+CTRL016,comparison,E1,design,Дизайн и базовые линии,3,4,ART-016
+CTRL016,comparison,E1,provenance,Происхождение данных,3,4,ART-016
+CTRL016,comparison,E1,reproducibility,Воспроизводимость,1,4,ART-016
+CTRL016,comparison,E1,model_choice,Выбор модели,2,4,ART-016
+CTRL016,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-016
+CTRL016,comparison,E2,question,Исследовательский вопрос,2,4,ART-016
+CTRL016,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-016
+CTRL016,comparison,E2,sources,Проверка источников,3,4,ART-016
+CTRL016,comparison,E2,design,Дизайн и базовые линии,3,4,ART-016
+CTRL016,comparison,E2,provenance,Происхождение данных,2,4,ART-016
+CTRL016,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-016
+CTRL016,comparison,E2,model_choice,Выбор модели,3,4,ART-016
+CTRL016,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-016
+CTRL017,comparison,E1,question,Исследовательский вопрос,3,4,ART-017
+CTRL017,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-017
+CTRL017,comparison,E1,sources,Проверка источников,2,4,ART-017
+CTRL017,comparison,E1,design,Дизайн и базовые линии,2,4,ART-017
+CTRL017,comparison,E1,provenance,Происхождение данных,2,4,ART-017
+CTRL017,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-017
+CTRL017,comparison,E1,model_choice,Выбор модели,3,4,ART-017
+CTRL017,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-017
+CTRL017,comparison,E2,question,Исследовательский вопрос,3,4,ART-017
+CTRL017,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-017
+CTRL017,comparison,E2,sources,Проверка источников,2,4,ART-017
+CTRL017,comparison,E2,design,Дизайн и базовые линии,2,4,ART-017
+CTRL017,comparison,E2,provenance,Происхождение данных,2,4,ART-017
+CTRL017,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-017
+CTRL017,comparison,E2,model_choice,Выбор модели,3,4,ART-017
+CTRL017,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-017
+CTRL018,comparison,E1,question,Исследовательский вопрос,2,4,ART-018
+CTRL018,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-018
+CTRL018,comparison,E1,sources,Проверка источников,2,4,ART-018
+CTRL018,comparison,E1,design,Дизайн и базовые линии,2,4,ART-018
+CTRL018,comparison,E1,provenance,Происхождение данных,2,4,ART-018
+CTRL018,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-018
+CTRL018,comparison,E1,model_choice,Выбор модели,2,4,ART-018
+CTRL018,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-018
+CTRL018,comparison,E2,question,Исследовательский вопрос,2,4,ART-018
+CTRL018,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-018
+CTRL018,comparison,E2,sources,Проверка источников,2,4,ART-018
+CTRL018,comparison,E2,design,Дизайн и базовые линии,2,4,ART-018
+CTRL018,comparison,E2,provenance,Происхождение данных,2,4,ART-018
+CTRL018,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-018
+CTRL018,comparison,E2,model_choice,Выбор модели,2,4,ART-018
+CTRL018,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-018
+CTRL019,comparison,E1,question,Исследовательский вопрос,2,4,ART-019
+CTRL019,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-019
+CTRL019,comparison,E1,sources,Проверка источников,3,4,ART-019
+CTRL019,comparison,E1,design,Дизайн и базовые линии,4,4,ART-019
+CTRL019,comparison,E1,provenance,Происхождение данных,2,4,ART-019
+CTRL019,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-019
+CTRL019,comparison,E1,model_choice,Выбор модели,3,4,ART-019
+CTRL019,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-019
+CTRL019,comparison,E2,question,Исследовательский вопрос,3,4,ART-019
+CTRL019,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-019
+CTRL019,comparison,E2,sources,Проверка источников,3,4,ART-019
+CTRL019,comparison,E2,design,Дизайн и базовые линии,4,4,ART-019
+CTRL019,comparison,E2,provenance,Происхождение данных,2,4,ART-019
+CTRL019,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-019
+CTRL019,comparison,E2,model_choice,Выбор модели,3,4,ART-019
+CTRL019,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-019
+CTRL020,comparison,E1,question,Исследовательский вопрос,3,4,ART-020
+CTRL020,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-020
+CTRL020,comparison,E1,sources,Проверка источников,2,4,ART-020
+CTRL020,comparison,E1,design,Дизайн и базовые линии,3,4,ART-020
+CTRL020,comparison,E1,provenance,Происхождение данных,2,4,ART-020
+CTRL020,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-020
+CTRL020,comparison,E1,model_choice,Выбор модели,3,4,ART-020
+CTRL020,comparison,E1,reflection,Ограничения и рефлексия,1,4,ART-020
+CTRL020,comparison,E2,question,Исследовательский вопрос,3,4,ART-020
+CTRL020,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-020
+CTRL020,comparison,E2,sources,Проверка источников,2,4,ART-020
+CTRL020,comparison,E2,design,Дизайн и базовые линии,2,4,ART-020
+CTRL020,comparison,E2,provenance,Происхождение данных,2,4,ART-020
+CTRL020,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-020
+CTRL020,comparison,E2,model_choice,Выбор модели,3,4,ART-020
+CTRL020,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-020
+CTRL021,comparison,E1,question,Исследовательский вопрос,3,4,ART-021
+CTRL021,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-021
+CTRL021,comparison,E1,sources,Проверка источников,2,4,ART-021
+CTRL021,comparison,E1,design,Дизайн и базовые линии,2,4,ART-021
+CTRL021,comparison,E1,provenance,Происхождение данных,1,4,ART-021
+CTRL021,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-021
+CTRL021,comparison,E1,model_choice,Выбор модели,3,4,ART-021
+CTRL021,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-021
+CTRL021,comparison,E2,question,Исследовательский вопрос,3,4,ART-021
+CTRL021,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-021
+CTRL021,comparison,E2,sources,Проверка источников,3,4,ART-021
+CTRL021,comparison,E2,design,Дизайн и базовые линии,2,4,ART-021
+CTRL021,comparison,E2,provenance,Происхождение данных,1,4,ART-021
+CTRL021,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-021
+CTRL021,comparison,E2,model_choice,Выбор модели,3,4,ART-021
+CTRL021,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-021
+CTRL022,comparison,E1,question,Исследовательский вопрос,3,4,ART-022
+CTRL022,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-022
+CTRL022,comparison,E1,sources,Проверка источников,3,4,ART-022
+CTRL022,comparison,E1,design,Дизайн и базовые линии,1,4,ART-022
+CTRL022,comparison,E1,provenance,Происхождение данных,2,4,ART-022
+CTRL022,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-022
+CTRL022,comparison,E1,model_choice,Выбор модели,2,4,ART-022
+CTRL022,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-022
+CTRL022,comparison,E2,question,Исследовательский вопрос,3,4,ART-022
+CTRL022,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-022
+CTRL022,comparison,E2,sources,Проверка источников,3,4,ART-022
+CTRL022,comparison,E2,design,Дизайн и базовые линии,1,4,ART-022
+CTRL022,comparison,E2,provenance,Происхождение данных,2,4,ART-022
+CTRL022,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-022
+CTRL022,comparison,E2,model_choice,Выбор модели,2,4,ART-022
+CTRL022,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-022
+CTRL023,comparison,E1,question,Исследовательский вопрос,3,4,ART-023
+CTRL023,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-023
+CTRL023,comparison,E1,sources,Проверка источников,3,4,ART-023
+CTRL023,comparison,E1,design,Дизайн и базовые линии,3,4,ART-023
+CTRL023,comparison,E1,provenance,Происхождение данных,2,4,ART-023
+CTRL023,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-023
+CTRL023,comparison,E1,model_choice,Выбор модели,4,4,ART-023
+CTRL023,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-023
+CTRL023,comparison,E2,question,Исследовательский вопрос,3,4,ART-023
+CTRL023,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-023
+CTRL023,comparison,E2,sources,Проверка источников,2,4,ART-023
+CTRL023,comparison,E2,design,Дизайн и базовые линии,2,4,ART-023
+CTRL023,comparison,E2,provenance,Происхождение данных,1,4,ART-023
+CTRL023,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-023
+CTRL023,comparison,E2,model_choice,Выбор модели,3,4,ART-023
+CTRL023,comparison,E2,reflection,Ограничения и рефлексия,1,4,ART-023
+CTRL024,comparison,E1,question,Исследовательский вопрос,3,4,ART-024
+CTRL024,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-024
+CTRL024,comparison,E1,sources,Проверка источников,3,4,ART-024
+CTRL024,comparison,E1,design,Дизайн и базовые линии,3,4,ART-024
+CTRL024,comparison,E1,provenance,Происхождение данных,2,4,ART-024
+CTRL024,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-024
+CTRL024,comparison,E1,model_choice,Выбор модели,2,4,ART-024
+CTRL024,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-024
+CTRL024,comparison,E2,question,Исследовательский вопрос,2,4,ART-024
+CTRL024,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-024
+CTRL024,comparison,E2,sources,Проверка источников,3,4,ART-024
+CTRL024,comparison,E2,design,Дизайн и базовые линии,3,4,ART-024
+CTRL024,comparison,E2,provenance,Происхождение данных,2,4,ART-024
+CTRL024,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-024
+CTRL024,comparison,E2,model_choice,Выбор модели,3,4,ART-024
+CTRL024,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-024
+CTRL025,comparison,E1,question,Исследовательский вопрос,2,4,ART-025
+CTRL025,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-025
+CTRL025,comparison,E1,sources,Проверка источников,2,4,ART-025
+CTRL025,comparison,E1,design,Дизайн и базовые линии,3,4,ART-025
+CTRL025,comparison,E1,provenance,Происхождение данных,2,4,ART-025
+CTRL025,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-025
+CTRL025,comparison,E1,model_choice,Выбор модели,3,4,ART-025
+CTRL025,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-025
+CTRL025,comparison,E2,question,Исследовательский вопрос,3,4,ART-025
+CTRL025,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-025
+CTRL025,comparison,E2,sources,Проверка источников,2,4,ART-025
+CTRL025,comparison,E2,design,Дизайн и базовые линии,3,4,ART-025
+CTRL025,comparison,E2,provenance,Происхождение данных,2,4,ART-025
+CTRL025,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-025
+CTRL025,comparison,E2,model_choice,Выбор модели,3,4,ART-025
+CTRL025,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-025
+CTRL026,comparison,E1,question,Исследовательский вопрос,3,4,ART-026
+CTRL026,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-026
+CTRL026,comparison,E1,sources,Проверка источников,3,4,ART-026
+CTRL026,comparison,E1,design,Дизайн и базовые линии,4,4,ART-026
+CTRL026,comparison,E1,provenance,Происхождение данных,3,4,ART-026
+CTRL026,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-026
+CTRL026,comparison,E1,model_choice,Выбор модели,3,4,ART-026
+CTRL026,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-026
+CTRL026,comparison,E2,question,Исследовательский вопрос,3,4,ART-026
+CTRL026,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-026
+CTRL026,comparison,E2,sources,Проверка источников,3,4,ART-026
+CTRL026,comparison,E2,design,Дизайн и базовые линии,3,4,ART-026
+CTRL026,comparison,E2,provenance,Происхождение данных,2,4,ART-026
+CTRL026,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-026
+CTRL026,comparison,E2,model_choice,Выбор модели,2,4,ART-026
+CTRL026,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-026
+CTRL027,comparison,E1,question,Исследовательский вопрос,2,4,ART-027
+CTRL027,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-027
+CTRL027,comparison,E1,sources,Проверка источников,2,4,ART-027
+CTRL027,comparison,E1,design,Дизайн и базовые линии,3,4,ART-027
+CTRL027,comparison,E1,provenance,Происхождение данных,3,4,ART-027
+CTRL027,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-027
+CTRL027,comparison,E1,model_choice,Выбор модели,3,4,ART-027
+CTRL027,comparison,E1,reflection,Ограничения и рефлексия,1,4,ART-027
+CTRL027,comparison,E2,question,Исследовательский вопрос,2,4,ART-027
+CTRL027,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-027
+CTRL027,comparison,E2,sources,Проверка источников,2,4,ART-027
+CTRL027,comparison,E2,design,Дизайн и базовые линии,2,4,ART-027
+CTRL027,comparison,E2,provenance,Происхождение данных,3,4,ART-027
+CTRL027,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-027
+CTRL027,comparison,E2,model_choice,Выбор модели,3,4,ART-027
+CTRL027,comparison,E2,reflection,Ограничения и рефлексия,1,4,ART-027
+CTRL028,comparison,E1,question,Исследовательский вопрос,3,4,ART-028
+CTRL028,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-028
+CTRL028,comparison,E1,sources,Проверка источников,3,4,ART-028
+CTRL028,comparison,E1,design,Дизайн и базовые линии,3,4,ART-028
+CTRL028,comparison,E1,provenance,Происхождение данных,1,4,ART-028
+CTRL028,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-028
+CTRL028,comparison,E1,model_choice,Выбор модели,2,4,ART-028
+CTRL028,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-028
+CTRL028,comparison,E2,question,Исследовательский вопрос,2,4,ART-028
+CTRL028,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-028
+CTRL028,comparison,E2,sources,Проверка источников,2,4,ART-028
+CTRL028,comparison,E2,design,Дизайн и базовые линии,2,4,ART-028
+CTRL028,comparison,E2,provenance,Происхождение данных,1,4,ART-028
+CTRL028,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-028
+CTRL028,comparison,E2,model_choice,Выбор модели,2,4,ART-028
+CTRL028,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-028
+CTRL029,comparison,E1,question,Исследовательский вопрос,3,4,ART-029
+CTRL029,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-029
+CTRL029,comparison,E1,sources,Проверка источников,2,4,ART-029
+CTRL029,comparison,E1,design,Дизайн и базовые линии,2,4,ART-029
+CTRL029,comparison,E1,provenance,Происхождение данных,2,4,ART-029
+CTRL029,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-029
+CTRL029,comparison,E1,model_choice,Выбор модели,3,4,ART-029
+CTRL029,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-029
+CTRL029,comparison,E2,question,Исследовательский вопрос,4,4,ART-029
+CTRL029,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-029
+CTRL029,comparison,E2,sources,Проверка источников,2,4,ART-029
+CTRL029,comparison,E2,design,Дизайн и базовые линии,3,4,ART-029
+CTRL029,comparison,E2,provenance,Происхождение данных,2,4,ART-029
+CTRL029,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-029
+CTRL029,comparison,E2,model_choice,Выбор модели,3,4,ART-029
+CTRL029,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-029

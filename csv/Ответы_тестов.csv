@@ -1,0 +1,2353 @@
+﻿Код участника,Группа,Код инструмента,Название инструмента,Код задания,Код ответа,Балл за задание,Максимальный балл за задание
+EXP001,experimental,T0,Входной тест,T0_Q01,_T0_034,3.4,10
+EXP001,experimental,T0,Входной тест,T0_Q02,_T0_052,5.2,10
+EXP001,experimental,T0,Входной тест,T0_Q03,_T0_041,4.1,10
+EXP001,experimental,T0,Входной тест,T0_Q04,_T0_043,4.3,10
+EXP001,experimental,T0,Входной тест,T0_Q05,_T0_020,2,10
+EXP001,experimental,T0,Входной тест,T0_Q06,_T0_080,8,10
+EXP001,experimental,T0,Входной тест,T0_Q07,_T0_035,3.5,10
+EXP001,experimental,T0,Входной тест,T0_Q08,_T0_073,7.3,10
+EXP001,experimental,T0,Входной тест,T0_Q09,_T0_063,6.3,10
+EXP001,experimental,T0,Входной тест,T0_Q10,_T0_038,3.8,10
+EXP001,experimental,T1,Итоговый тест,T1_Q01,_T1_051,5.1,10
+EXP001,experimental,T1,Итоговый тест,T1_Q02,_T1_075,7.5,10
+EXP001,experimental,T1,Итоговый тест,T1_Q03,_T1_056,5.6,10
+EXP001,experimental,T1,Итоговый тест,T1_Q04,_T1_055,5.5,10
+EXP001,experimental,T1,Итоговый тест,T1_Q05,_T1_093,9.3,10
+EXP001,experimental,T1,Итоговый тест,T1_Q06,_T1_073,7.3,10
+EXP001,experimental,T1,Итоговый тест,T1_Q07,_T1_058,5.8,10
+EXP001,experimental,T1,Итоговый тест,T1_Q08,_T1_094,9.4,10
+EXP001,experimental,T1,Итоговый тест,T1_Q09,_T1_060,6,10
+EXP001,experimental,T1,Итоговый тест,T1_Q10,_T1_034,3.4,10
+EXP001,experimental,T2,Отложенный тест,T2_Q01,_T2_081,8.1,10
+EXP001,experimental,T2,Отложенный тест,T2_Q02,_T2_057,5.7,10
+EXP001,experimental,T2,Отложенный тест,T2_Q03,_T2_048,4.8,10
+EXP001,experimental,T2,Отложенный тест,T2_Q04,_T2_066,6.6,10
+EXP001,experimental,T2,Отложенный тест,T2_Q05,_T2_042,4.2,10
+EXP001,experimental,T2,Отложенный тест,T2_Q06,_T2_033,3.3,10
+EXP001,experimental,T2,Отложенный тест,T2_Q07,_T2_042,4.2,10
+EXP001,experimental,T2,Отложенный тест,T2_Q08,_T2_067,6.7,10
+EXP001,experimental,T2,Отложенный тест,T2_Q09,_T2_052,5.2,10
+EXP001,experimental,T2,Отложенный тест,T2_Q10,_T2_067,6.7,10
+EXP001,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_029,2.9,5
+EXP001,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_025,2.5,5
+EXP001,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_020,2,5
+EXP001,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP001,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+EXP001,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_050,5,5
+EXP001,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_025,2.5,5
+EXP001,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_050,5,5
+EXP001,experimental,TR,Задача переноса,TR_Q01,_TR_042,4.2,5
+EXP001,experimental,TR,Задача переноса,TR_Q02,_TR_032,3.2,5
+EXP001,experimental,TR,Задача переноса,TR_Q03,_TR_037,3.7,5
+EXP001,experimental,TR,Задача переноса,TR_Q04,_TR_034,3.4,5
+EXP002,experimental,T0,Входной тест,T0_Q01,_T0_048,4.8,10
+EXP002,experimental,T0,Входной тест,T0_Q02,_T0_039,3.9,10
+EXP002,experimental,T0,Входной тест,T0_Q03,_T0_032,3.2,10
+EXP002,experimental,T0,Входной тест,T0_Q04,_T0_063,6.3,10
+EXP002,experimental,T0,Входной тест,T0_Q05,_T0_064,6.4,10
+EXP002,experimental,T0,Входной тест,T0_Q06,_T0_047,4.7,10
+EXP002,experimental,T0,Входной тест,T0_Q07,_T0_072,7.2,10
+EXP002,experimental,T0,Входной тест,T0_Q08,_T0_056,5.6,10
+EXP002,experimental,T0,Входной тест,T0_Q09,_T0_063,6.3,10
+EXP002,experimental,T0,Входной тест,T0_Q10,_T0_080,8,10
+EXP002,experimental,T1,Итоговый тест,T1_Q01,_T1_044,4.4,10
+EXP002,experimental,T1,Итоговый тест,T1_Q02,_T1_090,9,10
+EXP002,experimental,T1,Итоговый тест,T1_Q03,_T1_088,8.8,10
+EXP002,experimental,T1,Итоговый тест,T1_Q04,_T1_079,7.9,10
+EXP002,experimental,T1,Итоговый тест,T1_Q05,_T1_092,9.2,10
+EXP002,experimental,T1,Итоговый тест,T1_Q06,_T1_091,9.1,10
+EXP002,experimental,T1,Итоговый тест,T1_Q07,_T1_043,4.3,10
+EXP002,experimental,T1,Итоговый тест,T1_Q08,_T1_040,4,10
+EXP002,experimental,T1,Итоговый тест,T1_Q09,_T1_085,8.5,10
+EXP002,experimental,T1,Итоговый тест,T1_Q10,_T1_086,8.6,10
+EXP002,experimental,T2,Отложенный тест,T2_Q01,_T2_050,5,10
+EXP002,experimental,T2,Отложенный тест,T2_Q02,_T2_063,6.3,10
+EXP002,experimental,T2,Отложенный тест,T2_Q03,_T2_062,6.2,10
+EXP002,experimental,T2,Отложенный тест,T2_Q04,_T2_063,6.3,10
+EXP002,experimental,T2,Отложенный тест,T2_Q05,_T2_057,5.7,10
+EXP002,experimental,T2,Отложенный тест,T2_Q06,_T2_100,10,10
+EXP002,experimental,T2,Отложенный тест,T2_Q07,_T2_084,8.4,10
+EXP002,experimental,T2,Отложенный тест,T2_Q08,_T2_094,9.4,10
+EXP002,experimental,T2,Отложенный тест,T2_Q09,_T2_034,3.4,10
+EXP002,experimental,T2,Отложенный тест,T2_Q10,_T2_075,7.5,10
+EXP002,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_027,2.7,5
+EXP002,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_036,3.6,5
+EXP002,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_045,4.5,5
+EXP002,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP002,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_045,4.5,5
+EXP002,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_038,3.8,5
+EXP002,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_025,2.5,5
+EXP002,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_032,3.2,5
+EXP002,experimental,TR,Задача переноса,TR_Q01,_TR_034,3.4,5
+EXP002,experimental,TR,Задача переноса,TR_Q02,_TR_050,5,5
+EXP002,experimental,TR,Задача переноса,TR_Q03,_TR_035,3.5,5
+EXP002,experimental,TR,Задача переноса,TR_Q04,_TR_047,4.7,5
+EXP003,experimental,T0,Входной тест,T0_Q01,_T0_031,3.1,10
+EXP003,experimental,T0,Входной тест,T0_Q02,_T0_055,5.5,10
+EXP003,experimental,T0,Входной тест,T0_Q03,_T0_037,3.7,10
+EXP003,experimental,T0,Входной тест,T0_Q04,_T0_062,6.2,10
+EXP003,experimental,T0,Входной тест,T0_Q05,_T0_052,5.2,10
+EXP003,experimental,T0,Входной тест,T0_Q06,_T0_031,3.1,10
+EXP003,experimental,T0,Входной тест,T0_Q07,_T0_064,6.4,10
+EXP003,experimental,T0,Входной тест,T0_Q08,_T0_026,2.6,10
+EXP003,experimental,T0,Входной тест,T0_Q09,_T0_038,3.8,10
+EXP003,experimental,T0,Входной тест,T0_Q10,_T0_032,3.2,10
+EXP003,experimental,T1,Итоговый тест,T1_Q01,_T1_060,6,10
+EXP003,experimental,T1,Итоговый тест,T1_Q02,_T1_073,7.3,10
+EXP003,experimental,T1,Итоговый тест,T1_Q03,_T1_099,9.9,10
+EXP003,experimental,T1,Итоговый тест,T1_Q04,_T1_052,5.2,10
+EXP003,experimental,T1,Итоговый тест,T1_Q05,_T1_034,3.4,10
+EXP003,experimental,T1,Итоговый тест,T1_Q06,_T1_075,7.5,10
+EXP003,experimental,T1,Итоговый тест,T1_Q07,_T1_046,4.6,10
+EXP003,experimental,T1,Итоговый тест,T1_Q08,_T1_054,5.4,10
+EXP003,experimental,T1,Итоговый тест,T1_Q09,_T1_059,5.9,10
+EXP003,experimental,T1,Итоговый тест,T1_Q10,_T1_041,4.1,10
+EXP003,experimental,T2,Отложенный тест,T2_Q01,_T2_035,3.5,10
+EXP003,experimental,T2,Отложенный тест,T2_Q02,_T2_035,3.5,10
+EXP003,experimental,T2,Отложенный тест,T2_Q03,_T2_037,3.7,10
+EXP003,experimental,T2,Отложенный тест,T2_Q04,_T2_091,9.1,10
+EXP003,experimental,T2,Отложенный тест,T2_Q05,_T2_053,5.3,10
+EXP003,experimental,T2,Отложенный тест,T2_Q06,_T2_060,6,10
+EXP003,experimental,T2,Отложенный тест,T2_Q07,_T2_062,6.2,10
+EXP003,experimental,T2,Отложенный тест,T2_Q08,_T2_088,8.8,10
+EXP003,experimental,T2,Отложенный тест,T2_Q09,_T2_074,7.4,10
+EXP003,experimental,T2,Отложенный тест,T2_Q10,_T2_065,6.5,10
+EXP003,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_045,4.5,5
+EXP003,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+EXP003,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_023,2.3,5
+EXP003,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_047,4.7,5
+EXP003,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+EXP003,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_018,1.8,5
+EXP003,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_021,2.1,5
+EXP003,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_013,1.3,5
+EXP003,experimental,TR,Задача переноса,TR_Q01,_TR_028,2.8,5
+EXP003,experimental,TR,Задача переноса,TR_Q02,_TR_038,3.8,5
+EXP003,experimental,TR,Задача переноса,TR_Q03,_TR_025,2.5,5
+EXP003,experimental,TR,Задача переноса,TR_Q04,_TR_032,3.2,5
+EXP004,experimental,T0,Входной тест,T0_Q01,_T0_046,4.6,10
+EXP004,experimental,T0,Входной тест,T0_Q02,_T0_053,5.3,10
+EXP004,experimental,T0,Входной тест,T0_Q03,_T0_040,4,10
+EXP004,experimental,T0,Входной тест,T0_Q04,_T0_072,7.2,10
+EXP004,experimental,T0,Входной тест,T0_Q05,_T0_059,5.9,10
+EXP004,experimental,T0,Входной тест,T0_Q06,_T0_068,6.8,10
+EXP004,experimental,T0,Входной тест,T0_Q07,_T0_021,2.1,10
+EXP004,experimental,T0,Входной тест,T0_Q08,_T0_067,6.7,10
+EXP004,experimental,T0,Входной тест,T0_Q09,_T0_036,3.6,10
+EXP004,experimental,T0,Входной тест,T0_Q10,_T0_042,4.2,10
+EXP004,experimental,T1,Итоговый тест,T1_Q01,_T1_082,8.2,10
+EXP004,experimental,T1,Итоговый тест,T1_Q02,_T1_100,10,10
+EXP004,experimental,T1,Итоговый тест,T1_Q03,_T1_051,5.1,10
+EXP004,experimental,T1,Итоговый тест,T1_Q04,_T1_050,5,10
+EXP004,experimental,T1,Итоговый тест,T1_Q05,_T1_063,6.3,10
+EXP004,experimental,T1,Итоговый тест,T1_Q06,_T1_051,5.1,10
+EXP004,experimental,T1,Итоговый тест,T1_Q07,_T1_068,6.8,10
+EXP004,experimental,T1,Итоговый тест,T1_Q08,_T1_061,6.1,10
+EXP004,experimental,T1,Итоговый тест,T1_Q09,_T1_070,7,10
+EXP004,experimental,T1,Итоговый тест,T1_Q10,_T1_075,7.5,10
+EXP004,experimental,T2,Отложенный тест,T2_Q01,_T2_056,5.6,10
+EXP004,experimental,T2,Отложенный тест,T2_Q02,_T2_067,6.7,10
+EXP004,experimental,T2,Отложенный тест,T2_Q03,_T2_073,7.3,10
+EXP004,experimental,T2,Отложенный тест,T2_Q04,_T2_039,3.9,10
+EXP004,experimental,T2,Отложенный тест,T2_Q05,_T2_080,8,10
+EXP004,experimental,T2,Отложенный тест,T2_Q06,_T2_049,4.9,10
+EXP004,experimental,T2,Отложенный тест,T2_Q07,_T2_063,6.3,10
+EXP004,experimental,T2,Отложенный тест,T2_Q08,_T2_071,7.1,10
+EXP004,experimental,T2,Отложенный тест,T2_Q09,_T2_049,4.9,10
+EXP004,experimental,T2,Отложенный тест,T2_Q10,_T2_034,3.4,10
+EXP004,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_023,2.3,5
+EXP004,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_039,3.9,5
+EXP004,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_038,3.8,5
+EXP004,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP004,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_045,4.5,5
+EXP004,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_017,1.7,5
+EXP004,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_048,4.8,5
+EXP004,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_050,5,5
+EXP004,experimental,TR,Задача переноса,TR_Q01,_TR_029,2.9,5
+EXP004,experimental,TR,Задача переноса,TR_Q02,_TR_029,2.9,5
+EXP004,experimental,TR,Задача переноса,TR_Q03,_TR_050,5,5
+EXP004,experimental,TR,Задача переноса,TR_Q04,_TR_050,5,5
+EXP005,experimental,T0,Входной тест,T0_Q01,_T0_051,5.1,10
+EXP005,experimental,T0,Входной тест,T0_Q02,_T0_074,7.4,10
+EXP005,experimental,T0,Входной тест,T0_Q03,_T0_073,7.3,10
+EXP005,experimental,T0,Входной тест,T0_Q04,_T0_075,7.5,10
+EXP005,experimental,T0,Входной тест,T0_Q05,_T0_069,6.9,10
+EXP005,experimental,T0,Входной тест,T0_Q06,_T0_077,7.7,10
+EXP005,experimental,T0,Входной тест,T0_Q07,_T0_029,2.9,10
+EXP005,experimental,T0,Входной тест,T0_Q08,_T0_045,4.5,10
+EXP005,experimental,T0,Входной тест,T0_Q09,_T0_049,4.9,10
+EXP005,experimental,T0,Входной тест,T0_Q10,_T0_073,7.3,10
+EXP005,experimental,T1,Итоговый тест,T1_Q01,_T1_077,7.7,10
+EXP005,experimental,T1,Итоговый тест,T1_Q02,_T1_072,7.2,10
+EXP005,experimental,T1,Итоговый тест,T1_Q03,_T1_100,10,10
+EXP005,experimental,T1,Итоговый тест,T1_Q04,_T1_058,5.8,10
+EXP005,experimental,T1,Итоговый тест,T1_Q05,_T1_071,7.1,10
+EXP005,experimental,T1,Итоговый тест,T1_Q06,_T1_100,10,10
+EXP005,experimental,T1,Итоговый тест,T1_Q07,_T1_070,7,10
+EXP005,experimental,T1,Итоговый тест,T1_Q08,_T1_100,10,10
+EXP005,experimental,T1,Итоговый тест,T1_Q09,_T1_087,8.7,10
+EXP005,experimental,T1,Итоговый тест,T1_Q10,_T1_084,8.4,10
+EXP005,experimental,T2,Отложенный тест,T2_Q01,_T2_061,6.1,10
+EXP005,experimental,T2,Отложенный тест,T2_Q02,_T2_088,8.8,10
+EXP005,experimental,T2,Отложенный тест,T2_Q03,_T2_053,5.3,10
+EXP005,experimental,T2,Отложенный тест,T2_Q04,_T2_065,6.5,10
+EXP005,experimental,T2,Отложенный тест,T2_Q05,_T2_082,8.2,10
+EXP005,experimental,T2,Отложенный тест,T2_Q06,_T2_076,7.6,10
+EXP005,experimental,T2,Отложенный тест,T2_Q07,_T2_080,8,10
+EXP005,experimental,T2,Отложенный тест,T2_Q08,_T2_069,6.9,10
+EXP005,experimental,T2,Отложенный тест,T2_Q09,_T2_054,5.4,10
+EXP005,experimental,T2,Отложенный тест,T2_Q10,_T2_085,8.5,10
+EXP005,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_045,4.5,5
+EXP005,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_046,4.6,5
+EXP005,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_048,4.8,5
+EXP005,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP005,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_049,4.9,5
+EXP005,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_045,4.5,5
+EXP005,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_050,5,5
+EXP005,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_050,5,5
+EXP005,experimental,TR,Задача переноса,TR_Q01,_TR_031,3.1,5
+EXP005,experimental,TR,Задача переноса,TR_Q02,_TR_039,3.9,5
+EXP005,experimental,TR,Задача переноса,TR_Q03,_TR_045,4.5,5
+EXP005,experimental,TR,Задача переноса,TR_Q04,_TR_050,5,5
+EXP006,experimental,T0,Входной тест,T0_Q01,_T0_042,4.2,10
+EXP006,experimental,T0,Входной тест,T0_Q02,_T0_041,4.1,10
+EXP006,experimental,T0,Входной тест,T0_Q03,_T0_028,2.8,10
+EXP006,experimental,T0,Входной тест,T0_Q04,_T0_015,1.5,10
+EXP006,experimental,T0,Входной тест,T0_Q05,_T0_079,7.9,10
+EXP006,experimental,T0,Входной тест,T0_Q06,_T0_045,4.5,10
+EXP006,experimental,T0,Входной тест,T0_Q07,_T0_035,3.5,10
+EXP006,experimental,T0,Входной тест,T0_Q08,_T0_050,5,10
+EXP006,experimental,T0,Входной тест,T0_Q09,_T0_084,8.4,10
+EXP006,experimental,T0,Входной тест,T0_Q10,_T0_029,2.9,10
+EXP006,experimental,T1,Итоговый тест,T1_Q01,_T1_063,6.3,10
+EXP006,experimental,T1,Итоговый тест,T1_Q02,_T1_100,10,10
+EXP006,experimental,T1,Итоговый тест,T1_Q03,_T1_096,9.6,10
+EXP006,experimental,T1,Итоговый тест,T1_Q04,_T1_052,5.2,10
+EXP006,experimental,T1,Итоговый тест,T1_Q05,_T1_089,8.9,10
+EXP006,experimental,T1,Итоговый тест,T1_Q06,_T1_079,7.9,10
+EXP006,experimental,T1,Итоговый тест,T1_Q07,_T1_082,8.2,10
+EXP006,experimental,T1,Итоговый тест,T1_Q08,_T1_058,5.8,10
+EXP006,experimental,T1,Итоговый тест,T1_Q09,_T1_097,9.7,10
+EXP006,experimental,T1,Итоговый тест,T1_Q10,_T1_070,7,10
+EXP006,experimental,T2,Отложенный тест,T2_Q01,_T2_033,3.3,10
+EXP006,experimental,T2,Отложенный тест,T2_Q02,_T2_026,2.6,10
+EXP006,experimental,T2,Отложенный тест,T2_Q03,_T2_058,5.8,10
+EXP006,experimental,T2,Отложенный тест,T2_Q04,_T2_041,4.1,10
+EXP006,experimental,T2,Отложенный тест,T2_Q05,_T2_077,7.7,10
+EXP006,experimental,T2,Отложенный тест,T2_Q06,_T2_084,8.4,10
+EXP006,experimental,T2,Отложенный тест,T2_Q07,_T2_027,2.7,10
+EXP006,experimental,T2,Отложенный тест,T2_Q08,_T2_037,3.7,10
+EXP006,experimental,T2,Отложенный тест,T2_Q09,_T2_072,7.2,10
+EXP006,experimental,T2,Отложенный тест,T2_Q10,_T2_054,5.4,10
+EXP006,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_022,2.2,5
+EXP006,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_008,0.8,5
+EXP006,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_042,4.2,5
+EXP006,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP006,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+EXP006,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_050,5,5
+EXP006,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_020,2,5
+EXP006,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_036,3.6,5
+EXP006,experimental,TR,Задача переноса,TR_Q01,_TR_032,3.2,5
+EXP006,experimental,TR,Задача переноса,TR_Q02,_TR_029,2.9,5
+EXP006,experimental,TR,Задача переноса,TR_Q03,_TR_016,1.6,5
+EXP006,experimental,TR,Задача переноса,TR_Q04,_TR_047,4.7,5
+EXP007,experimental,T0,Входной тест,T0_Q01,_T0_053,5.3,10
+EXP007,experimental,T0,Входной тест,T0_Q02,_T0_055,5.5,10
+EXP007,experimental,T0,Входной тест,T0_Q03,_T0_052,5.2,10
+EXP007,experimental,T0,Входной тест,T0_Q04,_T0_056,5.6,10
+EXP007,experimental,T0,Входной тест,T0_Q05,_T0_046,4.6,10
+EXP007,experimental,T0,Входной тест,T0_Q06,_T0_059,5.9,10
+EXP007,experimental,T0,Входной тест,T0_Q07,_T0_045,4.5,10
+EXP007,experimental,T0,Входной тест,T0_Q08,_T0_066,6.6,10
+EXP007,experimental,T0,Входной тест,T0_Q09,_T0_047,4.7,10
+EXP007,experimental,T0,Входной тест,T0_Q10,_T0_040,4,10
+EXP007,experimental,T1,Итоговый тест,T1_Q01,_T1_056,5.6,10
+EXP007,experimental,T1,Итоговый тест,T1_Q02,_T1_085,8.5,10
+EXP007,experimental,T1,Итоговый тест,T1_Q03,_T1_064,6.4,10
+EXP007,experimental,T1,Итоговый тест,T1_Q04,_T1_046,4.6,10
+EXP007,experimental,T1,Итоговый тест,T1_Q05,_T1_056,5.6,10
+EXP007,experimental,T1,Итоговый тест,T1_Q06,_T1_038,3.8,10
+EXP007,experimental,T1,Итоговый тест,T1_Q07,_T1_085,8.5,10
+EXP007,experimental,T1,Итоговый тест,T1_Q08,_T1_067,6.7,10
+EXP007,experimental,T1,Итоговый тест,T1_Q09,_T1_045,4.5,10
+EXP007,experimental,T1,Итоговый тест,T1_Q10,_T1_083,8.3,10
+EXP007,experimental,T2,Отложенный тест,T2_Q01,_T2_073,7.3,10
+EXP007,experimental,T2,Отложенный тест,T2_Q02,_T2_040,4,10
+EXP007,experimental,T2,Отложенный тест,T2_Q03,_T2_025,2.5,10
+EXP007,experimental,T2,Отложенный тест,T2_Q04,_T2_033,3.3,10
+EXP007,experimental,T2,Отложенный тест,T2_Q05,_T2_037,3.7,10
+EXP007,experimental,T2,Отложенный тест,T2_Q06,_T2_063,6.3,10
+EXP007,experimental,T2,Отложенный тест,T2_Q07,_T2_073,7.3,10
+EXP007,experimental,T2,Отложенный тест,T2_Q08,_T2_091,9.1,10
+EXP007,experimental,T2,Отложенный тест,T2_Q09,_T2_035,3.5,10
+EXP007,experimental,T2,Отложенный тест,T2_Q10,_T2_038,3.8,10
+EXP007,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_041,4.1,5
+EXP007,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+EXP007,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_050,5,5
+EXP007,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_047,4.7,5
+EXP007,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_030,3,5
+EXP007,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_050,5,5
+EXP007,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_021,2.1,5
+EXP007,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_047,4.7,5
+EXP007,experimental,TR,Задача переноса,TR_Q01,_TR_039,3.9,5
+EXP007,experimental,TR,Задача переноса,TR_Q02,_TR_034,3.4,5
+EXP007,experimental,TR,Задача переноса,TR_Q03,_TR_033,3.3,5
+EXP007,experimental,TR,Задача переноса,TR_Q04,_TR_034,3.4,5
+EXP008,experimental,T0,Входной тест,T0_Q01,_T0_072,7.2,10
+EXP008,experimental,T0,Входной тест,T0_Q02,_T0_054,5.4,10
+EXP008,experimental,T0,Входной тест,T0_Q03,_T0_091,9.1,10
+EXP008,experimental,T0,Входной тест,T0_Q04,_T0_064,6.4,10
+EXP008,experimental,T0,Входной тест,T0_Q05,_T0_059,5.9,10
+EXP008,experimental,T0,Входной тест,T0_Q06,_T0_100,10,10
+EXP008,experimental,T0,Входной тест,T0_Q07,_T0_084,8.4,10
+EXP008,experimental,T0,Входной тест,T0_Q08,_T0_049,4.9,10
+EXP008,experimental,T0,Входной тест,T0_Q09,_T0_058,5.8,10
+EXP008,experimental,T0,Входной тест,T0_Q10,_T0_051,5.1,10
+EXP008,experimental,T1,Итоговый тест,T1_Q01,_T1_094,9.4,10
+EXP008,experimental,T1,Итоговый тест,T1_Q02,_T1_100,10,10
+EXP008,experimental,T1,Итоговый тест,T1_Q03,_T1_077,7.7,10
+EXP008,experimental,T1,Итоговый тест,T1_Q04,_T1_100,10,10
+EXP008,experimental,T1,Итоговый тест,T1_Q05,_T1_100,10,10
+EXP008,experimental,T1,Итоговый тест,T1_Q06,_T1_062,6.2,10
+EXP008,experimental,T1,Итоговый тест,T1_Q07,_T1_052,5.2,10
+EXP008,experimental,T1,Итоговый тест,T1_Q08,_T1_074,7.4,10
+EXP008,experimental,T1,Итоговый тест,T1_Q09,_T1_095,9.5,10
+EXP008,experimental,T1,Итоговый тест,T1_Q10,_T1_073,7.3,10
+EXP008,experimental,T2,Отложенный тест,T2_Q01,_T2_034,3.4,10
+EXP008,experimental,T2,Отложенный тест,T2_Q02,_T2_055,5.5,10
+EXP008,experimental,T2,Отложенный тест,T2_Q03,_T2_083,8.3,10
+EXP008,experimental,T2,Отложенный тест,T2_Q04,_T2_065,6.5,10
+EXP008,experimental,T2,Отложенный тест,T2_Q05,_T2_061,6.1,10
+EXP008,experimental,T2,Отложенный тест,T2_Q06,_T2_075,7.5,10
+EXP008,experimental,T2,Отложенный тест,T2_Q07,_T2_086,8.6,10
+EXP008,experimental,T2,Отложенный тест,T2_Q08,_T2_100,10,10
+EXP008,experimental,T2,Отложенный тест,T2_Q09,_T2_085,8.5,10
+EXP008,experimental,T2,Отложенный тест,T2_Q10,_T2_082,8.2,10
+EXP008,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+EXP008,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+EXP008,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_050,5,5
+EXP008,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP008,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+EXP008,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_050,5,5
+EXP008,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_050,5,5
+EXP008,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_050,5,5
+EXP008,experimental,TR,Задача переноса,TR_Q01,_TR_033,3.3,5
+EXP008,experimental,TR,Задача переноса,TR_Q02,_TR_046,4.6,5
+EXP008,experimental,TR,Задача переноса,TR_Q03,_TR_034,3.4,5
+EXP008,experimental,TR,Задача переноса,TR_Q04,_TR_050,5,5
+EXP009,experimental,T0,Входной тест,T0_Q01,_T0_087,8.7,10
+EXP009,experimental,T0,Входной тест,T0_Q02,_T0_050,5,10
+EXP009,experimental,T0,Входной тест,T0_Q03,_T0_089,8.9,10
+EXP009,experimental,T0,Входной тест,T0_Q04,_T0_061,6.1,10
+EXP009,experimental,T0,Входной тест,T0_Q05,_T0_047,4.7,10
+EXP009,experimental,T0,Входной тест,T0_Q06,_T0_058,5.8,10
+EXP009,experimental,T0,Входной тест,T0_Q07,_T0_068,6.8,10
+EXP009,experimental,T0,Входной тест,T0_Q08,_T0_061,6.1,10
+EXP009,experimental,T0,Входной тест,T0_Q09,_T0_046,4.6,10
+EXP009,experimental,T0,Входной тест,T0_Q10,_T0_100,10,10
+EXP009,experimental,T1,Итоговый тест,T1_Q01,_T1_100,10,10
+EXP009,experimental,T1,Итоговый тест,T1_Q02,_T1_078,7.8,10
+EXP009,experimental,T1,Итоговый тест,T1_Q03,_T1_100,10,10
+EXP009,experimental,T1,Итоговый тест,T1_Q04,_T1_080,8,10
+EXP009,experimental,T1,Итоговый тест,T1_Q05,_T1_074,7.4,10
+EXP009,experimental,T1,Итоговый тест,T1_Q06,_T1_070,7,10
+EXP009,experimental,T1,Итоговый тест,T1_Q07,_T1_070,7,10
+EXP009,experimental,T1,Итоговый тест,T1_Q08,_T1_086,8.6,10
+EXP009,experimental,T1,Итоговый тест,T1_Q09,_T1_071,7.1,10
+EXP009,experimental,T1,Итоговый тест,T1_Q10,_T1_097,9.7,10
+EXP009,experimental,T2,Отложенный тест,T2_Q01,_T2_081,8.1,10
+EXP009,experimental,T2,Отложенный тест,T2_Q02,_T2_059,5.9,10
+EXP009,experimental,T2,Отложенный тест,T2_Q03,_T2_081,8.1,10
+EXP009,experimental,T2,Отложенный тест,T2_Q04,_T2_051,5.1,10
+EXP009,experimental,T2,Отложенный тест,T2_Q05,_T2_039,3.9,10
+EXP009,experimental,T2,Отложенный тест,T2_Q06,_T2_083,8.3,10
+EXP009,experimental,T2,Отложенный тест,T2_Q07,_T2_087,8.7,10
+EXP009,experimental,T2,Отложенный тест,T2_Q08,_T2_081,8.1,10
+EXP009,experimental,T2,Отложенный тест,T2_Q09,_T2_069,6.9,10
+EXP009,experimental,T2,Отложенный тест,T2_Q10,_T2_047,4.7,10
+EXP009,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+EXP009,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+EXP009,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_027,2.7,5
+EXP009,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP009,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_049,4.9,5
+EXP009,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_039,3.9,5
+EXP009,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_050,5,5
+EXP009,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_050,5,5
+EXP009,experimental,TR,Задача переноса,TR_Q01,_TR_050,5,5
+EXP009,experimental,TR,Задача переноса,TR_Q02,_TR_050,5,5
+EXP009,experimental,TR,Задача переноса,TR_Q03,_TR_050,5,5
+EXP009,experimental,TR,Задача переноса,TR_Q04,_TR_050,5,5
+EXP010,experimental,T0,Входной тест,T0_Q01,_T0_027,2.7,10
+EXP010,experimental,T0,Входной тест,T0_Q02,_T0_056,5.6,10
+EXP010,experimental,T0,Входной тест,T0_Q03,_T0_030,3,10
+EXP010,experimental,T0,Входной тест,T0_Q04,_T0_046,4.6,10
+EXP010,experimental,T0,Входной тест,T0_Q05,_T0_030,3,10
+EXP010,experimental,T0,Входной тест,T0_Q06,_T0_045,4.5,10
+EXP010,experimental,T0,Входной тест,T0_Q07,_T0_066,6.6,10
+EXP010,experimental,T0,Входной тест,T0_Q08,_T0_016,1.6,10
+EXP010,experimental,T0,Входной тест,T0_Q09,_T0_053,5.3,10
+EXP010,experimental,T0,Входной тест,T0_Q10,_T0_015,1.5,10
+EXP010,experimental,T1,Итоговый тест,T1_Q01,_T1_058,5.8,10
+EXP010,experimental,T1,Итоговый тест,T1_Q02,_T1_031,3.1,10
+EXP010,experimental,T1,Итоговый тест,T1_Q03,_T1_059,5.9,10
+EXP010,experimental,T1,Итоговый тест,T1_Q04,_T1_067,6.7,10
+EXP010,experimental,T1,Итоговый тест,T1_Q05,_T1_098,9.8,10
+EXP010,experimental,T1,Итоговый тест,T1_Q06,_T1_042,4.2,10
+EXP010,experimental,T1,Итоговый тест,T1_Q07,_T1_050,5,10
+EXP010,experimental,T1,Итоговый тест,T1_Q08,_T1_033,3.3,10
+EXP010,experimental,T1,Итоговый тест,T1_Q09,_T1_073,7.3,10
+EXP010,experimental,T1,Итоговый тест,T1_Q10,_T1_068,6.8,10
+EXP010,experimental,T2,Отложенный тест,T2_Q01,_T2_056,5.6,10
+EXP010,experimental,T2,Отложенный тест,T2_Q02,_T2_031,3.1,10
+EXP010,experimental,T2,Отложенный тест,T2_Q03,_T2_045,4.5,10
+EXP010,experimental,T2,Отложенный тест,T2_Q04,_T2_038,3.8,10
+EXP010,experimental,T2,Отложенный тест,T2_Q05,_T2_046,4.6,10
+EXP010,experimental,T2,Отложенный тест,T2_Q06,_T2_040,4,10
+EXP010,experimental,T2,Отложенный тест,T2_Q07,_T2_046,4.6,10
+EXP010,experimental,T2,Отложенный тест,T2_Q08,_T2_035,3.5,10
+EXP010,experimental,T2,Отложенный тест,T2_Q09,_T2_043,4.3,10
+EXP010,experimental,T2,Отложенный тест,T2_Q10,_T2_046,4.6,10
+EXP010,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_043,4.3,5
+EXP010,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_022,2.2,5
+EXP010,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_020,2,5
+EXP010,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_049,4.9,5
+EXP010,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_039,3.9,5
+EXP010,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_050,5,5
+EXP010,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_040,4,5
+EXP010,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_017,1.7,5
+EXP010,experimental,TR,Задача переноса,TR_Q01,_TR_033,3.3,5
+EXP010,experimental,TR,Задача переноса,TR_Q02,_TR_040,4,5
+EXP010,experimental,TR,Задача переноса,TR_Q03,_TR_034,3.4,5
+EXP010,experimental,TR,Задача переноса,TR_Q04,_TR_023,2.3,5
+EXP011,experimental,T0,Входной тест,T0_Q01,_T0_035,3.5,10
+EXP011,experimental,T0,Входной тест,T0_Q02,_T0_058,5.8,10
+EXP011,experimental,T0,Входной тест,T0_Q03,_T0_013,1.3,10
+EXP011,experimental,T0,Входной тест,T0_Q04,_T0_050,5,10
+EXP011,experimental,T0,Входной тест,T0_Q05,_T0_056,5.6,10
+EXP011,experimental,T0,Входной тест,T0_Q06,_T0_054,5.4,10
+EXP011,experimental,T0,Входной тест,T0_Q07,_T0_042,4.2,10
+EXP011,experimental,T0,Входной тест,T0_Q08,_T0_062,6.2,10
+EXP011,experimental,T0,Входной тест,T0_Q09,_T0_033,3.3,10
+EXP011,experimental,T0,Входной тест,T0_Q10,_T0_059,5.9,10
+EXP011,experimental,T1,Итоговый тест,T1_Q01,_T1_056,5.6,10
+EXP011,experimental,T1,Итоговый тест,T1_Q02,_T1_100,10,10
+EXP011,experimental,T1,Итоговый тест,T1_Q03,_T1_051,5.1,10
+EXP011,experimental,T1,Итоговый тест,T1_Q04,_T1_064,6.4,10
+EXP011,experimental,T1,Итоговый тест,T1_Q05,_T1_047,4.7,10
+EXP011,experimental,T1,Итоговый тест,T1_Q06,_T1_075,7.5,10
+EXP011,experimental,T1,Итоговый тест,T1_Q07,_T1_035,3.5,10
+EXP011,experimental,T1,Итоговый тест,T1_Q08,_T1_054,5.4,10
+EXP011,experimental,T1,Итоговый тест,T1_Q09,_T1_088,8.8,10
+EXP011,experimental,T1,Итоговый тест,T1_Q10,_T1_061,6.1,10
+EXP011,experimental,T2,Отложенный тест,T2_Q01,_T2_051,5.1,10
+EXP011,experimental,T2,Отложенный тест,T2_Q02,_T2_096,9.6,10
+EXP011,experimental,T2,Отложенный тест,T2_Q03,_T2_082,8.2,10
+EXP011,experimental,T2,Отложенный тест,T2_Q04,_T2_058,5.8,10
+EXP011,experimental,T2,Отложенный тест,T2_Q05,_T2_080,8,10
+EXP011,experimental,T2,Отложенный тест,T2_Q06,_T2_045,4.5,10
+EXP011,experimental,T2,Отложенный тест,T2_Q07,_T2_051,5.1,10
+EXP011,experimental,T2,Отложенный тест,T2_Q08,_T2_042,4.2,10
+EXP011,experimental,T2,Отложенный тест,T2_Q09,_T2_067,6.7,10
+EXP011,experimental,T2,Отложенный тест,T2_Q10,_T2_076,7.6,10
+EXP011,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_048,4.8,5
+EXP011,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_038,3.8,5
+EXP011,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_034,3.4,5
+EXP011,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_035,3.5,5
+EXP011,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+EXP011,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_050,5,5
+EXP011,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_043,4.3,5
+EXP011,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_043,4.3,5
+EXP011,experimental,TR,Задача переноса,TR_Q01,_TR_043,4.3,5
+EXP011,experimental,TR,Задача переноса,TR_Q02,_TR_027,2.7,5
+EXP011,experimental,TR,Задача переноса,TR_Q03,_TR_033,3.3,5
+EXP011,experimental,TR,Задача переноса,TR_Q04,_TR_034,3.4,5
+EXP012,experimental,T0,Входной тест,T0_Q01,_T0_084,8.4,10
+EXP012,experimental,T0,Входной тест,T0_Q02,_T0_047,4.7,10
+EXP012,experimental,T0,Входной тест,T0_Q03,_T0_062,6.2,10
+EXP012,experimental,T0,Входной тест,T0_Q04,_T0_054,5.4,10
+EXP012,experimental,T0,Входной тест,T0_Q05,_T0_038,3.8,10
+EXP012,experimental,T0,Входной тест,T0_Q06,_T0_048,4.8,10
+EXP012,experimental,T0,Входной тест,T0_Q07,_T0_035,3.5,10
+EXP012,experimental,T0,Входной тест,T0_Q08,_T0_044,4.4,10
+EXP012,experimental,T0,Входной тест,T0_Q09,_T0_067,6.7,10
+EXP012,experimental,T0,Входной тест,T0_Q10,_T0_089,8.9,10
+EXP012,experimental,T1,Итоговый тест,T1_Q01,_T1_068,6.8,10
+EXP012,experimental,T1,Итоговый тест,T1_Q02,_T1_056,5.6,10
+EXP012,experimental,T1,Итоговый тест,T1_Q03,_T1_061,6.1,10
+EXP012,experimental,T1,Итоговый тест,T1_Q04,_T1_053,5.3,10
+EXP012,experimental,T1,Итоговый тест,T1_Q05,_T1_072,7.2,10
+EXP012,experimental,T1,Итоговый тест,T1_Q06,_T1_079,7.9,10
+EXP012,experimental,T1,Итоговый тест,T1_Q07,_T1_079,7.9,10
+EXP012,experimental,T1,Итоговый тест,T1_Q08,_T1_100,10,10
+EXP012,experimental,T1,Итоговый тест,T1_Q09,_T1_096,9.6,10
+EXP012,experimental,T1,Итоговый тест,T1_Q10,_T1_068,6.8,10
+EXP012,experimental,T2,Отложенный тест,T2_Q01,_T2_060,6,10
+EXP012,experimental,T2,Отложенный тест,T2_Q02,_T2_066,6.6,10
+EXP012,experimental,T2,Отложенный тест,T2_Q03,_T2_039,3.9,10
+EXP012,experimental,T2,Отложенный тест,T2_Q04,_T2_059,5.9,10
+EXP012,experimental,T2,Отложенный тест,T2_Q05,_T2_046,4.6,10
+EXP012,experimental,T2,Отложенный тест,T2_Q06,_T2_078,7.8,10
+EXP012,experimental,T2,Отложенный тест,T2_Q07,_T2_074,7.4,10
+EXP012,experimental,T2,Отложенный тест,T2_Q08,_T2_048,4.8,10
+EXP012,experimental,T2,Отложенный тест,T2_Q09,_T2_067,6.7,10
+EXP012,experimental,T2,Отложенный тест,T2_Q10,_T2_074,7.4,10
+EXP012,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_039,3.9,5
+EXP012,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_048,4.8,5
+EXP012,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_050,5,5
+EXP012,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP012,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+EXP012,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_050,5,5
+EXP012,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_035,3.5,5
+EXP012,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_050,5,5
+EXP012,experimental,TR,Задача переноса,TR_Q01,_TR_050,5,5
+EXP012,experimental,TR,Задача переноса,TR_Q02,_TR_029,2.9,5
+EXP012,experimental,TR,Задача переноса,TR_Q03,_TR_042,4.2,5
+EXP012,experimental,TR,Задача переноса,TR_Q04,_TR_048,4.8,5
+EXP013,experimental,T0,Входной тест,T0_Q01,_T0_058,5.8,10
+EXP013,experimental,T0,Входной тест,T0_Q02,_T0_043,4.3,10
+EXP013,experimental,T0,Входной тест,T0_Q03,_T0_055,5.5,10
+EXP013,experimental,T0,Входной тест,T0_Q04,_T0_030,3,10
+EXP013,experimental,T0,Входной тест,T0_Q05,_T0_039,3.9,10
+EXP013,experimental,T0,Входной тест,T0_Q06,_T0_056,5.6,10
+EXP013,experimental,T0,Входной тест,T0_Q07,_T0_046,4.6,10
+EXP013,experimental,T0,Входной тест,T0_Q08,_T0_034,3.4,10
+EXP013,experimental,T0,Входной тест,T0_Q09,_T0_038,3.8,10
+EXP013,experimental,T0,Входной тест,T0_Q10,_T0_046,4.6,10
+EXP013,experimental,T1,Итоговый тест,T1_Q01,_T1_071,7.1,10
+EXP013,experimental,T1,Итоговый тест,T1_Q02,_T1_082,8.2,10
+EXP013,experimental,T1,Итоговый тест,T1_Q03,_T1_020,2,10
+EXP013,experimental,T1,Итоговый тест,T1_Q04,_T1_063,6.3,10
+EXP013,experimental,T1,Итоговый тест,T1_Q05,_T1_030,3,10
+EXP013,experimental,T1,Итоговый тест,T1_Q06,_T1_049,4.9,10
+EXP013,experimental,T1,Итоговый тест,T1_Q07,_T1_056,5.6,10
+EXP013,experimental,T1,Итоговый тест,T1_Q08,_T1_092,9.2,10
+EXP013,experimental,T1,Итоговый тест,T1_Q09,_T1_063,6.3,10
+EXP013,experimental,T1,Итоговый тест,T1_Q10,_T1_068,6.8,10
+EXP013,experimental,T2,Отложенный тест,T2_Q01,_T2_065,6.5,10
+EXP013,experimental,T2,Отложенный тест,T2_Q02,_T2_089,8.9,10
+EXP013,experimental,T2,Отложенный тест,T2_Q03,_T2_078,7.8,10
+EXP013,experimental,T2,Отложенный тест,T2_Q04,_T2_068,6.8,10
+EXP013,experimental,T2,Отложенный тест,T2_Q05,_T2_069,6.9,10
+EXP013,experimental,T2,Отложенный тест,T2_Q06,_T2_070,7,10
+EXP013,experimental,T2,Отложенный тест,T2_Q07,_T2_069,6.9,10
+EXP013,experimental,T2,Отложенный тест,T2_Q08,_T2_087,8.7,10
+EXP013,experimental,T2,Отложенный тест,T2_Q09,_T2_074,7.4,10
+EXP013,experimental,T2,Отложенный тест,T2_Q10,_T2_071,7.1,10
+EXP013,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_028,2.8,5
+EXP013,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+EXP013,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_032,3.2,5
+EXP013,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_049,4.9,5
+EXP013,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_026,2.6,5
+EXP013,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_043,4.3,5
+EXP013,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_026,2.6,5
+EXP013,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_042,4.2,5
+EXP013,experimental,TR,Задача переноса,TR_Q01,_TR_019,1.9,5
+EXP013,experimental,TR,Задача переноса,TR_Q02,_TR_034,3.4,5
+EXP013,experimental,TR,Задача переноса,TR_Q03,_TR_015,1.5,5
+EXP013,experimental,TR,Задача переноса,TR_Q04,_TR_045,4.5,5
+EXP014,experimental,T0,Входной тест,T0_Q01,_T0_050,5,10
+EXP014,experimental,T0,Входной тест,T0_Q02,_T0_044,4.4,10
+EXP014,experimental,T0,Входной тест,T0_Q03,_T0_051,5.1,10
+EXP014,experimental,T0,Входной тест,T0_Q04,_T0_057,5.7,10
+EXP014,experimental,T0,Входной тест,T0_Q05,_T0_059,5.9,10
+EXP014,experimental,T0,Входной тест,T0_Q06,_T0_067,6.7,10
+EXP014,experimental,T0,Входной тест,T0_Q07,_T0_048,4.8,10
+EXP014,experimental,T0,Входной тест,T0_Q08,_T0_028,2.8,10
+EXP014,experimental,T0,Входной тест,T0_Q09,_T0_041,4.1,10
+EXP014,experimental,T0,Входной тест,T0_Q10,_T0_077,7.7,10
+EXP014,experimental,T1,Итоговый тест,T1_Q01,_T1_068,6.8,10
+EXP014,experimental,T1,Итоговый тест,T1_Q02,_T1_069,6.9,10
+EXP014,experimental,T1,Итоговый тест,T1_Q03,_T1_068,6.8,10
+EXP014,experimental,T1,Итоговый тест,T1_Q04,_T1_058,5.8,10
+EXP014,experimental,T1,Итоговый тест,T1_Q05,_T1_078,7.8,10
+EXP014,experimental,T1,Итоговый тест,T1_Q06,_T1_060,6,10
+EXP014,experimental,T1,Итоговый тест,T1_Q07,_T1_100,10,10
+EXP014,experimental,T1,Итоговый тест,T1_Q08,_T1_083,8.3,10
+EXP014,experimental,T1,Итоговый тест,T1_Q09,_T1_094,9.4,10
+EXP014,experimental,T1,Итоговый тест,T1_Q10,_T1_079,7.9,10
+EXP014,experimental,T2,Отложенный тест,T2_Q01,_T2_066,6.6,10
+EXP014,experimental,T2,Отложенный тест,T2_Q02,_T2_063,6.3,10
+EXP014,experimental,T2,Отложенный тест,T2_Q03,_T2_065,6.5,10
+EXP014,experimental,T2,Отложенный тест,T2_Q04,_T2_018,1.8,10
+EXP014,experimental,T2,Отложенный тест,T2_Q05,_T2_079,7.9,10
+EXP014,experimental,T2,Отложенный тест,T2_Q06,_T2_022,2.2,10
+EXP014,experimental,T2,Отложенный тест,T2_Q07,_T2_056,5.6,10
+EXP014,experimental,T2,Отложенный тест,T2_Q08,_T2_077,7.7,10
+EXP014,experimental,T2,Отложенный тест,T2_Q09,_T2_072,7.2,10
+EXP014,experimental,T2,Отложенный тест,T2_Q10,_T2_061,6.1,10
+EXP014,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_030,3,5
+EXP014,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_043,4.3,5
+EXP014,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_043,4.3,5
+EXP014,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP014,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_044,4.4,5
+EXP014,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_043,4.3,5
+EXP014,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_016,1.6,5
+EXP014,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_049,4.9,5
+EXP014,experimental,TR,Задача переноса,TR_Q01,_TR_034,3.4,5
+EXP014,experimental,TR,Задача переноса,TR_Q02,_TR_048,4.8,5
+EXP014,experimental,TR,Задача переноса,TR_Q03,_TR_027,2.7,5
+EXP014,experimental,TR,Задача переноса,TR_Q04,_TR_041,4.1,5
+EXP015,experimental,T0,Входной тест,T0_Q01,_T0_085,8.5,10
+EXP015,experimental,T0,Входной тест,T0_Q02,_T0_028,2.8,10
+EXP015,experimental,T0,Входной тест,T0_Q03,_T0_062,6.2,10
+EXP015,experimental,T0,Входной тест,T0_Q04,_T0_051,5.1,10
+EXP015,experimental,T0,Входной тест,T0_Q05,_T0_049,4.9,10
+EXP015,experimental,T0,Входной тест,T0_Q06,_T0_039,3.9,10
+EXP015,experimental,T0,Входной тест,T0_Q07,_T0_058,5.8,10
+EXP015,experimental,T0,Входной тест,T0_Q08,_T0_038,3.8,10
+EXP015,experimental,T0,Входной тест,T0_Q09,_T0_062,6.2,10
+EXP015,experimental,T0,Входной тест,T0_Q10,_T0_059,5.9,10
+EXP015,experimental,T1,Итоговый тест,T1_Q01,_T1_078,7.8,10
+EXP015,experimental,T1,Итоговый тест,T1_Q02,_T1_062,6.2,10
+EXP015,experimental,T1,Итоговый тест,T1_Q03,_T1_056,5.6,10
+EXP015,experimental,T1,Итоговый тест,T1_Q04,_T1_071,7.1,10
+EXP015,experimental,T1,Итоговый тест,T1_Q05,_T1_075,7.5,10
+EXP015,experimental,T1,Итоговый тест,T1_Q06,_T1_100,10,10
+EXP015,experimental,T1,Итоговый тест,T1_Q07,_T1_073,7.3,10
+EXP015,experimental,T1,Итоговый тест,T1_Q08,_T1_061,6.1,10
+EXP015,experimental,T1,Итоговый тест,T1_Q09,_T1_046,4.6,10
+EXP015,experimental,T1,Итоговый тест,T1_Q10,_T1_090,9,10
+EXP015,experimental,T2,Отложенный тест,T2_Q01,_T2_059,5.9,10
+EXP015,experimental,T2,Отложенный тест,T2_Q02,_T2_043,4.3,10
+EXP015,experimental,T2,Отложенный тест,T2_Q03,_T2_041,4.1,10
+EXP015,experimental,T2,Отложенный тест,T2_Q04,_T2_038,3.8,10
+EXP015,experimental,T2,Отложенный тест,T2_Q05,_T2_077,7.7,10
+EXP015,experimental,T2,Отложенный тест,T2_Q06,_T2_061,6.1,10
+EXP015,experimental,T2,Отложенный тест,T2_Q07,_T2_051,5.1,10
+EXP015,experimental,T2,Отложенный тест,T2_Q08,_T2_054,5.4,10
+EXP015,experimental,T2,Отложенный тест,T2_Q09,_T2_087,8.7,10
+EXP015,experimental,T2,Отложенный тест,T2_Q10,_T2_066,6.6,10
+EXP015,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_018,1.8,5
+EXP015,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_027,2.7,5
+EXP015,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_034,3.4,5
+EXP015,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_046,4.6,5
+EXP015,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+EXP015,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_037,3.7,5
+EXP015,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_048,4.8,5
+EXP015,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_050,5,5
+EXP015,experimental,TR,Задача переноса,TR_Q01,_TR_049,4.9,5
+EXP015,experimental,TR,Задача переноса,TR_Q02,_TR_046,4.6,5
+EXP015,experimental,TR,Задача переноса,TR_Q03,_TR_022,2.2,5
+EXP015,experimental,TR,Задача переноса,TR_Q04,_TR_018,1.8,5
+EXP016,experimental,T0,Входной тест,T0_Q01,_T0_045,4.5,10
+EXP016,experimental,T0,Входной тест,T0_Q02,_T0_038,3.8,10
+EXP016,experimental,T0,Входной тест,T0_Q03,_T0_061,6.1,10
+EXP016,experimental,T0,Входной тест,T0_Q04,_T0_038,3.8,10
+EXP016,experimental,T0,Входной тест,T0_Q05,_T0_038,3.8,10
+EXP016,experimental,T0,Входной тест,T0_Q06,_T0_047,4.7,10
+EXP016,experimental,T0,Входной тест,T0_Q07,_T0_047,4.7,10
+EXP016,experimental,T0,Входной тест,T0_Q08,_T0_042,4.2,10
+EXP016,experimental,T0,Входной тест,T0_Q09,_T0_043,4.3,10
+EXP016,experimental,T0,Входной тест,T0_Q10,_T0_089,8.9,10
+EXP016,experimental,T1,Итоговый тест,T1_Q01,_T1_054,5.4,10
+EXP016,experimental,T1,Итоговый тест,T1_Q02,_T1_047,4.7,10
+EXP016,experimental,T1,Итоговый тест,T1_Q03,_T1_075,7.5,10
+EXP016,experimental,T1,Итоговый тест,T1_Q04,_T1_057,5.7,10
+EXP016,experimental,T1,Итоговый тест,T1_Q05,_T1_100,10,10
+EXP016,experimental,T1,Итоговый тест,T1_Q06,_T1_073,7.3,10
+EXP016,experimental,T1,Итоговый тест,T1_Q07,_T1_086,8.6,10
+EXP016,experimental,T1,Итоговый тест,T1_Q08,_T1_085,8.5,10
+EXP016,experimental,T1,Итоговый тест,T1_Q09,_T1_052,5.2,10
+EXP016,experimental,T1,Итоговый тест,T1_Q10,_T1_061,6.1,10
+EXP016,experimental,T2,Отложенный тест,T2_Q01,_T2_046,4.6,10
+EXP016,experimental,T2,Отложенный тест,T2_Q02,_T2_032,3.2,10
+EXP016,experimental,T2,Отложенный тест,T2_Q03,_T2_087,8.7,10
+EXP016,experimental,T2,Отложенный тест,T2_Q04,_T2_040,4,10
+EXP016,experimental,T2,Отложенный тест,T2_Q05,_T2_032,3.2,10
+EXP016,experimental,T2,Отложенный тест,T2_Q06,_T2_069,6.9,10
+EXP016,experimental,T2,Отложенный тест,T2_Q07,_T2_061,6.1,10
+EXP016,experimental,T2,Отложенный тест,T2_Q08,_T2_092,9.2,10
+EXP016,experimental,T2,Отложенный тест,T2_Q09,_T2_073,7.3,10
+EXP016,experimental,T2,Отложенный тест,T2_Q10,_T2_063,6.3,10
+EXP016,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_040,4,5
+EXP016,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_047,4.7,5
+EXP016,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_018,1.8,5
+EXP016,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_027,2.7,5
+EXP016,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_037,3.7,5
+EXP016,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_023,2.3,5
+EXP016,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_016,1.6,5
+EXP016,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_011,1.1,5
+EXP016,experimental,TR,Задача переноса,TR_Q01,_TR_050,5,5
+EXP016,experimental,TR,Задача переноса,TR_Q02,_TR_050,5,5
+EXP016,experimental,TR,Задача переноса,TR_Q03,_TR_034,3.4,5
+EXP016,experimental,TR,Задача переноса,TR_Q04,_TR_050,5,5
+EXP017,experimental,T0,Входной тест,T0_Q01,_T0_071,7.1,10
+EXP017,experimental,T0,Входной тест,T0_Q02,_T0_061,6.1,10
+EXP017,experimental,T0,Входной тест,T0_Q03,_T0_067,6.7,10
+EXP017,experimental,T0,Входной тест,T0_Q04,_T0_071,7.1,10
+EXP017,experimental,T0,Входной тест,T0_Q05,_T0_070,7,10
+EXP017,experimental,T0,Входной тест,T0_Q06,_T0_080,8,10
+EXP017,experimental,T0,Входной тест,T0_Q07,_T0_053,5.3,10
+EXP017,experimental,T0,Входной тест,T0_Q08,_T0_069,6.9,10
+EXP017,experimental,T0,Входной тест,T0_Q09,_T0_075,7.5,10
+EXP017,experimental,T0,Входной тест,T0_Q10,_T0_080,8,10
+EXP017,experimental,T1,Итоговый тест,T1_Q01,_T1_085,8.5,10
+EXP017,experimental,T1,Итоговый тест,T1_Q02,_T1_093,9.3,10
+EXP017,experimental,T1,Итоговый тест,T1_Q03,_T1_100,10,10
+EXP017,experimental,T1,Итоговый тест,T1_Q04,_T1_069,6.9,10
+EXP017,experimental,T1,Итоговый тест,T1_Q05,_T1_075,7.5,10
+EXP017,experimental,T1,Итоговый тест,T1_Q06,_T1_076,7.6,10
+EXP017,experimental,T1,Итоговый тест,T1_Q07,_T1_080,8,10
+EXP017,experimental,T1,Итоговый тест,T1_Q08,_T1_070,7,10
+EXP017,experimental,T1,Итоговый тест,T1_Q09,_T1_100,10,10
+EXP017,experimental,T1,Итоговый тест,T1_Q10,_T1_053,5.3,10
+EXP017,experimental,T2,Отложенный тест,T2_Q01,_T2_078,7.8,10
+EXP017,experimental,T2,Отложенный тест,T2_Q02,_T2_084,8.4,10
+EXP017,experimental,T2,Отложенный тест,T2_Q03,_T2_096,9.6,10
+EXP017,experimental,T2,Отложенный тест,T2_Q04,_T2_097,9.7,10
+EXP017,experimental,T2,Отложенный тест,T2_Q05,_T2_089,8.9,10
+EXP017,experimental,T2,Отложенный тест,T2_Q06,_T2_077,7.7,10
+EXP017,experimental,T2,Отложенный тест,T2_Q07,_T2_059,5.9,10
+EXP017,experimental,T2,Отложенный тест,T2_Q08,_T2_090,9,10
+EXP017,experimental,T2,Отложенный тест,T2_Q09,_T2_067,6.7,10
+EXP017,experimental,T2,Отложенный тест,T2_Q10,_T2_056,5.6,10
+EXP017,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+EXP017,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+EXP017,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_050,5,5
+EXP017,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_046,4.6,5
+EXP017,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+EXP017,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_044,4.4,5
+EXP017,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_050,5,5
+EXP017,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_025,2.5,5
+EXP017,experimental,TR,Задача переноса,TR_Q01,_TR_038,3.8,5
+EXP017,experimental,TR,Задача переноса,TR_Q02,_TR_050,5,5
+EXP017,experimental,TR,Задача переноса,TR_Q03,_TR_050,5,5
+EXP017,experimental,TR,Задача переноса,TR_Q04,_TR_050,5,5
+EXP018,experimental,T0,Входной тест,T0_Q01,_T0_024,2.4,10
+EXP018,experimental,T0,Входной тест,T0_Q02,_T0_067,6.7,10
+EXP018,experimental,T0,Входной тест,T0_Q03,_T0_031,3.1,10
+EXP018,experimental,T0,Входной тест,T0_Q04,_T0_059,5.9,10
+EXP018,experimental,T0,Входной тест,T0_Q05,_T0_027,2.7,10
+EXP018,experimental,T0,Входной тест,T0_Q06,_T0_058,5.8,10
+EXP018,experimental,T0,Входной тест,T0_Q07,_T0_076,7.6,10
+EXP018,experimental,T0,Входной тест,T0_Q08,_T0_073,7.3,10
+EXP018,experimental,T0,Входной тест,T0_Q09,_T0_054,5.4,10
+EXP018,experimental,T0,Входной тест,T0_Q10,_T0_053,5.3,10
+EXP018,experimental,T1,Итоговый тест,T1_Q01,_T1_094,9.4,10
+EXP018,experimental,T1,Итоговый тест,T1_Q02,_T1_078,7.8,10
+EXP018,experimental,T1,Итоговый тест,T1_Q03,_T1_035,3.5,10
+EXP018,experimental,T1,Итоговый тест,T1_Q04,_T1_088,8.8,10
+EXP018,experimental,T1,Итоговый тест,T1_Q05,_T1_070,7,10
+EXP018,experimental,T1,Итоговый тест,T1_Q06,_T1_050,5,10
+EXP018,experimental,T1,Итоговый тест,T1_Q07,_T1_034,3.4,10
+EXP018,experimental,T1,Итоговый тест,T1_Q08,_T1_064,6.4,10
+EXP018,experimental,T1,Итоговый тест,T1_Q09,_T1_069,6.9,10
+EXP018,experimental,T1,Итоговый тест,T1_Q10,_T1_100,10,10
+EXP018,experimental,T2,Отложенный тест,T2_Q01,_T2_062,6.2,10
+EXP018,experimental,T2,Отложенный тест,T2_Q02,_T2_036,3.6,10
+EXP018,experimental,T2,Отложенный тест,T2_Q03,_T2_040,4,10
+EXP018,experimental,T2,Отложенный тест,T2_Q04,_T2_086,8.6,10
+EXP018,experimental,T2,Отложенный тест,T2_Q05,_T2_050,5,10
+EXP018,experimental,T2,Отложенный тест,T2_Q06,_T2_046,4.6,10
+EXP018,experimental,T2,Отложенный тест,T2_Q07,_T2_060,6,10
+EXP018,experimental,T2,Отложенный тест,T2_Q08,_T2_075,7.5,10
+EXP018,experimental,T2,Отложенный тест,T2_Q09,_T2_051,5.1,10
+EXP018,experimental,T2,Отложенный тест,T2_Q10,_T2_040,4,10
+EXP018,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_036,3.6,5
+EXP018,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+EXP018,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_050,5,5
+EXP018,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_030,3,5
+EXP018,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+EXP018,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_025,2.5,5
+EXP018,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_030,3,5
+EXP018,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_015,1.5,5
+EXP018,experimental,TR,Задача переноса,TR_Q01,_TR_043,4.3,5
+EXP018,experimental,TR,Задача переноса,TR_Q02,_TR_047,4.7,5
+EXP018,experimental,TR,Задача переноса,TR_Q03,_TR_028,2.8,5
+EXP018,experimental,TR,Задача переноса,TR_Q04,_TR_024,2.4,5
+EXP019,experimental,T0,Входной тест,T0_Q01,_T0_056,5.6,10
+EXP019,experimental,T0,Входной тест,T0_Q02,_T0_070,7,10
+EXP019,experimental,T0,Входной тест,T0_Q03,_T0_070,7,10
+EXP019,experimental,T0,Входной тест,T0_Q04,_T0_077,7.7,10
+EXP019,experimental,T0,Входной тест,T0_Q05,_T0_085,8.5,10
+EXP019,experimental,T0,Входной тест,T0_Q06,_T0_032,3.2,10
+EXP019,experimental,T0,Входной тест,T0_Q07,_T0_030,3,10
+EXP019,experimental,T0,Входной тест,T0_Q08,_T0_091,9.1,10
+EXP019,experimental,T0,Входной тест,T0_Q09,_T0_075,7.5,10
+EXP019,experimental,T0,Входной тест,T0_Q10,_T0_056,5.6,10
+EXP019,experimental,T1,Итоговый тест,T1_Q01,_T1_063,6.3,10
+EXP019,experimental,T1,Итоговый тест,T1_Q02,_T1_090,9,10
+EXP019,experimental,T1,Итоговый тест,T1_Q03,_T1_080,8,10
+EXP019,experimental,T1,Итоговый тест,T1_Q04,_T1_071,7.1,10
+EXP019,experimental,T1,Итоговый тест,T1_Q05,_T1_063,6.3,10
+EXP019,experimental,T1,Итоговый тест,T1_Q06,_T1_069,6.9,10
+EXP019,experimental,T1,Итоговый тест,T1_Q07,_T1_091,9.1,10
+EXP019,experimental,T1,Итоговый тест,T1_Q08,_T1_089,8.9,10
+EXP019,experimental,T1,Итоговый тест,T1_Q09,_T1_074,7.4,10
+EXP019,experimental,T1,Итоговый тест,T1_Q10,_T1_043,4.3,10
+EXP019,experimental,T2,Отложенный тест,T2_Q01,_T2_100,10,10
+EXP019,experimental,T2,Отложенный тест,T2_Q02,_T2_100,10,10
+EXP019,experimental,T2,Отложенный тест,T2_Q03,_T2_072,7.2,10
+EXP019,experimental,T2,Отложенный тест,T2_Q04,_T2_063,6.3,10
+EXP019,experimental,T2,Отложенный тест,T2_Q05,_T2_057,5.7,10
+EXP019,experimental,T2,Отложенный тест,T2_Q06,_T2_053,5.3,10
+EXP019,experimental,T2,Отложенный тест,T2_Q07,_T2_056,5.6,10
+EXP019,experimental,T2,Отложенный тест,T2_Q08,_T2_080,8,10
+EXP019,experimental,T2,Отложенный тест,T2_Q09,_T2_077,7.7,10
+EXP019,experimental,T2,Отложенный тест,T2_Q10,_T2_058,5.8,10
+EXP019,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_036,3.6,5
+EXP019,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_042,4.2,5
+EXP019,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_046,4.6,5
+EXP019,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP019,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_027,2.7,5
+EXP019,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_042,4.2,5
+EXP019,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_039,3.9,5
+EXP019,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_050,5,5
+EXP019,experimental,TR,Задача переноса,TR_Q01,_TR_050,5,5
+EXP019,experimental,TR,Задача переноса,TR_Q02,_TR_050,5,5
+EXP019,experimental,TR,Задача переноса,TR_Q03,_TR_050,5,5
+EXP019,experimental,TR,Задача переноса,TR_Q04,_TR_050,5,5
+EXP020,experimental,T0,Входной тест,T0_Q01,_T0_071,7.1,10
+EXP020,experimental,T0,Входной тест,T0_Q02,_T0_082,8.2,10
+EXP020,experimental,T0,Входной тест,T0_Q03,_T0_053,5.3,10
+EXP020,experimental,T0,Входной тест,T0_Q04,_T0_054,5.4,10
+EXP020,experimental,T0,Входной тест,T0_Q05,_T0_052,5.2,10
+EXP020,experimental,T0,Входной тест,T0_Q06,_T0_071,7.1,10
+EXP020,experimental,T0,Входной тест,T0_Q07,_T0_061,6.1,10
+EXP020,experimental,T0,Входной тест,T0_Q08,_T0_028,2.8,10
+EXP020,experimental,T0,Входной тест,T0_Q09,_T0_057,5.7,10
+EXP020,experimental,T0,Входной тест,T0_Q10,_T0_069,6.9,10
+EXP020,experimental,T1,Итоговый тест,T1_Q01,_T1_069,6.9,10
+EXP020,experimental,T1,Итоговый тест,T1_Q02,_T1_076,7.6,10
+EXP020,experimental,T1,Итоговый тест,T1_Q03,_T1_100,10,10
+EXP020,experimental,T1,Итоговый тест,T1_Q04,_T1_028,2.8,10
+EXP020,experimental,T1,Итоговый тест,T1_Q05,_T1_073,7.3,10
+EXP020,experimental,T1,Итоговый тест,T1_Q06,_T1_100,10,10
+EXP020,experimental,T1,Итоговый тест,T1_Q07,_T1_072,7.2,10
+EXP020,experimental,T1,Итоговый тест,T1_Q08,_T1_076,7.6,10
+EXP020,experimental,T1,Итоговый тест,T1_Q09,_T1_048,4.8,10
+EXP020,experimental,T1,Итоговый тест,T1_Q10,_T1_063,6.3,10
+EXP020,experimental,T2,Отложенный тест,T2_Q01,_T2_090,9,10
+EXP020,experimental,T2,Отложенный тест,T2_Q02,_T2_051,5.1,10
+EXP020,experimental,T2,Отложенный тест,T2_Q03,_T2_070,7,10
+EXP020,experimental,T2,Отложенный тест,T2_Q04,_T2_066,6.6,10
+EXP020,experimental,T2,Отложенный тест,T2_Q05,_T2_068,6.8,10
+EXP020,experimental,T2,Отложенный тест,T2_Q06,_T2_047,4.7,10
+EXP020,experimental,T2,Отложенный тест,T2_Q07,_T2_078,7.8,10
+EXP020,experimental,T2,Отложенный тест,T2_Q08,_T2_052,5.2,10
+EXP020,experimental,T2,Отложенный тест,T2_Q09,_T2_047,4.7,10
+EXP020,experimental,T2,Отложенный тест,T2_Q10,_T2_092,9.2,10
+EXP020,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_039,3.9,5
+EXP020,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+EXP020,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_043,4.3,5
+EXP020,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_047,4.7,5
+EXP020,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+EXP020,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_049,4.9,5
+EXP020,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_043,4.3,5
+EXP020,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_050,5,5
+EXP020,experimental,TR,Задача переноса,TR_Q01,_TR_050,5,5
+EXP020,experimental,TR,Задача переноса,TR_Q02,_TR_048,4.8,5
+EXP020,experimental,TR,Задача переноса,TR_Q03,_TR_048,4.8,5
+EXP020,experimental,TR,Задача переноса,TR_Q04,_TR_032,3.2,5
+EXP021,experimental,T0,Входной тест,T0_Q01,_T0_100,10,10
+EXP021,experimental,T0,Входной тест,T0_Q02,_T0_097,9.7,10
+EXP021,experimental,T0,Входной тест,T0_Q03,_T0_058,5.8,10
+EXP021,experimental,T0,Входной тест,T0_Q04,_T0_045,4.5,10
+EXP021,experimental,T0,Входной тест,T0_Q05,_T0_061,6.1,10
+EXP021,experimental,T0,Входной тест,T0_Q06,_T0_040,4,10
+EXP021,experimental,T0,Входной тест,T0_Q07,_T0_035,3.5,10
+EXP021,experimental,T0,Входной тест,T0_Q08,_T0_069,6.9,10
+EXP021,experimental,T0,Входной тест,T0_Q09,_T0_099,9.9,10
+EXP021,experimental,T0,Входной тест,T0_Q10,_T0_063,6.3,10
+EXP021,experimental,T1,Итоговый тест,T1_Q01,_T1_063,6.3,10
+EXP021,experimental,T1,Итоговый тест,T1_Q02,_T1_075,7.5,10
+EXP021,experimental,T1,Итоговый тест,T1_Q03,_T1_070,7,10
+EXP021,experimental,T1,Итоговый тест,T1_Q04,_T1_100,10,10
+EXP021,experimental,T1,Итоговый тест,T1_Q05,_T1_064,6.4,10
+EXP021,experimental,T1,Итоговый тест,T1_Q06,_T1_073,7.3,10
+EXP021,experimental,T1,Итоговый тест,T1_Q07,_T1_064,6.4,10
+EXP021,experimental,T1,Итоговый тест,T1_Q08,_T1_059,5.9,10
+EXP021,experimental,T1,Итоговый тест,T1_Q09,_T1_064,6.4,10
+EXP021,experimental,T1,Итоговый тест,T1_Q10,_T1_083,8.3,10
+EXP021,experimental,T2,Отложенный тест,T2_Q01,_T2_058,5.8,10
+EXP021,experimental,T2,Отложенный тест,T2_Q02,_T2_049,4.9,10
+EXP021,experimental,T2,Отложенный тест,T2_Q03,_T2_066,6.6,10
+EXP021,experimental,T2,Отложенный тест,T2_Q04,_T2_076,7.6,10
+EXP021,experimental,T2,Отложенный тест,T2_Q05,_T2_077,7.7,10
+EXP021,experimental,T2,Отложенный тест,T2_Q06,_T2_069,6.9,10
+EXP021,experimental,T2,Отложенный тест,T2_Q07,_T2_077,7.7,10
+EXP021,experimental,T2,Отложенный тест,T2_Q08,_T2_054,5.4,10
+EXP021,experimental,T2,Отложенный тест,T2_Q09,_T2_071,7.1,10
+EXP021,experimental,T2,Отложенный тест,T2_Q10,_T2_068,6.8,10
+EXP021,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+EXP021,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_033,3.3,5
+EXP021,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_042,4.2,5
+EXP021,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP021,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_030,3,5
+EXP021,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_050,5,5
+EXP021,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_039,3.9,5
+EXP021,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_050,5,5
+EXP021,experimental,TR,Задача переноса,TR_Q01,_TR_050,5,5
+EXP021,experimental,TR,Задача переноса,TR_Q02,_TR_050,5,5
+EXP021,experimental,TR,Задача переноса,TR_Q03,_TR_050,5,5
+EXP021,experimental,TR,Задача переноса,TR_Q04,_TR_050,5,5
+EXP022,experimental,T0,Входной тест,T0_Q01,_T0_043,4.3,10
+EXP022,experimental,T0,Входной тест,T0_Q02,_T0_042,4.2,10
+EXP022,experimental,T0,Входной тест,T0_Q03,_T0_034,3.4,10
+EXP022,experimental,T0,Входной тест,T0_Q04,_T0_033,3.3,10
+EXP022,experimental,T0,Входной тест,T0_Q05,_T0_029,2.9,10
+EXP022,experimental,T0,Входной тест,T0_Q06,_T0_024,2.4,10
+EXP022,experimental,T0,Входной тест,T0_Q07,_T0_046,4.6,10
+EXP022,experimental,T0,Входной тест,T0_Q08,_T0_055,5.5,10
+EXP022,experimental,T0,Входной тест,T0_Q09,_T0_074,7.4,10
+EXP022,experimental,T0,Входной тест,T0_Q10,_T0_052,5.2,10
+EXP022,experimental,T1,Итоговый тест,T1_Q01,_T1_057,5.7,10
+EXP022,experimental,T1,Итоговый тест,T1_Q02,_T1_090,9,10
+EXP022,experimental,T1,Итоговый тест,T1_Q03,_T1_070,7,10
+EXP022,experimental,T1,Итоговый тест,T1_Q04,_T1_074,7.4,10
+EXP022,experimental,T1,Итоговый тест,T1_Q05,_T1_051,5.1,10
+EXP022,experimental,T1,Итоговый тест,T1_Q06,_T1_035,3.5,10
+EXP022,experimental,T1,Итоговый тест,T1_Q07,_T1_063,6.3,10
+EXP022,experimental,T1,Итоговый тест,T1_Q08,_T1_072,7.2,10
+EXP022,experimental,T1,Итоговый тест,T1_Q09,_T1_045,4.5,10
+EXP022,experimental,T1,Итоговый тест,T1_Q10,_T1_047,4.7,10
+EXP022,experimental,T2,Отложенный тест,T2_Q01,_T2_032,3.2,10
+EXP022,experimental,T2,Отложенный тест,T2_Q02,_T2_042,4.2,10
+EXP022,experimental,T2,Отложенный тест,T2_Q03,_T2_040,4,10
+EXP022,experimental,T2,Отложенный тест,T2_Q04,_T2_046,4.6,10
+EXP022,experimental,T2,Отложенный тест,T2_Q05,_T2_046,4.6,10
+EXP022,experimental,T2,Отложенный тест,T2_Q06,_T2_071,7.1,10
+EXP022,experimental,T2,Отложенный тест,T2_Q07,_T2_033,3.3,10
+EXP022,experimental,T2,Отложенный тест,T2_Q08,_T2_024,2.4,10
+EXP022,experimental,T2,Отложенный тест,T2_Q09,_T2_053,5.3,10
+EXP022,experimental,T2,Отложенный тест,T2_Q10,_T2_068,6.8,10
+EXP022,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+EXP022,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+EXP022,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_023,2.3,5
+EXP022,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP022,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_016,1.6,5
+EXP022,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_046,4.6,5
+EXP022,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_026,2.6,5
+EXP022,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_035,3.5,5
+EXP022,experimental,TR,Задача переноса,TR_Q01,_TR_038,3.8,5
+EXP022,experimental,TR,Задача переноса,TR_Q02,_TR_043,4.3,5
+EXP022,experimental,TR,Задача переноса,TR_Q03,_TR_027,2.7,5
+EXP022,experimental,TR,Задача переноса,TR_Q04,_TR_036,3.6,5
+EXP023,experimental,T0,Входной тест,T0_Q01,_T0_042,4.2,10
+EXP023,experimental,T0,Входной тест,T0_Q02,_T0_049,4.9,10
+EXP023,experimental,T0,Входной тест,T0_Q03,_T0_055,5.5,10
+EXP023,experimental,T0,Входной тест,T0_Q04,_T0_078,7.8,10
+EXP023,experimental,T0,Входной тест,T0_Q05,_T0_059,5.9,10
+EXP023,experimental,T0,Входной тест,T0_Q06,_T0_029,2.9,10
+EXP023,experimental,T0,Входной тест,T0_Q07,_T0_072,7.2,10
+EXP023,experimental,T0,Входной тест,T0_Q08,_T0_026,2.6,10
+EXP023,experimental,T0,Входной тест,T0_Q09,_T0_069,6.9,10
+EXP023,experimental,T0,Входной тест,T0_Q10,_T0_039,3.9,10
+EXP023,experimental,T1,Итоговый тест,T1_Q01,_T1_044,4.4,10
+EXP023,experimental,T1,Итоговый тест,T1_Q02,_T1_062,6.2,10
+EXP023,experimental,T1,Итоговый тест,T1_Q03,_T1_082,8.2,10
+EXP023,experimental,T1,Итоговый тест,T1_Q04,_T1_091,9.1,10
+EXP023,experimental,T1,Итоговый тест,T1_Q05,_T1_076,7.6,10
+EXP023,experimental,T1,Итоговый тест,T1_Q06,_T1_087,8.7,10
+EXP023,experimental,T1,Итоговый тест,T1_Q07,_T1_066,6.6,10
+EXP023,experimental,T1,Итоговый тест,T1_Q08,_T1_098,9.8,10
+EXP023,experimental,T1,Итоговый тест,T1_Q09,_T1_076,7.6,10
+EXP023,experimental,T1,Итоговый тест,T1_Q10,_T1_064,6.4,10
+EXP023,experimental,T2,Отложенный тест,T2_Q01,_T2_054,5.4,10
+EXP023,experimental,T2,Отложенный тест,T2_Q02,_T2_090,9,10
+EXP023,experimental,T2,Отложенный тест,T2_Q03,_T2_086,8.6,10
+EXP023,experimental,T2,Отложенный тест,T2_Q04,_T2_047,4.7,10
+EXP023,experimental,T2,Отложенный тест,T2_Q05,_T2_070,7,10
+EXP023,experimental,T2,Отложенный тест,T2_Q06,_T2_053,5.3,10
+EXP023,experimental,T2,Отложенный тест,T2_Q07,_T2_075,7.5,10
+EXP023,experimental,T2,Отложенный тест,T2_Q08,_T2_083,8.3,10
+EXP023,experimental,T2,Отложенный тест,T2_Q09,_T2_078,7.8,10
+EXP023,experimental,T2,Отложенный тест,T2_Q10,_T2_051,5.1,10
+EXP023,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_047,4.7,5
+EXP023,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_044,4.4,5
+EXP023,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_035,3.5,5
+EXP023,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP023,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_033,3.3,5
+EXP023,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_028,2.8,5
+EXP023,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_050,5,5
+EXP023,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_041,4.1,5
+EXP023,experimental,TR,Задача переноса,TR_Q01,_TR_033,3.3,5
+EXP023,experimental,TR,Задача переноса,TR_Q02,_TR_032,3.2,5
+EXP023,experimental,TR,Задача переноса,TR_Q03,_TR_050,5,5
+EXP023,experimental,TR,Задача переноса,TR_Q04,_TR_044,4.4,5
+EXP024,experimental,T0,Входной тест,T0_Q01,_T0_054,5.4,10
+EXP024,experimental,T0,Входной тест,T0_Q02,_T0_087,8.7,10
+EXP024,experimental,T0,Входной тест,T0_Q03,_T0_057,5.7,10
+EXP024,experimental,T0,Входной тест,T0_Q04,_T0_021,2.1,10
+EXP024,experimental,T0,Входной тест,T0_Q05,_T0_047,4.7,10
+EXP024,experimental,T0,Входной тест,T0_Q06,_T0_072,7.2,10
+EXP024,experimental,T0,Входной тест,T0_Q07,_T0_039,3.9,10
+EXP024,experimental,T0,Входной тест,T0_Q08,_T0_024,2.4,10
+EXP024,experimental,T0,Входной тест,T0_Q09,_T0_059,5.9,10
+EXP024,experimental,T0,Входной тест,T0_Q10,_T0_041,4.1,10
+EXP024,experimental,T1,Итоговый тест,T1_Q01,_T1_073,7.3,10
+EXP024,experimental,T1,Итоговый тест,T1_Q02,_T1_073,7.3,10
+EXP024,experimental,T1,Итоговый тест,T1_Q03,_T1_066,6.6,10
+EXP024,experimental,T1,Итоговый тест,T1_Q04,_T1_083,8.3,10
+EXP024,experimental,T1,Итоговый тест,T1_Q05,_T1_100,10,10
+EXP024,experimental,T1,Итоговый тест,T1_Q06,_T1_062,6.2,10
+EXP024,experimental,T1,Итоговый тест,T1_Q07,_T1_065,6.5,10
+EXP024,experimental,T1,Итоговый тест,T1_Q08,_T1_069,6.9,10
+EXP024,experimental,T1,Итоговый тест,T1_Q09,_T1_082,8.2,10
+EXP024,experimental,T1,Итоговый тест,T1_Q10,_T1_075,7.5,10
+EXP024,experimental,T2,Отложенный тест,T2_Q01,_T2_069,6.9,10
+EXP024,experimental,T2,Отложенный тест,T2_Q02,_T2_067,6.7,10
+EXP024,experimental,T2,Отложенный тест,T2_Q03,_T2_047,4.7,10
+EXP024,experimental,T2,Отложенный тест,T2_Q04,_T2_023,2.3,10
+EXP024,experimental,T2,Отложенный тест,T2_Q05,_T2_071,7.1,10
+EXP024,experimental,T2,Отложенный тест,T2_Q06,_T2_042,4.2,10
+EXP024,experimental,T2,Отложенный тест,T2_Q07,_T2_054,5.4,10
+EXP024,experimental,T2,Отложенный тест,T2_Q08,_T2_052,5.2,10
+EXP024,experimental,T2,Отложенный тест,T2_Q09,_T2_041,4.1,10
+EXP024,experimental,T2,Отложенный тест,T2_Q10,_T2_033,3.3,10
+EXP024,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_047,4.7,5
+EXP024,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+EXP024,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_039,3.9,5
+EXP024,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP024,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_026,2.6,5
+EXP024,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_026,2.6,5
+EXP024,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_050,5,5
+EXP024,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_033,3.3,5
+EXP024,experimental,TR,Задача переноса,TR_Q01,_TR_043,4.3,5
+EXP024,experimental,TR,Задача переноса,TR_Q02,_TR_028,2.8,5
+EXP024,experimental,TR,Задача переноса,TR_Q03,_TR_043,4.3,5
+EXP024,experimental,TR,Задача переноса,TR_Q04,_TR_040,4,5
+EXP025,experimental,T0,Входной тест,T0_Q01,_T0_074,7.4,10
+EXP025,experimental,T0,Входной тест,T0_Q02,_T0_038,3.8,10
+EXP025,experimental,T0,Входной тест,T0_Q03,_T0_089,8.9,10
+EXP025,experimental,T0,Входной тест,T0_Q04,_T0_062,6.2,10
+EXP025,experimental,T0,Входной тест,T0_Q05,_T0_055,5.5,10
+EXP025,experimental,T0,Входной тест,T0_Q06,_T0_019,1.9,10
+EXP025,experimental,T0,Входной тест,T0_Q07,_T0_080,8,10
+EXP025,experimental,T0,Входной тест,T0_Q08,_T0_071,7.1,10
+EXP025,experimental,T0,Входной тест,T0_Q09,_T0_068,6.8,10
+EXP025,experimental,T0,Входной тест,T0_Q10,_T0_064,6.4,10
+EXP025,experimental,T1,Итоговый тест,T1_Q01,_T1_050,5,10
+EXP025,experimental,T1,Итоговый тест,T1_Q02,_T1_089,8.9,10
+EXP025,experimental,T1,Итоговый тест,T1_Q03,_T1_093,9.3,10
+EXP025,experimental,T1,Итоговый тест,T1_Q04,_T1_097,9.7,10
+EXP025,experimental,T1,Итоговый тест,T1_Q05,_T1_093,9.3,10
+EXP025,experimental,T1,Итоговый тест,T1_Q06,_T1_055,5.5,10
+EXP025,experimental,T1,Итоговый тест,T1_Q07,_T1_100,10,10
+EXP025,experimental,T1,Итоговый тест,T1_Q08,_T1_100,10,10
+EXP025,experimental,T1,Итоговый тест,T1_Q09,_T1_047,4.7,10
+EXP025,experimental,T1,Итоговый тест,T1_Q10,_T1_066,6.6,10
+EXP025,experimental,T2,Отложенный тест,T2_Q01,_T2_078,7.8,10
+EXP025,experimental,T2,Отложенный тест,T2_Q02,_T2_080,8,10
+EXP025,experimental,T2,Отложенный тест,T2_Q03,_T2_046,4.6,10
+EXP025,experimental,T2,Отложенный тест,T2_Q04,_T2_088,8.8,10
+EXP025,experimental,T2,Отложенный тест,T2_Q05,_T2_072,7.2,10
+EXP025,experimental,T2,Отложенный тест,T2_Q06,_T2_065,6.5,10
+EXP025,experimental,T2,Отложенный тест,T2_Q07,_T2_100,10,10
+EXP025,experimental,T2,Отложенный тест,T2_Q08,_T2_084,8.4,10
+EXP025,experimental,T2,Отложенный тест,T2_Q09,_T2_057,5.7,10
+EXP025,experimental,T2,Отложенный тест,T2_Q10,_T2_052,5.2,10
+EXP025,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_044,4.4,5
+EXP025,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+EXP025,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_047,4.7,5
+EXP025,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+EXP025,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_048,4.8,5
+EXP025,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_050,5,5
+EXP025,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_050,5,5
+EXP025,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_042,4.2,5
+EXP025,experimental,TR,Задача переноса,TR_Q01,_TR_046,4.6,5
+EXP025,experimental,TR,Задача переноса,TR_Q02,_TR_045,4.5,5
+EXP025,experimental,TR,Задача переноса,TR_Q03,_TR_044,4.4,5
+EXP025,experimental,TR,Задача переноса,TR_Q04,_TR_034,3.4,5
+EXP026,experimental,T0,Входной тест,T0_Q01,_T0_043,4.3,10
+EXP026,experimental,T0,Входной тест,T0_Q02,_T0_010,1,10
+EXP026,experimental,T0,Входной тест,T0_Q03,_T0_045,4.5,10
+EXP026,experimental,T0,Входной тест,T0_Q04,_T0_036,3.6,10
+EXP026,experimental,T0,Входной тест,T0_Q05,_T0_030,3,10
+EXP026,experimental,T0,Входной тест,T0_Q06,_T0_061,6.1,10
+EXP026,experimental,T0,Входной тест,T0_Q07,_T0_039,3.9,10
+EXP026,experimental,T0,Входной тест,T0_Q08,_T0_046,4.6,10
+EXP026,experimental,T0,Входной тест,T0_Q09,_T0_043,4.3,10
+EXP026,experimental,T0,Входной тест,T0_Q10,_T0_047,4.7,10
+EXP026,experimental,T1,Итоговый тест,T1_Q01,_T1_074,7.4,10
+EXP026,experimental,T1,Итоговый тест,T1_Q02,_T1_081,8.1,10
+EXP026,experimental,T1,Итоговый тест,T1_Q03,_T1_087,8.7,10
+EXP026,experimental,T1,Итоговый тест,T1_Q04,_T1_052,5.2,10
+EXP026,experimental,T1,Итоговый тест,T1_Q05,_T1_099,9.9,10
+EXP026,experimental,T1,Итоговый тест,T1_Q06,_T1_072,7.2,10
+EXP026,experimental,T1,Итоговый тест,T1_Q07,_T1_070,7,10
+EXP026,experimental,T1,Итоговый тест,T1_Q08,_T1_067,6.7,10
+EXP026,experimental,T1,Итоговый тест,T1_Q09,_T1_086,8.6,10
+EXP026,experimental,T1,Итоговый тест,T1_Q10,_T1_047,4.7,10
+EXP026,experimental,T2,Отложенный тест,T2_Q01,_T2_058,5.8,10
+EXP026,experimental,T2,Отложенный тест,T2_Q02,_T2_075,7.5,10
+EXP026,experimental,T2,Отложенный тест,T2_Q03,_T2_070,7,10
+EXP026,experimental,T2,Отложенный тест,T2_Q04,_T2_064,6.4,10
+EXP026,experimental,T2,Отложенный тест,T2_Q05,_T2_061,6.1,10
+EXP026,experimental,T2,Отложенный тест,T2_Q06,_T2_050,5,10
+EXP026,experimental,T2,Отложенный тест,T2_Q07,_T2_059,5.9,10
+EXP026,experimental,T2,Отложенный тест,T2_Q08,_T2_083,8.3,10
+EXP026,experimental,T2,Отложенный тест,T2_Q09,_T2_067,6.7,10
+EXP026,experimental,T2,Отложенный тест,T2_Q10,_T2_073,7.3,10
+EXP026,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_022,2.2,5
+EXP026,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_041,4.1,5
+EXP026,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_032,3.2,5
+EXP026,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_028,2.8,5
+EXP026,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_036,3.6,5
+EXP026,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_027,2.7,5
+EXP026,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_034,3.4,5
+EXP026,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_044,4.4,5
+EXP026,experimental,TR,Задача переноса,TR_Q01,_TR_037,3.7,5
+EXP026,experimental,TR,Задача переноса,TR_Q02,_TR_032,3.2,5
+EXP026,experimental,TR,Задача переноса,TR_Q03,_TR_024,2.4,5
+EXP026,experimental,TR,Задача переноса,TR_Q04,_TR_022,2.2,5
+EXP027,experimental,T0,Входной тест,T0_Q01,_T0_035,3.5,10
+EXP027,experimental,T0,Входной тест,T0_Q02,_T0_021,2.1,10
+EXP027,experimental,T0,Входной тест,T0_Q03,_T0_052,5.2,10
+EXP027,experimental,T0,Входной тест,T0_Q04,_T0_054,5.4,10
+EXP027,experimental,T0,Входной тест,T0_Q05,_T0_039,3.9,10
+EXP027,experimental,T0,Входной тест,T0_Q06,_T0_031,3.1,10
+EXP027,experimental,T0,Входной тест,T0_Q07,_T0_049,4.9,10
+EXP027,experimental,T0,Входной тест,T0_Q08,_T0_019,1.9,10
+EXP027,experimental,T0,Входной тест,T0_Q09,_T0_010,1,10
+EXP027,experimental,T0,Входной тест,T0_Q10,_T0_031,3.1,10
+EXP027,experimental,T1,Итоговый тест,T1_Q01,_T1_057,5.7,10
+EXP027,experimental,T1,Итоговый тест,T1_Q02,_T1_063,6.3,10
+EXP027,experimental,T1,Итоговый тест,T1_Q03,_T1_047,4.7,10
+EXP027,experimental,T1,Итоговый тест,T1_Q04,_T1_074,7.4,10
+EXP027,experimental,T1,Итоговый тест,T1_Q05,_T1_043,4.3,10
+EXP027,experimental,T1,Итоговый тест,T1_Q06,_T1_070,7,10
+EXP027,experimental,T1,Итоговый тест,T1_Q07,_T1_081,8.1,10
+EXP027,experimental,T1,Итоговый тест,T1_Q08,_T1_052,5.2,10
+EXP027,experimental,T1,Итоговый тест,T1_Q09,_T1_047,4.7,10
+EXP027,experimental,T1,Итоговый тест,T1_Q10,_T1_063,6.3,10
+EXP027,experimental,T2,Отложенный тест,T2_Q01,_T2_052,5.2,10
+EXP027,experimental,T2,Отложенный тест,T2_Q02,_T2_027,2.7,10
+EXP027,experimental,T2,Отложенный тест,T2_Q03,_T2_041,4.1,10
+EXP027,experimental,T2,Отложенный тест,T2_Q04,_T2_070,7,10
+EXP027,experimental,T2,Отложенный тест,T2_Q05,_T2_058,5.8,10
+EXP027,experimental,T2,Отложенный тест,T2_Q06,_T2_041,4.1,10
+EXP027,experimental,T2,Отложенный тест,T2_Q07,_T2_046,4.6,10
+EXP027,experimental,T2,Отложенный тест,T2_Q08,_T2_053,5.3,10
+EXP027,experimental,T2,Отложенный тест,T2_Q09,_T2_061,6.1,10
+EXP027,experimental,T2,Отложенный тест,T2_Q10,_T2_042,4.2,10
+EXP027,experimental,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_049,4.9,5
+EXP027,experimental,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_037,3.7,5
+EXP027,experimental,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_026,2.6,5
+EXP027,experimental,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_022,2.2,5
+EXP027,experimental,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_015,1.5,5
+EXP027,experimental,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_012,1.2,5
+EXP027,experimental,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_038,3.8,5
+EXP027,experimental,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_024,2.4,5
+EXP027,experimental,TR,Задача переноса,TR_Q01,_TR_002,0.2,5
+EXP027,experimental,TR,Задача переноса,TR_Q02,_TR_032,3.2,5
+EXP027,experimental,TR,Задача переноса,TR_Q03,_TR_050,5,5
+EXP027,experimental,TR,Задача переноса,TR_Q04,_TR_023,2.3,5
+CTRL001,comparison,T0,Входной тест,T0_Q01,_T0_067,6.7,10
+CTRL001,comparison,T0,Входной тест,T0_Q02,_T0_061,6.1,10
+CTRL001,comparison,T0,Входной тест,T0_Q03,_T0_041,4.1,10
+CTRL001,comparison,T0,Входной тест,T0_Q04,_T0_058,5.8,10
+CTRL001,comparison,T0,Входной тест,T0_Q05,_T0_025,2.5,10
+CTRL001,comparison,T0,Входной тест,T0_Q06,_T0_044,4.4,10
+CTRL001,comparison,T0,Входной тест,T0_Q07,_T0_076,7.6,10
+CTRL001,comparison,T0,Входной тест,T0_Q08,_T0_037,3.7,10
+CTRL001,comparison,T0,Входной тест,T0_Q09,_T0_089,8.9,10
+CTRL001,comparison,T0,Входной тест,T0_Q10,_T0_028,2.8,10
+CTRL001,comparison,T1,Итоговый тест,T1_Q01,_T1_079,7.9,10
+CTRL001,comparison,T1,Итоговый тест,T1_Q02,_T1_056,5.6,10
+CTRL001,comparison,T1,Итоговый тест,T1_Q03,_T1_061,6.1,10
+CTRL001,comparison,T1,Итоговый тест,T1_Q04,_T1_062,6.2,10
+CTRL001,comparison,T1,Итоговый тест,T1_Q05,_T1_077,7.7,10
+CTRL001,comparison,T1,Итоговый тест,T1_Q06,_T1_041,4.1,10
+CTRL001,comparison,T1,Итоговый тест,T1_Q07,_T1_050,5,10
+CTRL001,comparison,T1,Итоговый тест,T1_Q08,_T1_076,7.6,10
+CTRL001,comparison,T1,Итоговый тест,T1_Q09,_T1_057,5.7,10
+CTRL001,comparison,T1,Итоговый тест,T1_Q10,_T1_055,5.5,10
+CTRL001,comparison,T2,Отложенный тест,T2_Q01,_T2_068,6.8,10
+CTRL001,comparison,T2,Отложенный тест,T2_Q02,_T2_068,6.8,10
+CTRL001,comparison,T2,Отложенный тест,T2_Q03,_T2_065,6.5,10
+CTRL001,comparison,T2,Отложенный тест,T2_Q04,_T2_037,3.7,10
+CTRL001,comparison,T2,Отложенный тест,T2_Q05,_T2_076,7.6,10
+CTRL001,comparison,T2,Отложенный тест,T2_Q06,_T2_075,7.5,10
+CTRL001,comparison,T2,Отложенный тест,T2_Q07,_T2_051,5.1,10
+CTRL001,comparison,T2,Отложенный тест,T2_Q08,_T2_047,4.7,10
+CTRL001,comparison,T2,Отложенный тест,T2_Q09,_T2_033,3.3,10
+CTRL001,comparison,T2,Отложенный тест,T2_Q10,_T2_029,2.9,10
+CTRL001,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+CTRL001,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_022,2.2,5
+CTRL001,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_048,4.8,5
+CTRL001,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_015,1.5,5
+CTRL001,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_038,3.8,5
+CTRL001,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_032,3.2,5
+CTRL001,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_032,3.2,5
+CTRL001,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_022,2.2,5
+CTRL001,comparison,TR,Задача переноса,TR_Q01,_TR_021,2.1,5
+CTRL001,comparison,TR,Задача переноса,TR_Q02,_TR_010,1,5
+CTRL001,comparison,TR,Задача переноса,TR_Q03,_TR_021,2.1,5
+CTRL001,comparison,TR,Задача переноса,TR_Q04,_TR_048,4.8,5
+CTRL002,comparison,T0,Входной тест,T0_Q01,_T0_027,2.7,10
+CTRL002,comparison,T0,Входной тест,T0_Q02,_T0_060,6,10
+CTRL002,comparison,T0,Входной тест,T0_Q03,_T0_061,6.1,10
+CTRL002,comparison,T0,Входной тест,T0_Q04,_T0_070,7,10
+CTRL002,comparison,T0,Входной тест,T0_Q05,_T0_079,7.9,10
+CTRL002,comparison,T0,Входной тест,T0_Q06,_T0_021,2.1,10
+CTRL002,comparison,T0,Входной тест,T0_Q07,_T0_053,5.3,10
+CTRL002,comparison,T0,Входной тест,T0_Q08,_T0_045,4.5,10
+CTRL002,comparison,T0,Входной тест,T0_Q09,_T0_048,4.8,10
+CTRL002,comparison,T0,Входной тест,T0_Q10,_T0_032,3.2,10
+CTRL002,comparison,T1,Итоговый тест,T1_Q01,_T1_039,3.9,10
+CTRL002,comparison,T1,Итоговый тест,T1_Q02,_T1_090,9,10
+CTRL002,comparison,T1,Итоговый тест,T1_Q03,_T1_091,9.1,10
+CTRL002,comparison,T1,Итоговый тест,T1_Q04,_T1_077,7.7,10
+CTRL002,comparison,T1,Итоговый тест,T1_Q05,_T1_059,5.9,10
+CTRL002,comparison,T1,Итоговый тест,T1_Q06,_T1_071,7.1,10
+CTRL002,comparison,T1,Итоговый тест,T1_Q07,_T1_053,5.3,10
+CTRL002,comparison,T1,Итоговый тест,T1_Q08,_T1_030,3,10
+CTRL002,comparison,T1,Итоговый тест,T1_Q09,_T1_066,6.6,10
+CTRL002,comparison,T1,Итоговый тест,T1_Q10,_T1_060,6,10
+CTRL002,comparison,T2,Отложенный тест,T2_Q01,_T2_049,4.9,10
+CTRL002,comparison,T2,Отложенный тест,T2_Q02,_T2_066,6.6,10
+CTRL002,comparison,T2,Отложенный тест,T2_Q03,_T2_034,3.4,10
+CTRL002,comparison,T2,Отложенный тест,T2_Q04,_T2_069,6.9,10
+CTRL002,comparison,T2,Отложенный тест,T2_Q05,_T2_059,5.9,10
+CTRL002,comparison,T2,Отложенный тест,T2_Q06,_T2_028,2.8,10
+CTRL002,comparison,T2,Отложенный тест,T2_Q07,_T2_049,4.9,10
+CTRL002,comparison,T2,Отложенный тест,T2_Q08,_T2_034,3.4,10
+CTRL002,comparison,T2,Отложенный тест,T2_Q09,_T2_038,3.8,10
+CTRL002,comparison,T2,Отложенный тест,T2_Q10,_T2_037,3.7,10
+CTRL002,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_031,3.1,5
+CTRL002,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_036,3.6,5
+CTRL002,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_013,1.3,5
+CTRL002,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+CTRL002,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_022,2.2,5
+CTRL002,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_033,3.3,5
+CTRL002,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_040,4,5
+CTRL002,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_018,1.8,5
+CTRL002,comparison,TR,Задача переноса,TR_Q01,_TR_023,2.3,5
+CTRL002,comparison,TR,Задача переноса,TR_Q02,_TR_023,2.3,5
+CTRL002,comparison,TR,Задача переноса,TR_Q03,_TR_026,2.6,5
+CTRL002,comparison,TR,Задача переноса,TR_Q04,_TR_034,3.4,5
+CTRL003,comparison,T0,Входной тест,T0_Q01,_T0_066,6.6,10
+CTRL003,comparison,T0,Входной тест,T0_Q02,_T0_084,8.4,10
+CTRL003,comparison,T0,Входной тест,T0_Q03,_T0_070,7,10
+CTRL003,comparison,T0,Входной тест,T0_Q04,_T0_062,6.2,10
+CTRL003,comparison,T0,Входной тест,T0_Q05,_T0_059,5.9,10
+CTRL003,comparison,T0,Входной тест,T0_Q06,_T0_070,7,10
+CTRL003,comparison,T0,Входной тест,T0_Q07,_T0_050,5,10
+CTRL003,comparison,T0,Входной тест,T0_Q08,_T0_052,5.2,10
+CTRL003,comparison,T0,Входной тест,T0_Q09,_T0_056,5.6,10
+CTRL003,comparison,T0,Входной тест,T0_Q10,_T0_047,4.7,10
+CTRL003,comparison,T1,Итоговый тест,T1_Q01,_T1_074,7.4,10
+CTRL003,comparison,T1,Итоговый тест,T1_Q02,_T1_049,4.9,10
+CTRL003,comparison,T1,Итоговый тест,T1_Q03,_T1_054,5.4,10
+CTRL003,comparison,T1,Итоговый тест,T1_Q04,_T1_092,9.2,10
+CTRL003,comparison,T1,Итоговый тест,T1_Q05,_T1_070,7,10
+CTRL003,comparison,T1,Итоговый тест,T1_Q06,_T1_085,8.5,10
+CTRL003,comparison,T1,Итоговый тест,T1_Q07,_T1_071,7.1,10
+CTRL003,comparison,T1,Итоговый тест,T1_Q08,_T1_077,7.7,10
+CTRL003,comparison,T1,Итоговый тест,T1_Q09,_T1_063,6.3,10
+CTRL003,comparison,T1,Итоговый тест,T1_Q10,_T1_046,4.6,10
+CTRL003,comparison,T2,Отложенный тест,T2_Q01,_T2_036,3.6,10
+CTRL003,comparison,T2,Отложенный тест,T2_Q02,_T2_038,3.8,10
+CTRL003,comparison,T2,Отложенный тест,T2_Q03,_T2_038,3.8,10
+CTRL003,comparison,T2,Отложенный тест,T2_Q04,_T2_079,7.9,10
+CTRL003,comparison,T2,Отложенный тест,T2_Q05,_T2_044,4.4,10
+CTRL003,comparison,T2,Отложенный тест,T2_Q06,_T2_037,3.7,10
+CTRL003,comparison,T2,Отложенный тест,T2_Q07,_T2_072,7.2,10
+CTRL003,comparison,T2,Отложенный тест,T2_Q08,_T2_059,5.9,10
+CTRL003,comparison,T2,Отложенный тест,T2_Q09,_T2_078,7.8,10
+CTRL003,comparison,T2,Отложенный тест,T2_Q10,_T2_059,5.9,10
+CTRL003,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_030,3,5
+CTRL003,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_036,3.6,5
+CTRL003,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_029,2.9,5
+CTRL003,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_040,4,5
+CTRL003,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+CTRL003,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_050,5,5
+CTRL003,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_039,3.9,5
+CTRL003,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_050,5,5
+CTRL003,comparison,TR,Задача переноса,TR_Q01,_TR_043,4.3,5
+CTRL003,comparison,TR,Задача переноса,TR_Q02,_TR_028,2.8,5
+CTRL003,comparison,TR,Задача переноса,TR_Q03,_TR_021,2.1,5
+CTRL003,comparison,TR,Задача переноса,TR_Q04,_TR_018,1.8,5
+CTRL004,comparison,T0,Входной тест,T0_Q01,_T0_058,5.8,10
+CTRL004,comparison,T0,Входной тест,T0_Q02,_T0_074,7.4,10
+CTRL004,comparison,T0,Входной тест,T0_Q03,_T0_042,4.2,10
+CTRL004,comparison,T0,Входной тест,T0_Q04,_T0_055,5.5,10
+CTRL004,comparison,T0,Входной тест,T0_Q05,_T0_053,5.3,10
+CTRL004,comparison,T0,Входной тест,T0_Q06,_T0_081,8.1,10
+CTRL004,comparison,T0,Входной тест,T0_Q07,_T0_059,5.9,10
+CTRL004,comparison,T0,Входной тест,T0_Q08,_T0_048,4.8,10
+CTRL004,comparison,T0,Входной тест,T0_Q09,_T0_074,7.4,10
+CTRL004,comparison,T0,Входной тест,T0_Q10,_T0_052,5.2,10
+CTRL004,comparison,T1,Итоговый тест,T1_Q01,_T1_081,8.1,10
+CTRL004,comparison,T1,Итоговый тест,T1_Q02,_T1_083,8.3,10
+CTRL004,comparison,T1,Итоговый тест,T1_Q03,_T1_092,9.2,10
+CTRL004,comparison,T1,Итоговый тест,T1_Q04,_T1_085,8.5,10
+CTRL004,comparison,T1,Итоговый тест,T1_Q05,_T1_086,8.6,10
+CTRL004,comparison,T1,Итоговый тест,T1_Q06,_T1_066,6.6,10
+CTRL004,comparison,T1,Итоговый тест,T1_Q07,_T1_050,5,10
+CTRL004,comparison,T1,Итоговый тест,T1_Q08,_T1_049,4.9,10
+CTRL004,comparison,T1,Итоговый тест,T1_Q09,_T1_078,7.8,10
+CTRL004,comparison,T1,Итоговый тест,T1_Q10,_T1_045,4.5,10
+CTRL004,comparison,T2,Отложенный тест,T2_Q01,_T2_067,6.7,10
+CTRL004,comparison,T2,Отложенный тест,T2_Q02,_T2_038,3.8,10
+CTRL004,comparison,T2,Отложенный тест,T2_Q03,_T2_049,4.9,10
+CTRL004,comparison,T2,Отложенный тест,T2_Q04,_T2_044,4.4,10
+CTRL004,comparison,T2,Отложенный тест,T2_Q05,_T2_092,9.2,10
+CTRL004,comparison,T2,Отложенный тест,T2_Q06,_T2_066,6.6,10
+CTRL004,comparison,T2,Отложенный тест,T2_Q07,_T2_070,7,10
+CTRL004,comparison,T2,Отложенный тест,T2_Q08,_T2_032,3.2,10
+CTRL004,comparison,T2,Отложенный тест,T2_Q09,_T2_055,5.5,10
+CTRL004,comparison,T2,Отложенный тест,T2_Q10,_T2_096,9.6,10
+CTRL004,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_015,1.5,5
+CTRL004,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_027,2.7,5
+CTRL004,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_050,5,5
+CTRL004,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_028,2.8,5
+CTRL004,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_027,2.7,5
+CTRL004,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_037,3.7,5
+CTRL004,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_024,2.4,5
+CTRL004,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_036,3.6,5
+CTRL004,comparison,TR,Задача переноса,TR_Q01,_TR_019,1.9,5
+CTRL004,comparison,TR,Задача переноса,TR_Q02,_TR_030,3,5
+CTRL004,comparison,TR,Задача переноса,TR_Q03,_TR_047,4.7,5
+CTRL004,comparison,TR,Задача переноса,TR_Q04,_TR_018,1.8,5
+CTRL005,comparison,T0,Входной тест,T0_Q01,_T0_048,4.8,10
+CTRL005,comparison,T0,Входной тест,T0_Q02,_T0_047,4.7,10
+CTRL005,comparison,T0,Входной тест,T0_Q03,_T0_045,4.5,10
+CTRL005,comparison,T0,Входной тест,T0_Q04,_T0_056,5.6,10
+CTRL005,comparison,T0,Входной тест,T0_Q05,_T0_062,6.2,10
+CTRL005,comparison,T0,Входной тест,T0_Q06,_T0_055,5.5,10
+CTRL005,comparison,T0,Входной тест,T0_Q07,_T0_064,6.4,10
+CTRL005,comparison,T0,Входной тест,T0_Q08,_T0_045,4.5,10
+CTRL005,comparison,T0,Входной тест,T0_Q09,_T0_065,6.5,10
+CTRL005,comparison,T0,Входной тест,T0_Q10,_T0_049,4.9,10
+CTRL005,comparison,T1,Итоговый тест,T1_Q01,_T1_033,3.3,10
+CTRL005,comparison,T1,Итоговый тест,T1_Q02,_T1_043,4.3,10
+CTRL005,comparison,T1,Итоговый тест,T1_Q03,_T1_046,4.6,10
+CTRL005,comparison,T1,Итоговый тест,T1_Q04,_T1_046,4.6,10
+CTRL005,comparison,T1,Итоговый тест,T1_Q05,_T1_067,6.7,10
+CTRL005,comparison,T1,Итоговый тест,T1_Q06,_T1_065,6.5,10
+CTRL005,comparison,T1,Итоговый тест,T1_Q07,_T1_074,7.4,10
+CTRL005,comparison,T1,Итоговый тест,T1_Q08,_T1_073,7.3,10
+CTRL005,comparison,T1,Итоговый тест,T1_Q09,_T1_070,7,10
+CTRL005,comparison,T1,Итоговый тест,T1_Q10,_T1_032,3.2,10
+CTRL005,comparison,T2,Отложенный тест,T2_Q01,_T2_053,5.3,10
+CTRL005,comparison,T2,Отложенный тест,T2_Q02,_T2_019,1.9,10
+CTRL005,comparison,T2,Отложенный тест,T2_Q03,_T2_033,3.3,10
+CTRL005,comparison,T2,Отложенный тест,T2_Q04,_T2_050,5,10
+CTRL005,comparison,T2,Отложенный тест,T2_Q05,_T2_032,3.2,10
+CTRL005,comparison,T2,Отложенный тест,T2_Q06,_T2_055,5.5,10
+CTRL005,comparison,T2,Отложенный тест,T2_Q07,_T2_023,2.3,10
+CTRL005,comparison,T2,Отложенный тест,T2_Q08,_T2_043,4.3,10
+CTRL005,comparison,T2,Отложенный тест,T2_Q09,_T2_033,3.3,10
+CTRL005,comparison,T2,Отложенный тест,T2_Q10,_T2_055,5.5,10
+CTRL005,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+CTRL005,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_013,1.3,5
+CTRL005,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_022,2.2,5
+CTRL005,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_044,4.4,5
+CTRL005,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_038,3.8,5
+CTRL005,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_032,3.2,5
+CTRL005,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_032,3.2,5
+CTRL005,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_020,2,5
+CTRL005,comparison,TR,Задача переноса,TR_Q01,_TR_030,3,5
+CTRL005,comparison,TR,Задача переноса,TR_Q02,_TR_042,4.2,5
+CTRL005,comparison,TR,Задача переноса,TR_Q03,_TR_033,3.3,5
+CTRL005,comparison,TR,Задача переноса,TR_Q04,_TR_026,2.6,5
+CTRL006,comparison,T0,Входной тест,T0_Q01,_T0_053,5.3,10
+CTRL006,comparison,T0,Входной тест,T0_Q02,_T0_081,8.1,10
+CTRL006,comparison,T0,Входной тест,T0_Q03,_T0_095,9.5,10
+CTRL006,comparison,T0,Входной тест,T0_Q04,_T0_085,8.5,10
+CTRL006,comparison,T0,Входной тест,T0_Q05,_T0_075,7.5,10
+CTRL006,comparison,T0,Входной тест,T0_Q06,_T0_088,8.8,10
+CTRL006,comparison,T0,Входной тест,T0_Q07,_T0_063,6.3,10
+CTRL006,comparison,T0,Входной тест,T0_Q08,_T0_072,7.2,10
+CTRL006,comparison,T0,Входной тест,T0_Q09,_T0_054,5.4,10
+CTRL006,comparison,T0,Входной тест,T0_Q10,_T0_078,7.8,10
+CTRL006,comparison,T1,Итоговый тест,T1_Q01,_T1_100,10,10
+CTRL006,comparison,T1,Итоговый тест,T1_Q02,_T1_061,6.1,10
+CTRL006,comparison,T1,Итоговый тест,T1_Q03,_T1_100,10,10
+CTRL006,comparison,T1,Итоговый тест,T1_Q04,_T1_033,3.3,10
+CTRL006,comparison,T1,Итоговый тест,T1_Q05,_T1_058,5.8,10
+CTRL006,comparison,T1,Итоговый тест,T1_Q06,_T1_071,7.1,10
+CTRL006,comparison,T1,Итоговый тест,T1_Q07,_T1_066,6.6,10
+CTRL006,comparison,T1,Итоговый тест,T1_Q08,_T1_088,8.8,10
+CTRL006,comparison,T1,Итоговый тест,T1_Q09,_T1_076,7.6,10
+CTRL006,comparison,T1,Итоговый тест,T1_Q10,_T1_096,9.6,10
+CTRL006,comparison,T2,Отложенный тест,T2_Q01,_T2_066,6.6,10
+CTRL006,comparison,T2,Отложенный тест,T2_Q02,_T2_069,6.9,10
+CTRL006,comparison,T2,Отложенный тест,T2_Q03,_T2_046,4.6,10
+CTRL006,comparison,T2,Отложенный тест,T2_Q04,_T2_080,8,10
+CTRL006,comparison,T2,Отложенный тест,T2_Q05,_T2_086,8.6,10
+CTRL006,comparison,T2,Отложенный тест,T2_Q06,_T2_062,6.2,10
+CTRL006,comparison,T2,Отложенный тест,T2_Q07,_T2_043,4.3,10
+CTRL006,comparison,T2,Отложенный тест,T2_Q08,_T2_074,7.4,10
+CTRL006,comparison,T2,Отложенный тест,T2_Q09,_T2_083,8.3,10
+CTRL006,comparison,T2,Отложенный тест,T2_Q10,_T2_081,8.1,10
+CTRL006,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+CTRL006,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_049,4.9,5
+CTRL006,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_043,4.3,5
+CTRL006,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_025,2.5,5
+CTRL006,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_038,3.8,5
+CTRL006,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_031,3.1,5
+CTRL006,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_041,4.1,5
+CTRL006,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_034,3.4,5
+CTRL006,comparison,TR,Задача переноса,TR_Q01,_TR_049,4.9,5
+CTRL006,comparison,TR,Задача переноса,TR_Q02,_TR_050,5,5
+CTRL006,comparison,TR,Задача переноса,TR_Q03,_TR_039,3.9,5
+CTRL006,comparison,TR,Задача переноса,TR_Q04,_TR_042,4.2,5
+CTRL007,comparison,T0,Входной тест,T0_Q01,_T0_037,3.7,10
+CTRL007,comparison,T0,Входной тест,T0_Q02,_T0_066,6.6,10
+CTRL007,comparison,T0,Входной тест,T0_Q03,_T0_100,10,10
+CTRL007,comparison,T0,Входной тест,T0_Q04,_T0_054,5.4,10
+CTRL007,comparison,T0,Входной тест,T0_Q05,_T0_041,4.1,10
+CTRL007,comparison,T0,Входной тест,T0_Q06,_T0_037,3.7,10
+CTRL007,comparison,T0,Входной тест,T0_Q07,_T0_031,3.1,10
+CTRL007,comparison,T0,Входной тест,T0_Q08,_T0_036,3.6,10
+CTRL007,comparison,T0,Входной тест,T0_Q09,_T0_043,4.3,10
+CTRL007,comparison,T0,Входной тест,T0_Q10,_T0_077,7.7,10
+CTRL007,comparison,T1,Итоговый тест,T1_Q01,_T1_064,6.4,10
+CTRL007,comparison,T1,Итоговый тест,T1_Q02,_T1_046,4.6,10
+CTRL007,comparison,T1,Итоговый тест,T1_Q03,_T1_033,3.3,10
+CTRL007,comparison,T1,Итоговый тест,T1_Q04,_T1_080,8,10
+CTRL007,comparison,T1,Итоговый тест,T1_Q05,_T1_047,4.7,10
+CTRL007,comparison,T1,Итоговый тест,T1_Q06,_T1_037,3.7,10
+CTRL007,comparison,T1,Итоговый тест,T1_Q07,_T1_040,4,10
+CTRL007,comparison,T1,Итоговый тест,T1_Q08,_T1_063,6.3,10
+CTRL007,comparison,T1,Итоговый тест,T1_Q09,_T1_044,4.4,10
+CTRL007,comparison,T1,Итоговый тест,T1_Q10,_T1_071,7.1,10
+CTRL007,comparison,T2,Отложенный тест,T2_Q01,_T2_034,3.4,10
+CTRL007,comparison,T2,Отложенный тест,T2_Q02,_T2_029,2.9,10
+CTRL007,comparison,T2,Отложенный тест,T2_Q03,_T2_042,4.2,10
+CTRL007,comparison,T2,Отложенный тест,T2_Q04,_T2_043,4.3,10
+CTRL007,comparison,T2,Отложенный тест,T2_Q05,_T2_046,4.6,10
+CTRL007,comparison,T2,Отложенный тест,T2_Q06,_T2_053,5.3,10
+CTRL007,comparison,T2,Отложенный тест,T2_Q07,_T2_052,5.2,10
+CTRL007,comparison,T2,Отложенный тест,T2_Q08,_T2_079,7.9,10
+CTRL007,comparison,T2,Отложенный тест,T2_Q09,_T2_028,2.8,10
+CTRL007,comparison,T2,Отложенный тест,T2_Q10,_T2_025,2.5,10
+CTRL007,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_020,2,5
+CTRL007,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_016,1.6,5
+CTRL007,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_021,2.1,5
+CTRL007,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_024,2.4,5
+CTRL007,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_043,4.3,5
+CTRL007,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_028,2.8,5
+CTRL007,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_021,2.1,5
+CTRL007,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_047,4.7,5
+CTRL007,comparison,TR,Задача переноса,TR_Q01,_TR_028,2.8,5
+CTRL007,comparison,TR,Задача переноса,TR_Q02,_TR_028,2.8,5
+CTRL007,comparison,TR,Задача переноса,TR_Q03,_TR_030,3,5
+CTRL007,comparison,TR,Задача переноса,TR_Q04,_TR_047,4.7,5
+CTRL008,comparison,T0,Входной тест,T0_Q01,_T0_070,7,10
+CTRL008,comparison,T0,Входной тест,T0_Q02,_T0_079,7.9,10
+CTRL008,comparison,T0,Входной тест,T0_Q03,_T0_092,9.2,10
+CTRL008,comparison,T0,Входной тест,T0_Q04,_T0_079,7.9,10
+CTRL008,comparison,T0,Входной тест,T0_Q05,_T0_038,3.8,10
+CTRL008,comparison,T0,Входной тест,T0_Q06,_T0_073,7.3,10
+CTRL008,comparison,T0,Входной тест,T0_Q07,_T0_068,6.8,10
+CTRL008,comparison,T0,Входной тест,T0_Q08,_T0_056,5.6,10
+CTRL008,comparison,T0,Входной тест,T0_Q09,_T0_056,5.6,10
+CTRL008,comparison,T0,Входной тест,T0_Q10,_T0_093,9.3,10
+CTRL008,comparison,T1,Итоговый тест,T1_Q01,_T1_100,10,10
+CTRL008,comparison,T1,Итоговый тест,T1_Q02,_T1_080,8,10
+CTRL008,comparison,T1,Итоговый тест,T1_Q03,_T1_083,8.3,10
+CTRL008,comparison,T1,Итоговый тест,T1_Q04,_T1_058,5.8,10
+CTRL008,comparison,T1,Итоговый тест,T1_Q05,_T1_100,10,10
+CTRL008,comparison,T1,Итоговый тест,T1_Q06,_T1_091,9.1,10
+CTRL008,comparison,T1,Итоговый тест,T1_Q07,_T1_063,6.3,10
+CTRL008,comparison,T1,Итоговый тест,T1_Q08,_T1_067,6.7,10
+CTRL008,comparison,T1,Итоговый тест,T1_Q09,_T1_083,8.3,10
+CTRL008,comparison,T1,Итоговый тест,T1_Q10,_T1_092,9.2,10
+CTRL008,comparison,T2,Отложенный тест,T2_Q01,_T2_057,5.7,10
+CTRL008,comparison,T2,Отложенный тест,T2_Q02,_T2_032,3.2,10
+CTRL008,comparison,T2,Отложенный тест,T2_Q03,_T2_048,4.8,10
+CTRL008,comparison,T2,Отложенный тест,T2_Q04,_T2_063,6.3,10
+CTRL008,comparison,T2,Отложенный тест,T2_Q05,_T2_057,5.7,10
+CTRL008,comparison,T2,Отложенный тест,T2_Q06,_T2_088,8.8,10
+CTRL008,comparison,T2,Отложенный тест,T2_Q07,_T2_060,6,10
+CTRL008,comparison,T2,Отложенный тест,T2_Q08,_T2_088,8.8,10
+CTRL008,comparison,T2,Отложенный тест,T2_Q09,_T2_074,7.4,10
+CTRL008,comparison,T2,Отложенный тест,T2_Q10,_T2_092,9.2,10
+CTRL008,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_043,4.3,5
+CTRL008,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_034,3.4,5
+CTRL008,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_022,2.2,5
+CTRL008,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+CTRL008,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_038,3.8,5
+CTRL008,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_019,1.9,5
+CTRL008,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_037,3.7,5
+CTRL008,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_038,3.8,5
+CTRL008,comparison,TR,Задача переноса,TR_Q01,_TR_042,4.2,5
+CTRL008,comparison,TR,Задача переноса,TR_Q02,_TR_044,4.4,5
+CTRL008,comparison,TR,Задача переноса,TR_Q03,_TR_022,2.2,5
+CTRL008,comparison,TR,Задача переноса,TR_Q04,_TR_034,3.4,5
+CTRL009,comparison,T0,Входной тест,T0_Q01,_T0_030,3,10
+CTRL009,comparison,T0,Входной тест,T0_Q02,_T0_038,3.8,10
+CTRL009,comparison,T0,Входной тест,T0_Q03,_T0_024,2.4,10
+CTRL009,comparison,T0,Входной тест,T0_Q04,_T0_048,4.8,10
+CTRL009,comparison,T0,Входной тест,T0_Q05,_T0_058,5.8,10
+CTRL009,comparison,T0,Входной тест,T0_Q06,_T0_045,4.5,10
+CTRL009,comparison,T0,Входной тест,T0_Q07,_T0_026,2.6,10
+CTRL009,comparison,T0,Входной тест,T0_Q08,_T0_058,5.8,10
+CTRL009,comparison,T0,Входной тест,T0_Q09,_T0_039,3.9,10
+CTRL009,comparison,T0,Входной тест,T0_Q10,_T0_025,2.5,10
+CTRL009,comparison,T1,Итоговый тест,T1_Q01,_T1_074,7.4,10
+CTRL009,comparison,T1,Итоговый тест,T1_Q02,_T1_048,4.8,10
+CTRL009,comparison,T1,Итоговый тест,T1_Q03,_T1_040,4,10
+CTRL009,comparison,T1,Итоговый тест,T1_Q04,_T1_058,5.8,10
+CTRL009,comparison,T1,Итоговый тест,T1_Q05,_T1_030,3,10
+CTRL009,comparison,T1,Итоговый тест,T1_Q06,_T1_034,3.4,10
+CTRL009,comparison,T1,Итоговый тест,T1_Q07,_T1_038,3.8,10
+CTRL009,comparison,T1,Итоговый тест,T1_Q08,_T1_033,3.3,10
+CTRL009,comparison,T1,Итоговый тест,T1_Q09,_T1_051,5.1,10
+CTRL009,comparison,T1,Итоговый тест,T1_Q10,_T1_058,5.8,10
+CTRL009,comparison,T2,Отложенный тест,T2_Q01,_T2_057,5.7,10
+CTRL009,comparison,T2,Отложенный тест,T2_Q02,_T2_035,3.5,10
+CTRL009,comparison,T2,Отложенный тест,T2_Q03,_T2_062,6.2,10
+CTRL009,comparison,T2,Отложенный тест,T2_Q04,_T2_062,6.2,10
+CTRL009,comparison,T2,Отложенный тест,T2_Q05,_T2_044,4.4,10
+CTRL009,comparison,T2,Отложенный тест,T2_Q06,_T2_045,4.5,10
+CTRL009,comparison,T2,Отложенный тест,T2_Q07,_T2_032,3.2,10
+CTRL009,comparison,T2,Отложенный тест,T2_Q08,_T2_055,5.5,10
+CTRL009,comparison,T2,Отложенный тест,T2_Q09,_T2_038,3.8,10
+CTRL009,comparison,T2,Отложенный тест,T2_Q10,_T2_010,1,10
+CTRL009,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_032,3.2,5
+CTRL009,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_041,4.1,5
+CTRL009,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_023,2.3,5
+CTRL009,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_010,1,5
+CTRL009,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_037,3.7,5
+CTRL009,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_039,3.9,5
+CTRL009,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_018,1.8,5
+CTRL009,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_014,1.4,5
+CTRL009,comparison,TR,Задача переноса,TR_Q01,_TR_011,1.1,5
+CTRL009,comparison,TR,Задача переноса,TR_Q02,_TR_022,2.2,5
+CTRL009,comparison,TR,Задача переноса,TR_Q03,_TR_019,1.9,5
+CTRL009,comparison,TR,Задача переноса,TR_Q04,_TR_025,2.5,5
+CTRL010,comparison,T0,Входной тест,T0_Q01,_T0_058,5.8,10
+CTRL010,comparison,T0,Входной тест,T0_Q02,_T0_072,7.2,10
+CTRL010,comparison,T0,Входной тест,T0_Q03,_T0_045,4.5,10
+CTRL010,comparison,T0,Входной тест,T0_Q04,_T0_066,6.6,10
+CTRL010,comparison,T0,Входной тест,T0_Q05,_T0_059,5.9,10
+CTRL010,comparison,T0,Входной тест,T0_Q06,_T0_060,6,10
+CTRL010,comparison,T0,Входной тест,T0_Q07,_T0_031,3.1,10
+CTRL010,comparison,T0,Входной тест,T0_Q08,_T0_065,6.5,10
+CTRL010,comparison,T0,Входной тест,T0_Q09,_T0_050,5,10
+CTRL010,comparison,T0,Входной тест,T0_Q10,_T0_037,3.7,10
+CTRL010,comparison,T1,Итоговый тест,T1_Q01,_T1_051,5.1,10
+CTRL010,comparison,T1,Итоговый тест,T1_Q02,_T1_041,4.1,10
+CTRL010,comparison,T1,Итоговый тест,T1_Q03,_T1_073,7.3,10
+CTRL010,comparison,T1,Итоговый тест,T1_Q04,_T1_047,4.7,10
+CTRL010,comparison,T1,Итоговый тест,T1_Q05,_T1_068,6.8,10
+CTRL010,comparison,T1,Итоговый тест,T1_Q06,_T1_100,10,10
+CTRL010,comparison,T1,Итоговый тест,T1_Q07,_T1_066,6.6,10
+CTRL010,comparison,T1,Итоговый тест,T1_Q08,_T1_087,8.7,10
+CTRL010,comparison,T1,Итоговый тест,T1_Q09,_T1_055,5.5,10
+CTRL010,comparison,T1,Итоговый тест,T1_Q10,_T1_085,8.5,10
+CTRL010,comparison,T2,Отложенный тест,T2_Q01,_T2_070,7,10
+CTRL010,comparison,T2,Отложенный тест,T2_Q02,_T2_046,4.6,10
+CTRL010,comparison,T2,Отложенный тест,T2_Q03,_T2_053,5.3,10
+CTRL010,comparison,T2,Отложенный тест,T2_Q04,_T2_066,6.6,10
+CTRL010,comparison,T2,Отложенный тест,T2_Q05,_T2_053,5.3,10
+CTRL010,comparison,T2,Отложенный тест,T2_Q06,_T2_044,4.4,10
+CTRL010,comparison,T2,Отложенный тест,T2_Q07,_T2_053,5.3,10
+CTRL010,comparison,T2,Отложенный тест,T2_Q08,_T2_065,6.5,10
+CTRL010,comparison,T2,Отложенный тест,T2_Q09,_T2_064,6.4,10
+CTRL010,comparison,T2,Отложенный тест,T2_Q10,_T2_048,4.8,10
+CTRL010,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_044,4.4,5
+CTRL010,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_016,1.6,5
+CTRL010,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_034,3.4,5
+CTRL010,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_050,5,5
+CTRL010,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+CTRL010,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_037,3.7,5
+CTRL010,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_016,1.6,5
+CTRL010,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_040,4,5
+CTRL010,comparison,TR,Задача переноса,TR_Q01,_TR_037,3.7,5
+CTRL010,comparison,TR,Задача переноса,TR_Q02,_TR_034,3.4,5
+CTRL010,comparison,TR,Задача переноса,TR_Q03,_TR_034,3.4,5
+CTRL010,comparison,TR,Задача переноса,TR_Q04,_TR_031,3.1,5
+CTRL011,comparison,T0,Входной тест,T0_Q01,_T0_049,4.9,10
+CTRL011,comparison,T0,Входной тест,T0_Q02,_T0_050,5,10
+CTRL011,comparison,T0,Входной тест,T0_Q03,_T0_039,3.9,10
+CTRL011,comparison,T0,Входной тест,T0_Q04,_T0_061,6.1,10
+CTRL011,comparison,T0,Входной тест,T0_Q05,_T0_035,3.5,10
+CTRL011,comparison,T0,Входной тест,T0_Q06,_T0_024,2.4,10
+CTRL011,comparison,T0,Входной тест,T0_Q07,_T0_016,1.6,10
+CTRL011,comparison,T0,Входной тест,T0_Q08,_T0_035,3.5,10
+CTRL011,comparison,T0,Входной тест,T0_Q09,_T0_044,4.4,10
+CTRL011,comparison,T0,Входной тест,T0_Q10,_T0_078,7.8,10
+CTRL011,comparison,T1,Итоговый тест,T1_Q01,_T1_064,6.4,10
+CTRL011,comparison,T1,Итоговый тест,T1_Q02,_T1_061,6.1,10
+CTRL011,comparison,T1,Итоговый тест,T1_Q03,_T1_055,5.5,10
+CTRL011,comparison,T1,Итоговый тест,T1_Q04,_T1_031,3.1,10
+CTRL011,comparison,T1,Итоговый тест,T1_Q05,_T1_051,5.1,10
+CTRL011,comparison,T1,Итоговый тест,T1_Q06,_T1_043,4.3,10
+CTRL011,comparison,T1,Итоговый тест,T1_Q07,_T1_038,3.8,10
+CTRL011,comparison,T1,Итоговый тест,T1_Q08,_T1_036,3.6,10
+CTRL011,comparison,T1,Итоговый тест,T1_Q09,_T1_062,6.2,10
+CTRL011,comparison,T1,Итоговый тест,T1_Q10,_T1_075,7.5,10
+CTRL011,comparison,T2,Отложенный тест,T2_Q01,_T2_051,5.1,10
+CTRL011,comparison,T2,Отложенный тест,T2_Q02,_T2_042,4.2,10
+CTRL011,comparison,T2,Отложенный тест,T2_Q03,_T2_039,3.9,10
+CTRL011,comparison,T2,Отложенный тест,T2_Q04,_T2_035,3.5,10
+CTRL011,comparison,T2,Отложенный тест,T2_Q05,_T2_057,5.7,10
+CTRL011,comparison,T2,Отложенный тест,T2_Q06,_T2_057,5.7,10
+CTRL011,comparison,T2,Отложенный тест,T2_Q07,_T2_022,2.2,10
+CTRL011,comparison,T2,Отложенный тест,T2_Q08,_T2_030,3,10
+CTRL011,comparison,T2,Отложенный тест,T2_Q09,_T2_049,4.9,10
+CTRL011,comparison,T2,Отложенный тест,T2_Q10,_T2_023,2.3,10
+CTRL011,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_016,1.6,5
+CTRL011,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_019,1.9,5
+CTRL011,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_023,2.3,5
+CTRL011,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_031,3.1,5
+CTRL011,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_041,4.1,5
+CTRL011,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_050,5,5
+CTRL011,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_033,3.3,5
+CTRL011,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_050,5,5
+CTRL011,comparison,TR,Задача переноса,TR_Q01,_TR_031,3.1,5
+CTRL011,comparison,TR,Задача переноса,TR_Q02,_TR_038,3.8,5
+CTRL011,comparison,TR,Задача переноса,TR_Q03,_TR_009,0.9,5
+CTRL011,comparison,TR,Задача переноса,TR_Q04,_TR_039,3.9,5
+CTRL012,comparison,T0,Входной тест,T0_Q01,_T0_089,8.9,10
+CTRL012,comparison,T0,Входной тест,T0_Q02,_T0_043,4.3,10
+CTRL012,comparison,T0,Входной тест,T0_Q03,_T0_043,4.3,10
+CTRL012,comparison,T0,Входной тест,T0_Q04,_T0_081,8.1,10
+CTRL012,comparison,T0,Входной тест,T0_Q05,_T0_076,7.6,10
+CTRL012,comparison,T0,Входной тест,T0_Q06,_T0_052,5.2,10
+CTRL012,comparison,T0,Входной тест,T0_Q07,_T0_030,3,10
+CTRL012,comparison,T0,Входной тест,T0_Q08,_T0_046,4.6,10
+CTRL012,comparison,T0,Входной тест,T0_Q09,_T0_058,5.8,10
+CTRL012,comparison,T0,Входной тест,T0_Q10,_T0_090,9,10
+CTRL012,comparison,T1,Итоговый тест,T1_Q01,_T1_100,10,10
+CTRL012,comparison,T1,Итоговый тест,T1_Q02,_T1_075,7.5,10
+CTRL012,comparison,T1,Итоговый тест,T1_Q03,_T1_070,7,10
+CTRL012,comparison,T1,Итоговый тест,T1_Q04,_T1_029,2.9,10
+CTRL012,comparison,T1,Итоговый тест,T1_Q05,_T1_075,7.5,10
+CTRL012,comparison,T1,Итоговый тест,T1_Q06,_T1_065,6.5,10
+CTRL012,comparison,T1,Итоговый тест,T1_Q07,_T1_045,4.5,10
+CTRL012,comparison,T1,Итоговый тест,T1_Q08,_T1_091,9.1,10
+CTRL012,comparison,T1,Итоговый тест,T1_Q09,_T1_055,5.5,10
+CTRL012,comparison,T1,Итоговый тест,T1_Q10,_T1_040,4,10
+CTRL012,comparison,T2,Отложенный тест,T2_Q01,_T2_087,8.7,10
+CTRL012,comparison,T2,Отложенный тест,T2_Q02,_T2_082,8.2,10
+CTRL012,comparison,T2,Отложенный тест,T2_Q03,_T2_033,3.3,10
+CTRL012,comparison,T2,Отложенный тест,T2_Q04,_T2_060,6,10
+CTRL012,comparison,T2,Отложенный тест,T2_Q05,_T2_100,10,10
+CTRL012,comparison,T2,Отложенный тест,T2_Q06,_T2_100,10,10
+CTRL012,comparison,T2,Отложенный тест,T2_Q07,_T2_072,7.2,10
+CTRL012,comparison,T2,Отложенный тест,T2_Q08,_T2_068,6.8,10
+CTRL012,comparison,T2,Отложенный тест,T2_Q09,_T2_067,6.7,10
+CTRL012,comparison,T2,Отложенный тест,T2_Q10,_T2_049,4.9,10
+CTRL012,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_043,4.3,5
+CTRL012,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_037,3.7,5
+CTRL012,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_030,3,5
+CTRL012,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_042,4.2,5
+CTRL012,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_028,2.8,5
+CTRL012,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_023,2.3,5
+CTRL012,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_050,5,5
+CTRL012,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_044,4.4,5
+CTRL012,comparison,TR,Задача переноса,TR_Q01,_TR_016,1.6,5
+CTRL012,comparison,TR,Задача переноса,TR_Q02,_TR_033,3.3,5
+CTRL012,comparison,TR,Задача переноса,TR_Q03,_TR_049,4.9,5
+CTRL012,comparison,TR,Задача переноса,TR_Q04,_TR_043,4.3,5
+CTRL013,comparison,T0,Входной тест,T0_Q01,_T0_047,4.7,10
+CTRL013,comparison,T0,Входной тест,T0_Q02,_T0_044,4.4,10
+CTRL013,comparison,T0,Входной тест,T0_Q03,_T0_042,4.2,10
+CTRL013,comparison,T0,Входной тест,T0_Q04,_T0_026,2.6,10
+CTRL013,comparison,T0,Входной тест,T0_Q05,_T0_008,0.8,10
+CTRL013,comparison,T0,Входной тест,T0_Q06,_T0_038,3.8,10
+CTRL013,comparison,T0,Входной тест,T0_Q07,_T0_050,5,10
+CTRL013,comparison,T0,Входной тест,T0_Q08,_T0_052,5.2,10
+CTRL013,comparison,T0,Входной тест,T0_Q09,_T0_036,3.6,10
+CTRL013,comparison,T0,Входной тест,T0_Q10,_T0_039,3.9,10
+CTRL013,comparison,T1,Итоговый тест,T1_Q01,_T1_052,5.2,10
+CTRL013,comparison,T1,Итоговый тест,T1_Q02,_T1_054,5.4,10
+CTRL013,comparison,T1,Итоговый тест,T1_Q03,_T1_048,4.8,10
+CTRL013,comparison,T1,Итоговый тест,T1_Q04,_T1_062,6.2,10
+CTRL013,comparison,T1,Итоговый тест,T1_Q05,_T1_052,5.2,10
+CTRL013,comparison,T1,Итоговый тест,T1_Q06,_T1_047,4.7,10
+CTRL013,comparison,T1,Итоговый тест,T1_Q07,_T1_043,4.3,10
+CTRL013,comparison,T1,Итоговый тест,T1_Q08,_T1_061,6.1,10
+CTRL013,comparison,T1,Итоговый тест,T1_Q09,_T1_035,3.5,10
+CTRL013,comparison,T1,Итоговый тест,T1_Q10,_T1_090,9,10
+CTRL013,comparison,T2,Отложенный тест,T2_Q01,_T2_065,6.5,10
+CTRL013,comparison,T2,Отложенный тест,T2_Q02,_T2_052,5.2,10
+CTRL013,comparison,T2,Отложенный тест,T2_Q03,_T2_044,4.4,10
+CTRL013,comparison,T2,Отложенный тест,T2_Q04,_T2_051,5.1,10
+CTRL013,comparison,T2,Отложенный тест,T2_Q05,_T2_046,4.6,10
+CTRL013,comparison,T2,Отложенный тест,T2_Q06,_T2_048,4.8,10
+CTRL013,comparison,T2,Отложенный тест,T2_Q07,_T2_036,3.6,10
+CTRL013,comparison,T2,Отложенный тест,T2_Q08,_T2_075,7.5,10
+CTRL013,comparison,T2,Отложенный тест,T2_Q09,_T2_029,2.9,10
+CTRL013,comparison,T2,Отложенный тест,T2_Q10,_T2_045,4.5,10
+CTRL013,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+CTRL013,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_039,3.9,5
+CTRL013,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_048,4.8,5
+CTRL013,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_049,4.9,5
+CTRL013,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_044,4.4,5
+CTRL013,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_035,3.5,5
+CTRL013,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_024,2.4,5
+CTRL013,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_003,0.3,5
+CTRL013,comparison,TR,Задача переноса,TR_Q01,_TR_029,2.9,5
+CTRL013,comparison,TR,Задача переноса,TR_Q02,_TR_039,3.9,5
+CTRL013,comparison,TR,Задача переноса,TR_Q03,_TR_020,2,5
+CTRL013,comparison,TR,Задача переноса,TR_Q04,_TR_007,0.7,5
+CTRL014,comparison,T0,Входной тест,T0_Q01,_T0_059,5.9,10
+CTRL014,comparison,T0,Входной тест,T0_Q02,_T0_061,6.1,10
+CTRL014,comparison,T0,Входной тест,T0_Q03,_T0_050,5,10
+CTRL014,comparison,T0,Входной тест,T0_Q04,_T0_063,6.3,10
+CTRL014,comparison,T0,Входной тест,T0_Q05,_T0_048,4.8,10
+CTRL014,comparison,T0,Входной тест,T0_Q06,_T0_057,5.7,10
+CTRL014,comparison,T0,Входной тест,T0_Q07,_T0_054,5.4,10
+CTRL014,comparison,T0,Входной тест,T0_Q08,_T0_092,9.2,10
+CTRL014,comparison,T0,Входной тест,T0_Q09,_T0_044,4.4,10
+CTRL014,comparison,T0,Входной тест,T0_Q10,_T0_027,2.7,10
+CTRL014,comparison,T1,Итоговый тест,T1_Q01,_T1_043,4.3,10
+CTRL014,comparison,T1,Итоговый тест,T1_Q02,_T1_061,6.1,10
+CTRL014,comparison,T1,Итоговый тест,T1_Q03,_T1_054,5.4,10
+CTRL014,comparison,T1,Итоговый тест,T1_Q04,_T1_036,3.6,10
+CTRL014,comparison,T1,Итоговый тест,T1_Q05,_T1_056,5.6,10
+CTRL014,comparison,T1,Итоговый тест,T1_Q06,_T1_068,6.8,10
+CTRL014,comparison,T1,Итоговый тест,T1_Q07,_T1_078,7.8,10
+CTRL014,comparison,T1,Итоговый тест,T1_Q08,_T1_059,5.9,10
+CTRL014,comparison,T1,Итоговый тест,T1_Q09,_T1_066,6.6,10
+CTRL014,comparison,T1,Итоговый тест,T1_Q10,_T1_047,4.7,10
+CTRL014,comparison,T2,Отложенный тест,T2_Q01,_T2_068,6.8,10
+CTRL014,comparison,T2,Отложенный тест,T2_Q02,_T2_047,4.7,10
+CTRL014,comparison,T2,Отложенный тест,T2_Q03,_T2_055,5.5,10
+CTRL014,comparison,T2,Отложенный тест,T2_Q04,_T2_046,4.6,10
+CTRL014,comparison,T2,Отложенный тест,T2_Q05,_T2_050,5,10
+CTRL014,comparison,T2,Отложенный тест,T2_Q06,_T2_075,7.5,10
+CTRL014,comparison,T2,Отложенный тест,T2_Q07,_T2_053,5.3,10
+CTRL014,comparison,T2,Отложенный тест,T2_Q08,_T2_057,5.7,10
+CTRL014,comparison,T2,Отложенный тест,T2_Q09,_T2_016,1.6,10
+CTRL014,comparison,T2,Отложенный тест,T2_Q10,_T2_041,4.1,10
+CTRL014,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+CTRL014,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_022,2.2,5
+CTRL014,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_020,2,5
+CTRL014,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_038,3.8,5
+CTRL014,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+CTRL014,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_042,4.2,5
+CTRL014,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_034,3.4,5
+CTRL014,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_040,4,5
+CTRL014,comparison,TR,Задача переноса,TR_Q01,_TR_035,3.5,5
+CTRL014,comparison,TR,Задача переноса,TR_Q02,_TR_030,3,5
+CTRL014,comparison,TR,Задача переноса,TR_Q03,_TR_009,0.9,5
+CTRL014,comparison,TR,Задача переноса,TR_Q04,_TR_023,2.3,5
+CTRL015,comparison,T0,Входной тест,T0_Q01,_T0_080,8,10
+CTRL015,comparison,T0,Входной тест,T0_Q02,_T0_039,3.9,10
+CTRL015,comparison,T0,Входной тест,T0_Q03,_T0_077,7.7,10
+CTRL015,comparison,T0,Входной тест,T0_Q04,_T0_058,5.8,10
+CTRL015,comparison,T0,Входной тест,T0_Q05,_T0_070,7,10
+CTRL015,comparison,T0,Входной тест,T0_Q06,_T0_052,5.2,10
+CTRL015,comparison,T0,Входной тест,T0_Q07,_T0_088,8.8,10
+CTRL015,comparison,T0,Входной тест,T0_Q08,_T0_052,5.2,10
+CTRL015,comparison,T0,Входной тест,T0_Q09,_T0_056,5.6,10
+CTRL015,comparison,T0,Входной тест,T0_Q10,_T0_061,6.1,10
+CTRL015,comparison,T1,Итоговый тест,T1_Q01,_T1_073,7.3,10
+CTRL015,comparison,T1,Итоговый тест,T1_Q02,_T1_080,8,10
+CTRL015,comparison,T1,Итоговый тест,T1_Q03,_T1_064,6.4,10
+CTRL015,comparison,T1,Итоговый тест,T1_Q04,_T1_092,9.2,10
+CTRL015,comparison,T1,Итоговый тест,T1_Q05,_T1_060,6,10
+CTRL015,comparison,T1,Итоговый тест,T1_Q06,_T1_068,6.8,10
+CTRL015,comparison,T1,Итоговый тест,T1_Q07,_T1_063,6.3,10
+CTRL015,comparison,T1,Итоговый тест,T1_Q08,_T1_061,6.1,10
+CTRL015,comparison,T1,Итоговый тест,T1_Q09,_T1_067,6.7,10
+CTRL015,comparison,T1,Итоговый тест,T1_Q10,_T1_070,7,10
+CTRL015,comparison,T2,Отложенный тест,T2_Q01,_T2_051,5.1,10
+CTRL015,comparison,T2,Отложенный тест,T2_Q02,_T2_036,3.6,10
+CTRL015,comparison,T2,Отложенный тест,T2_Q03,_T2_068,6.8,10
+CTRL015,comparison,T2,Отложенный тест,T2_Q04,_T2_059,5.9,10
+CTRL015,comparison,T2,Отложенный тест,T2_Q05,_T2_054,5.4,10
+CTRL015,comparison,T2,Отложенный тест,T2_Q06,_T2_048,4.8,10
+CTRL015,comparison,T2,Отложенный тест,T2_Q07,_T2_053,5.3,10
+CTRL015,comparison,T2,Отложенный тест,T2_Q08,_T2_042,4.2,10
+CTRL015,comparison,T2,Отложенный тест,T2_Q09,_T2_043,4.3,10
+CTRL015,comparison,T2,Отложенный тест,T2_Q10,_T2_064,6.4,10
+CTRL015,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_028,2.8,5
+CTRL015,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_037,3.7,5
+CTRL015,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_024,2.4,5
+CTRL015,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_030,3,5
+CTRL015,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_032,3.2,5
+CTRL015,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_019,1.9,5
+CTRL015,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_022,2.2,5
+CTRL015,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_043,4.3,5
+CTRL015,comparison,TR,Задача переноса,TR_Q01,_TR_029,2.9,5
+CTRL015,comparison,TR,Задача переноса,TR_Q02,_TR_043,4.3,5
+CTRL015,comparison,TR,Задача переноса,TR_Q03,_TR_024,2.4,5
+CTRL015,comparison,TR,Задача переноса,TR_Q04,_TR_050,5,5
+CTRL016,comparison,T0,Входной тест,T0_Q01,_T0_074,7.4,10
+CTRL016,comparison,T0,Входной тест,T0_Q02,_T0_053,5.3,10
+CTRL016,comparison,T0,Входной тест,T0_Q03,_T0_087,8.7,10
+CTRL016,comparison,T0,Входной тест,T0_Q04,_T0_069,6.9,10
+CTRL016,comparison,T0,Входной тест,T0_Q05,_T0_033,3.3,10
+CTRL016,comparison,T0,Входной тест,T0_Q06,_T0_095,9.5,10
+CTRL016,comparison,T0,Входной тест,T0_Q07,_T0_090,9,10
+CTRL016,comparison,T0,Входной тест,T0_Q08,_T0_084,8.4,10
+CTRL016,comparison,T0,Входной тест,T0_Q09,_T0_051,5.1,10
+CTRL016,comparison,T0,Входной тест,T0_Q10,_T0_100,10,10
+CTRL016,comparison,T1,Итоговый тест,T1_Q01,_T1_054,5.4,10
+CTRL016,comparison,T1,Итоговый тест,T1_Q02,_T1_068,6.8,10
+CTRL016,comparison,T1,Итоговый тест,T1_Q03,_T1_100,10,10
+CTRL016,comparison,T1,Итоговый тест,T1_Q04,_T1_075,7.5,10
+CTRL016,comparison,T1,Итоговый тест,T1_Q05,_T1_058,5.8,10
+CTRL016,comparison,T1,Итоговый тест,T1_Q06,_T1_095,9.5,10
+CTRL016,comparison,T1,Итоговый тест,T1_Q07,_T1_076,7.6,10
+CTRL016,comparison,T1,Итоговый тест,T1_Q08,_T1_038,3.8,10
+CTRL016,comparison,T1,Итоговый тест,T1_Q09,_T1_052,5.2,10
+CTRL016,comparison,T1,Итоговый тест,T1_Q10,_T1_077,7.7,10
+CTRL016,comparison,T2,Отложенный тест,T2_Q01,_T2_085,8.5,10
+CTRL016,comparison,T2,Отложенный тест,T2_Q02,_T2_058,5.8,10
+CTRL016,comparison,T2,Отложенный тест,T2_Q03,_T2_089,8.9,10
+CTRL016,comparison,T2,Отложенный тест,T2_Q04,_T2_054,5.4,10
+CTRL016,comparison,T2,Отложенный тест,T2_Q05,_T2_071,7.1,10
+CTRL016,comparison,T2,Отложенный тест,T2_Q06,_T2_059,5.9,10
+CTRL016,comparison,T2,Отложенный тест,T2_Q07,_T2_049,4.9,10
+CTRL016,comparison,T2,Отложенный тест,T2_Q08,_T2_078,7.8,10
+CTRL016,comparison,T2,Отложенный тест,T2_Q09,_T2_051,5.1,10
+CTRL016,comparison,T2,Отложенный тест,T2_Q10,_T2_091,9.1,10
+CTRL016,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_046,4.6,5
+CTRL016,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+CTRL016,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_028,2.8,5
+CTRL016,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_045,4.5,5
+CTRL016,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_041,4.1,5
+CTRL016,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_050,5,5
+CTRL016,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_040,4,5
+CTRL016,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_050,5,5
+CTRL016,comparison,TR,Задача переноса,TR_Q01,_TR_050,5,5
+CTRL016,comparison,TR,Задача переноса,TR_Q02,_TR_050,5,5
+CTRL016,comparison,TR,Задача переноса,TR_Q03,_TR_050,5,5
+CTRL016,comparison,TR,Задача переноса,TR_Q04,_TR_050,5,5
+CTRL017,comparison,T0,Входной тест,T0_Q01,_T0_072,7.2,10
+CTRL017,comparison,T0,Входной тест,T0_Q02,_T0_023,2.3,10
+CTRL017,comparison,T0,Входной тест,T0_Q03,_T0_039,3.9,10
+CTRL017,comparison,T0,Входной тест,T0_Q04,_T0_054,5.4,10
+CTRL017,comparison,T0,Входной тест,T0_Q05,_T0_046,4.6,10
+CTRL017,comparison,T0,Входной тест,T0_Q06,_T0_078,7.8,10
+CTRL017,comparison,T0,Входной тест,T0_Q07,_T0_056,5.6,10
+CTRL017,comparison,T0,Входной тест,T0_Q08,_T0_055,5.5,10
+CTRL017,comparison,T0,Входной тест,T0_Q09,_T0_042,4.2,10
+CTRL017,comparison,T0,Входной тест,T0_Q10,_T0_050,5,10
+CTRL017,comparison,T1,Итоговый тест,T1_Q01,_T1_081,8.1,10
+CTRL017,comparison,T1,Итоговый тест,T1_Q02,_T1_054,5.4,10
+CTRL017,comparison,T1,Итоговый тест,T1_Q03,_T1_050,5,10
+CTRL017,comparison,T1,Итоговый тест,T1_Q04,_T1_049,4.9,10
+CTRL017,comparison,T1,Итоговый тест,T1_Q05,_T1_054,5.4,10
+CTRL017,comparison,T1,Итоговый тест,T1_Q06,_T1_042,4.2,10
+CTRL017,comparison,T1,Итоговый тест,T1_Q07,_T1_046,4.6,10
+CTRL017,comparison,T1,Итоговый тест,T1_Q08,_T1_048,4.8,10
+CTRL017,comparison,T1,Итоговый тест,T1_Q09,_T1_045,4.5,10
+CTRL017,comparison,T1,Итоговый тест,T1_Q10,_T1_048,4.8,10
+CTRL017,comparison,T2,Отложенный тест,T2_Q01,_T2_042,4.2,10
+CTRL017,comparison,T2,Отложенный тест,T2_Q02,_T2_041,4.1,10
+CTRL017,comparison,T2,Отложенный тест,T2_Q03,_T2_068,6.8,10
+CTRL017,comparison,T2,Отложенный тест,T2_Q04,_T2_048,4.8,10
+CTRL017,comparison,T2,Отложенный тест,T2_Q05,_T2_074,7.4,10
+CTRL017,comparison,T2,Отложенный тест,T2_Q06,_T2_077,7.7,10
+CTRL017,comparison,T2,Отложенный тест,T2_Q07,_T2_029,2.9,10
+CTRL017,comparison,T2,Отложенный тест,T2_Q08,_T2_037,3.7,10
+CTRL017,comparison,T2,Отложенный тест,T2_Q09,_T2_078,7.8,10
+CTRL017,comparison,T2,Отложенный тест,T2_Q10,_T2_050,5,10
+CTRL017,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+CTRL017,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+CTRL017,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_050,5,5
+CTRL017,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_024,2.4,5
+CTRL017,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_025,2.5,5
+CTRL017,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_041,4.1,5
+CTRL017,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_022,2.2,5
+CTRL017,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_039,3.9,5
+CTRL017,comparison,TR,Задача переноса,TR_Q01,_TR_031,3.1,5
+CTRL017,comparison,TR,Задача переноса,TR_Q02,_TR_026,2.6,5
+CTRL017,comparison,TR,Задача переноса,TR_Q03,_TR_031,3.1,5
+CTRL017,comparison,TR,Задача переноса,TR_Q04,_TR_035,3.5,5
+CTRL018,comparison,T0,Входной тест,T0_Q01,_T0_053,5.3,10
+CTRL018,comparison,T0,Входной тест,T0_Q02,_T0_065,6.5,10
+CTRL018,comparison,T0,Входной тест,T0_Q03,_T0_076,7.6,10
+CTRL018,comparison,T0,Входной тест,T0_Q04,_T0_090,9,10
+CTRL018,comparison,T0,Входной тест,T0_Q05,_T0_024,2.4,10
+CTRL018,comparison,T0,Входной тест,T0_Q06,_T0_065,6.5,10
+CTRL018,comparison,T0,Входной тест,T0_Q07,_T0_051,5.1,10
+CTRL018,comparison,T0,Входной тест,T0_Q08,_T0_055,5.5,10
+CTRL018,comparison,T0,Входной тест,T0_Q09,_T0_095,9.5,10
+CTRL018,comparison,T0,Входной тест,T0_Q10,_T0_051,5.1,10
+CTRL018,comparison,T1,Итоговый тест,T1_Q01,_T1_069,6.9,10
+CTRL018,comparison,T1,Итоговый тест,T1_Q02,_T1_075,7.5,10
+CTRL018,comparison,T1,Итоговый тест,T1_Q03,_T1_054,5.4,10
+CTRL018,comparison,T1,Итоговый тест,T1_Q04,_T1_073,7.3,10
+CTRL018,comparison,T1,Итоговый тест,T1_Q05,_T1_061,6.1,10
+CTRL018,comparison,T1,Итоговый тест,T1_Q06,_T1_025,2.5,10
+CTRL018,comparison,T1,Итоговый тест,T1_Q07,_T1_070,7,10
+CTRL018,comparison,T1,Итоговый тест,T1_Q08,_T1_079,7.9,10
+CTRL018,comparison,T1,Итоговый тест,T1_Q09,_T1_045,4.5,10
+CTRL018,comparison,T1,Итоговый тест,T1_Q10,_T1_073,7.3,10
+CTRL018,comparison,T2,Отложенный тест,T2_Q01,_T2_077,7.7,10
+CTRL018,comparison,T2,Отложенный тест,T2_Q02,_T2_054,5.4,10
+CTRL018,comparison,T2,Отложенный тест,T2_Q03,_T2_072,7.2,10
+CTRL018,comparison,T2,Отложенный тест,T2_Q04,_T2_037,3.7,10
+CTRL018,comparison,T2,Отложенный тест,T2_Q05,_T2_063,6.3,10
+CTRL018,comparison,T2,Отложенный тест,T2_Q06,_T2_063,6.3,10
+CTRL018,comparison,T2,Отложенный тест,T2_Q07,_T2_045,4.5,10
+CTRL018,comparison,T2,Отложенный тест,T2_Q08,_T2_046,4.6,10
+CTRL018,comparison,T2,Отложенный тест,T2_Q09,_T2_060,6,10
+CTRL018,comparison,T2,Отложенный тест,T2_Q10,_T2_077,7.7,10
+CTRL018,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+CTRL018,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_023,2.3,5
+CTRL018,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_031,3.1,5
+CTRL018,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_044,4.4,5
+CTRL018,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+CTRL018,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_044,4.4,5
+CTRL018,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_042,4.2,5
+CTRL018,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_037,3.7,5
+CTRL018,comparison,TR,Задача переноса,TR_Q01,_TR_028,2.8,5
+CTRL018,comparison,TR,Задача переноса,TR_Q02,_TR_048,4.8,5
+CTRL018,comparison,TR,Задача переноса,TR_Q03,_TR_050,5,5
+CTRL018,comparison,TR,Задача переноса,TR_Q04,_TR_035,3.5,5
+CTRL019,comparison,T0,Входной тест,T0_Q01,_T0_065,6.5,10
+CTRL019,comparison,T0,Входной тест,T0_Q02,_T0_065,6.5,10
+CTRL019,comparison,T0,Входной тест,T0_Q03,_T0_028,2.8,10
+CTRL019,comparison,T0,Входной тест,T0_Q04,_T0_041,4.1,10
+CTRL019,comparison,T0,Входной тест,T0_Q05,_T0_049,4.9,10
+CTRL019,comparison,T0,Входной тест,T0_Q06,_T0_031,3.1,10
+CTRL019,comparison,T0,Входной тест,T0_Q07,_T0_055,5.5,10
+CTRL019,comparison,T0,Входной тест,T0_Q08,_T0_041,4.1,10
+CTRL019,comparison,T0,Входной тест,T0_Q09,_T0_040,4,10
+CTRL019,comparison,T0,Входной тест,T0_Q10,_T0_030,3,10
+CTRL019,comparison,T1,Итоговый тест,T1_Q01,_T1_075,7.5,10
+CTRL019,comparison,T1,Итоговый тест,T1_Q02,_T1_055,5.5,10
+CTRL019,comparison,T1,Итоговый тест,T1_Q03,_T1_069,6.9,10
+CTRL019,comparison,T1,Итоговый тест,T1_Q04,_T1_039,3.9,10
+CTRL019,comparison,T1,Итоговый тест,T1_Q05,_T1_078,7.8,10
+CTRL019,comparison,T1,Итоговый тест,T1_Q06,_T1_057,5.7,10
+CTRL019,comparison,T1,Итоговый тест,T1_Q07,_T1_053,5.3,10
+CTRL019,comparison,T1,Итоговый тест,T1_Q08,_T1_059,5.9,10
+CTRL019,comparison,T1,Итоговый тест,T1_Q09,_T1_037,3.7,10
+CTRL019,comparison,T1,Итоговый тест,T1_Q10,_T1_083,8.3,10
+CTRL019,comparison,T2,Отложенный тест,T2_Q01,_T2_075,7.5,10
+CTRL019,comparison,T2,Отложенный тест,T2_Q02,_T2_066,6.6,10
+CTRL019,comparison,T2,Отложенный тест,T2_Q03,_T2_030,3,10
+CTRL019,comparison,T2,Отложенный тест,T2_Q04,_T2_041,4.1,10
+CTRL019,comparison,T2,Отложенный тест,T2_Q05,_T2_017,1.7,10
+CTRL019,comparison,T2,Отложенный тест,T2_Q06,_T2_066,6.6,10
+CTRL019,comparison,T2,Отложенный тест,T2_Q07,_T2_013,1.3,10
+CTRL019,comparison,T2,Отложенный тест,T2_Q08,_T2_041,4.1,10
+CTRL019,comparison,T2,Отложенный тест,T2_Q09,_T2_077,7.7,10
+CTRL019,comparison,T2,Отложенный тест,T2_Q10,_T2_067,6.7,10
+CTRL019,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_046,4.6,5
+CTRL019,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_041,4.1,5
+CTRL019,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_029,2.9,5
+CTRL019,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_009,0.9,5
+CTRL019,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_049,4.9,5
+CTRL019,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_050,5,5
+CTRL019,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_033,3.3,5
+CTRL019,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_027,2.7,5
+CTRL019,comparison,TR,Задача переноса,TR_Q01,_TR_027,2.7,5
+CTRL019,comparison,TR,Задача переноса,TR_Q02,_TR_027,2.7,5
+CTRL019,comparison,TR,Задача переноса,TR_Q03,_TR_023,2.3,5
+CTRL019,comparison,TR,Задача переноса,TR_Q04,_TR_019,1.9,5
+CTRL020,comparison,T0,Входной тест,T0_Q01,_T0_028,2.8,10
+CTRL020,comparison,T0,Входной тест,T0_Q02,_T0_033,3.3,10
+CTRL020,comparison,T0,Входной тест,T0_Q03,_T0_068,6.8,10
+CTRL020,comparison,T0,Входной тест,T0_Q04,_T0_052,5.2,10
+CTRL020,comparison,T0,Входной тест,T0_Q05,_T0_030,3,10
+CTRL020,comparison,T0,Входной тест,T0_Q06,_T0_022,2.2,10
+CTRL020,comparison,T0,Входной тест,T0_Q07,_T0_100,10,10
+CTRL020,comparison,T0,Входной тест,T0_Q08,_T0_040,4,10
+CTRL020,comparison,T0,Входной тест,T0_Q09,_T0_070,7,10
+CTRL020,comparison,T0,Входной тест,T0_Q10,_T0_023,2.3,10
+CTRL020,comparison,T1,Итоговый тест,T1_Q01,_T1_055,5.5,10
+CTRL020,comparison,T1,Итоговый тест,T1_Q02,_T1_058,5.8,10
+CTRL020,comparison,T1,Итоговый тест,T1_Q03,_T1_043,4.3,10
+CTRL020,comparison,T1,Итоговый тест,T1_Q04,_T1_083,8.3,10
+CTRL020,comparison,T1,Итоговый тест,T1_Q05,_T1_044,4.4,10
+CTRL020,comparison,T1,Итоговый тест,T1_Q06,_T1_077,7.7,10
+CTRL020,comparison,T1,Итоговый тест,T1_Q07,_T1_082,8.2,10
+CTRL020,comparison,T1,Итоговый тест,T1_Q08,_T1_038,3.8,10
+CTRL020,comparison,T1,Итоговый тест,T1_Q09,_T1_016,1.6,10
+CTRL020,comparison,T1,Итоговый тест,T1_Q10,_T1_045,4.5,10
+CTRL020,comparison,T2,Отложенный тест,T2_Q01,_T2_040,4,10
+CTRL020,comparison,T2,Отложенный тест,T2_Q02,_T2_030,3,10
+CTRL020,comparison,T2,Отложенный тест,T2_Q03,_T2_055,5.5,10
+CTRL020,comparison,T2,Отложенный тест,T2_Q04,_T2_038,3.8,10
+CTRL020,comparison,T2,Отложенный тест,T2_Q05,_T2_057,5.7,10
+CTRL020,comparison,T2,Отложенный тест,T2_Q06,_T2_037,3.7,10
+CTRL020,comparison,T2,Отложенный тест,T2_Q07,_T2_040,4,10
+CTRL020,comparison,T2,Отложенный тест,T2_Q08,_T2_047,4.7,10
+CTRL020,comparison,T2,Отложенный тест,T2_Q09,_T2_062,6.2,10
+CTRL020,comparison,T2,Отложенный тест,T2_Q10,_T2_046,4.6,10
+CTRL020,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+CTRL020,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_045,4.5,5
+CTRL020,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_038,3.8,5
+CTRL020,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_033,3.3,5
+CTRL020,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_029,2.9,5
+CTRL020,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_042,4.2,5
+CTRL020,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_019,1.9,5
+CTRL020,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_030,3,5
+CTRL020,comparison,TR,Задача переноса,TR_Q01,_TR_036,3.6,5
+CTRL020,comparison,TR,Задача переноса,TR_Q02,_TR_037,3.7,5
+CTRL020,comparison,TR,Задача переноса,TR_Q03,_TR_027,2.7,5
+CTRL020,comparison,TR,Задача переноса,TR_Q04,_TR_035,3.5,5
+CTRL021,comparison,T0,Входной тест,T0_Q01,_T0_028,2.8,10
+CTRL021,comparison,T0,Входной тест,T0_Q02,_T0_037,3.7,10
+CTRL021,comparison,T0,Входной тест,T0_Q03,_T0_020,2,10
+CTRL021,comparison,T0,Входной тест,T0_Q04,_T0_042,4.2,10
+CTRL021,comparison,T0,Входной тест,T0_Q05,_T0_035,3.5,10
+CTRL021,comparison,T0,Входной тест,T0_Q06,_T0_028,2.8,10
+CTRL021,comparison,T0,Входной тест,T0_Q07,_T0_022,2.2,10
+CTRL021,comparison,T0,Входной тест,T0_Q08,_T0_048,4.8,10
+CTRL021,comparison,T0,Входной тест,T0_Q09,_T0_034,3.4,10
+CTRL021,comparison,T0,Входной тест,T0_Q10,_T0_058,5.8,10
+CTRL021,comparison,T1,Итоговый тест,T1_Q01,_T1_031,3.1,10
+CTRL021,comparison,T1,Итоговый тест,T1_Q02,_T1_043,4.3,10
+CTRL021,comparison,T1,Итоговый тест,T1_Q03,_T1_053,5.3,10
+CTRL021,comparison,T1,Итоговый тест,T1_Q04,_T1_048,4.8,10
+CTRL021,comparison,T1,Итоговый тест,T1_Q05,_T1_078,7.8,10
+CTRL021,comparison,T1,Итоговый тест,T1_Q06,_T1_025,2.5,10
+CTRL021,comparison,T1,Итоговый тест,T1_Q07,_T1_048,4.8,10
+CTRL021,comparison,T1,Итоговый тест,T1_Q08,_T1_048,4.8,10
+CTRL021,comparison,T1,Итоговый тест,T1_Q09,_T1_052,5.2,10
+CTRL021,comparison,T1,Итоговый тест,T1_Q10,_T1_043,4.3,10
+CTRL021,comparison,T2,Отложенный тест,T2_Q01,_T2_029,2.9,10
+CTRL021,comparison,T2,Отложенный тест,T2_Q02,_T2_031,3.1,10
+CTRL021,comparison,T2,Отложенный тест,T2_Q03,_T2_040,4,10
+CTRL021,comparison,T2,Отложенный тест,T2_Q04,_T2_023,2.3,10
+CTRL021,comparison,T2,Отложенный тест,T2_Q05,_T2_034,3.4,10
+CTRL021,comparison,T2,Отложенный тест,T2_Q06,_T2_069,6.9,10
+CTRL021,comparison,T2,Отложенный тест,T2_Q07,_T2_039,3.9,10
+CTRL021,comparison,T2,Отложенный тест,T2_Q08,_T2_054,5.4,10
+CTRL021,comparison,T2,Отложенный тест,T2_Q09,_T2_052,5.2,10
+CTRL021,comparison,T2,Отложенный тест,T2_Q10,_T2_052,5.2,10
+CTRL021,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_014,1.4,5
+CTRL021,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_031,3.1,5
+CTRL021,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_009,0.9,5
+CTRL021,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_019,1.9,5
+CTRL021,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_034,3.4,5
+CTRL021,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_023,2.3,5
+CTRL021,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_027,2.7,5
+CTRL021,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_022,2.2,5
+CTRL021,comparison,TR,Задача переноса,TR_Q01,_TR_011,1.1,5
+CTRL021,comparison,TR,Задача переноса,TR_Q02,_TR_025,2.5,5
+CTRL021,comparison,TR,Задача переноса,TR_Q03,_TR_008,0.8,5
+CTRL021,comparison,TR,Задача переноса,TR_Q04,_TR_017,1.7,5
+CTRL022,comparison,T0,Входной тест,T0_Q01,_T0_070,7,10
+CTRL022,comparison,T0,Входной тест,T0_Q02,_T0_052,5.2,10
+CTRL022,comparison,T0,Входной тест,T0_Q03,_T0_076,7.6,10
+CTRL022,comparison,T0,Входной тест,T0_Q04,_T0_064,6.4,10
+CTRL022,comparison,T0,Входной тест,T0_Q05,_T0_083,8.3,10
+CTRL022,comparison,T0,Входной тест,T0_Q06,_T0_048,4.8,10
+CTRL022,comparison,T0,Входной тест,T0_Q07,_T0_075,7.5,10
+CTRL022,comparison,T0,Входной тест,T0_Q08,_T0_066,6.6,10
+CTRL022,comparison,T0,Входной тест,T0_Q09,_T0_048,4.8,10
+CTRL022,comparison,T0,Входной тест,T0_Q10,_T0_059,5.9,10
+CTRL022,comparison,T1,Итоговый тест,T1_Q01,_T1_058,5.8,10
+CTRL022,comparison,T1,Итоговый тест,T1_Q02,_T1_055,5.5,10
+CTRL022,comparison,T1,Итоговый тест,T1_Q03,_T1_052,5.2,10
+CTRL022,comparison,T1,Итоговый тест,T1_Q04,_T1_073,7.3,10
+CTRL022,comparison,T1,Итоговый тест,T1_Q05,_T1_074,7.4,10
+CTRL022,comparison,T1,Итоговый тест,T1_Q06,_T1_044,4.4,10
+CTRL022,comparison,T1,Итоговый тест,T1_Q07,_T1_042,4.2,10
+CTRL022,comparison,T1,Итоговый тест,T1_Q08,_T1_030,3,10
+CTRL022,comparison,T1,Итоговый тест,T1_Q09,_T1_039,3.9,10
+CTRL022,comparison,T1,Итоговый тест,T1_Q10,_T1_099,9.9,10
+CTRL022,comparison,T2,Отложенный тест,T2_Q01,_T2_071,7.1,10
+CTRL022,comparison,T2,Отложенный тест,T2_Q02,_T2_016,1.6,10
+CTRL022,comparison,T2,Отложенный тест,T2_Q03,_T2_051,5.1,10
+CTRL022,comparison,T2,Отложенный тест,T2_Q04,_T2_075,7.5,10
+CTRL022,comparison,T2,Отложенный тест,T2_Q05,_T2_049,4.9,10
+CTRL022,comparison,T2,Отложенный тест,T2_Q06,_T2_050,5,10
+CTRL022,comparison,T2,Отложенный тест,T2_Q07,_T2_035,3.5,10
+CTRL022,comparison,T2,Отложенный тест,T2_Q08,_T2_051,5.1,10
+CTRL022,comparison,T2,Отложенный тест,T2_Q09,_T2_049,4.9,10
+CTRL022,comparison,T2,Отложенный тест,T2_Q10,_T2_053,5.3,10
+CTRL022,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_038,3.8,5
+CTRL022,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+CTRL022,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_034,3.4,5
+CTRL022,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_043,4.3,5
+CTRL022,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_045,4.5,5
+CTRL022,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_047,4.7,5
+CTRL022,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_037,3.7,5
+CTRL022,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_025,2.5,5
+CTRL022,comparison,TR,Задача переноса,TR_Q01,_TR_027,2.7,5
+CTRL022,comparison,TR,Задача переноса,TR_Q02,_TR_023,2.3,5
+CTRL022,comparison,TR,Задача переноса,TR_Q03,_TR_041,4.1,5
+CTRL022,comparison,TR,Задача переноса,TR_Q04,_TR_042,4.2,5
+CTRL023,comparison,T0,Входной тест,T0_Q01,_T0_058,5.8,10
+CTRL023,comparison,T0,Входной тест,T0_Q02,_T0_046,4.6,10
+CTRL023,comparison,T0,Входной тест,T0_Q03,_T0_059,5.9,10
+CTRL023,comparison,T0,Входной тест,T0_Q04,_T0_061,6.1,10
+CTRL023,comparison,T0,Входной тест,T0_Q05,_T0_065,6.5,10
+CTRL023,comparison,T0,Входной тест,T0_Q06,_T0_062,6.2,10
+CTRL023,comparison,T0,Входной тест,T0_Q07,_T0_069,6.9,10
+CTRL023,comparison,T0,Входной тест,T0_Q08,_T0_064,6.4,10
+CTRL023,comparison,T0,Входной тест,T0_Q09,_T0_061,6.1,10
+CTRL023,comparison,T0,Входной тест,T0_Q10,_T0_059,5.9,10
+CTRL023,comparison,T1,Итоговый тест,T1_Q01,_T1_038,3.8,10
+CTRL023,comparison,T1,Итоговый тест,T1_Q02,_T1_075,7.5,10
+CTRL023,comparison,T1,Итоговый тест,T1_Q03,_T1_080,8,10
+CTRL023,comparison,T1,Итоговый тест,T1_Q04,_T1_034,3.4,10
+CTRL023,comparison,T1,Итоговый тест,T1_Q05,_T1_098,9.8,10
+CTRL023,comparison,T1,Итоговый тест,T1_Q06,_T1_068,6.8,10
+CTRL023,comparison,T1,Итоговый тест,T1_Q07,_T1_075,7.5,10
+CTRL023,comparison,T1,Итоговый тест,T1_Q08,_T1_062,6.2,10
+CTRL023,comparison,T1,Итоговый тест,T1_Q09,_T1_052,5.2,10
+CTRL023,comparison,T1,Итоговый тест,T1_Q10,_T1_085,8.5,10
+CTRL023,comparison,T2,Отложенный тест,T2_Q01,_T2_062,6.2,10
+CTRL023,comparison,T2,Отложенный тест,T2_Q02,_T2_073,7.3,10
+CTRL023,comparison,T2,Отложенный тест,T2_Q03,_T2_044,4.4,10
+CTRL023,comparison,T2,Отложенный тест,T2_Q04,_T2_065,6.5,10
+CTRL023,comparison,T2,Отложенный тест,T2_Q05,_T2_037,3.7,10
+CTRL023,comparison,T2,Отложенный тест,T2_Q06,_T2_039,3.9,10
+CTRL023,comparison,T2,Отложенный тест,T2_Q07,_T2_089,8.9,10
+CTRL023,comparison,T2,Отложенный тест,T2_Q08,_T2_062,6.2,10
+CTRL023,comparison,T2,Отложенный тест,T2_Q09,_T2_045,4.5,10
+CTRL023,comparison,T2,Отложенный тест,T2_Q10,_T2_040,4,10
+CTRL023,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_022,2.2,5
+CTRL023,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_036,3.6,5
+CTRL023,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_050,5,5
+CTRL023,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_033,3.3,5
+CTRL023,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_043,4.3,5
+CTRL023,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_032,3.2,5
+CTRL023,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_038,3.8,5
+CTRL023,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_017,1.7,5
+CTRL023,comparison,TR,Задача переноса,TR_Q01,_TR_032,3.2,5
+CTRL023,comparison,TR,Задача переноса,TR_Q02,_TR_009,0.9,5
+CTRL023,comparison,TR,Задача переноса,TR_Q03,_TR_031,3.1,5
+CTRL023,comparison,TR,Задача переноса,TR_Q04,_TR_038,3.8,5
+CTRL024,comparison,T0,Входной тест,T0_Q01,_T0_035,3.5,10
+CTRL024,comparison,T0,Входной тест,T0_Q02,_T0_070,7,10
+CTRL024,comparison,T0,Входной тест,T0_Q03,_T0_065,6.5,10
+CTRL024,comparison,T0,Входной тест,T0_Q04,_T0_066,6.6,10
+CTRL024,comparison,T0,Входной тест,T0_Q05,_T0_021,2.1,10
+CTRL024,comparison,T0,Входной тест,T0_Q06,_T0_040,4,10
+CTRL024,comparison,T0,Входной тест,T0_Q07,_T0_079,7.9,10
+CTRL024,comparison,T0,Входной тест,T0_Q08,_T0_077,7.7,10
+CTRL024,comparison,T0,Входной тест,T0_Q09,_T0_036,3.6,10
+CTRL024,comparison,T0,Входной тест,T0_Q10,_T0_073,7.3,10
+CTRL024,comparison,T1,Итоговый тест,T1_Q01,_T1_081,8.1,10
+CTRL024,comparison,T1,Итоговый тест,T1_Q02,_T1_072,7.2,10
+CTRL024,comparison,T1,Итоговый тест,T1_Q03,_T1_059,5.9,10
+CTRL024,comparison,T1,Итоговый тест,T1_Q04,_T1_077,7.7,10
+CTRL024,comparison,T1,Итоговый тест,T1_Q05,_T1_060,6,10
+CTRL024,comparison,T1,Итоговый тест,T1_Q06,_T1_050,5,10
+CTRL024,comparison,T1,Итоговый тест,T1_Q07,_T1_037,3.7,10
+CTRL024,comparison,T1,Итоговый тест,T1_Q08,_T1_046,4.6,10
+CTRL024,comparison,T1,Итоговый тест,T1_Q09,_T1_072,7.2,10
+CTRL024,comparison,T1,Итоговый тест,T1_Q10,_T1_098,9.8,10
+CTRL024,comparison,T2,Отложенный тест,T2_Q01,_T2_069,6.9,10
+CTRL024,comparison,T2,Отложенный тест,T2_Q02,_T2_029,2.9,10
+CTRL024,comparison,T2,Отложенный тест,T2_Q03,_T2_067,6.7,10
+CTRL024,comparison,T2,Отложенный тест,T2_Q04,_T2_040,4,10
+CTRL024,comparison,T2,Отложенный тест,T2_Q05,_T2_030,3,10
+CTRL024,comparison,T2,Отложенный тест,T2_Q06,_T2_022,2.2,10
+CTRL024,comparison,T2,Отложенный тест,T2_Q07,_T2_035,3.5,10
+CTRL024,comparison,T2,Отложенный тест,T2_Q08,_T2_040,4,10
+CTRL024,comparison,T2,Отложенный тест,T2_Q09,_T2_048,4.8,10
+CTRL024,comparison,T2,Отложенный тест,T2_Q10,_T2_052,5.2,10
+CTRL024,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+CTRL024,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_040,4,5
+CTRL024,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_025,2.5,5
+CTRL024,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_032,3.2,5
+CTRL024,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_032,3.2,5
+CTRL024,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_024,2.4,5
+CTRL024,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_038,3.8,5
+CTRL024,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_036,3.6,5
+CTRL024,comparison,TR,Задача переноса,TR_Q01,_TR_022,2.2,5
+CTRL024,comparison,TR,Задача переноса,TR_Q02,_TR_050,5,5
+CTRL024,comparison,TR,Задача переноса,TR_Q03,_TR_050,5,5
+CTRL024,comparison,TR,Задача переноса,TR_Q04,_TR_019,1.9,5
+CTRL025,comparison,T0,Входной тест,T0_Q01,_T0_009,0.9,10
+CTRL025,comparison,T0,Входной тест,T0_Q02,_T0_010,1,10
+CTRL025,comparison,T0,Входной тест,T0_Q03,_T0_044,4.4,10
+CTRL025,comparison,T0,Входной тест,T0_Q04,_T0_041,4.1,10
+CTRL025,comparison,T0,Входной тест,T0_Q05,_T0_017,1.7,10
+CTRL025,comparison,T0,Входной тест,T0_Q06,_T0_039,3.9,10
+CTRL025,comparison,T0,Входной тест,T0_Q07,_T0_033,3.3,10
+CTRL025,comparison,T0,Входной тест,T0_Q08,_T0_018,1.8,10
+CTRL025,comparison,T0,Входной тест,T0_Q09,_T0_020,2,10
+CTRL025,comparison,T0,Входной тест,T0_Q10,_T0_019,1.9,10
+CTRL025,comparison,T1,Итоговый тест,T1_Q01,_T1_043,4.3,10
+CTRL025,comparison,T1,Итоговый тест,T1_Q02,_T1_024,2.4,10
+CTRL025,comparison,T1,Итоговый тест,T1_Q03,_T1_040,4,10
+CTRL025,comparison,T1,Итоговый тест,T1_Q04,_T1_066,6.6,10
+CTRL025,comparison,T1,Итоговый тест,T1_Q05,_T1_029,2.9,10
+CTRL025,comparison,T1,Итоговый тест,T1_Q06,_T1_046,4.6,10
+CTRL025,comparison,T1,Итоговый тест,T1_Q07,_T1_041,4.1,10
+CTRL025,comparison,T1,Итоговый тест,T1_Q08,_T1_043,4.3,10
+CTRL025,comparison,T1,Итоговый тест,T1_Q09,_T1_033,3.3,10
+CTRL025,comparison,T1,Итоговый тест,T1_Q10,_T1_029,2.9,10
+CTRL025,comparison,T2,Отложенный тест,T2_Q01,_T2_028,2.8,10
+CTRL025,comparison,T2,Отложенный тест,T2_Q02,_T2_037,3.7,10
+CTRL025,comparison,T2,Отложенный тест,T2_Q03,_T2_032,3.2,10
+CTRL025,comparison,T2,Отложенный тест,T2_Q04,_T2_042,4.2,10
+CTRL025,comparison,T2,Отложенный тест,T2_Q05,_T2_022,2.2,10
+CTRL025,comparison,T2,Отложенный тест,T2_Q06,_T2_026,2.6,10
+CTRL025,comparison,T2,Отложенный тест,T2_Q07,_T2_044,4.4,10
+CTRL025,comparison,T2,Отложенный тест,T2_Q08,_T2_042,4.2,10
+CTRL025,comparison,T2,Отложенный тест,T2_Q09,_T2_047,4.7,10
+CTRL025,comparison,T2,Отложенный тест,T2_Q10,_T2_032,3.2,10
+CTRL025,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_019,1.9,5
+CTRL025,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_000,0,5
+CTRL025,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_012,1.2,5
+CTRL025,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_027,2.7,5
+CTRL025,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_023,2.3,5
+CTRL025,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_028,2.8,5
+CTRL025,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_024,2.4,5
+CTRL025,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_023,2.3,5
+CTRL025,comparison,TR,Задача переноса,TR_Q01,_TR_010,1,5
+CTRL025,comparison,TR,Задача переноса,TR_Q02,_TR_014,1.4,5
+CTRL025,comparison,TR,Задача переноса,TR_Q03,_TR_014,1.4,5
+CTRL025,comparison,TR,Задача переноса,TR_Q04,_TR_007,0.7,5
+CTRL026,comparison,T0,Входной тест,T0_Q01,_T0_022,2.2,10
+CTRL026,comparison,T0,Входной тест,T0_Q02,_T0_054,5.4,10
+CTRL026,comparison,T0,Входной тест,T0_Q03,_T0_025,2.5,10
+CTRL026,comparison,T0,Входной тест,T0_Q04,_T0_034,3.4,10
+CTRL026,comparison,T0,Входной тест,T0_Q05,_T0_038,3.8,10
+CTRL026,comparison,T0,Входной тест,T0_Q06,_T0_027,2.7,10
+CTRL026,comparison,T0,Входной тест,T0_Q07,_T0_040,4,10
+CTRL026,comparison,T0,Входной тест,T0_Q08,_T0_058,5.8,10
+CTRL026,comparison,T0,Входной тест,T0_Q09,_T0_038,3.8,10
+CTRL026,comparison,T0,Входной тест,T0_Q10,_T0_033,3.3,10
+CTRL026,comparison,T1,Итоговый тест,T1_Q01,_T1_065,6.5,10
+CTRL026,comparison,T1,Итоговый тест,T1_Q02,_T1_063,6.3,10
+CTRL026,comparison,T1,Итоговый тест,T1_Q03,_T1_033,3.3,10
+CTRL026,comparison,T1,Итоговый тест,T1_Q04,_T1_064,6.4,10
+CTRL026,comparison,T1,Итоговый тест,T1_Q05,_T1_066,6.6,10
+CTRL026,comparison,T1,Итоговый тест,T1_Q06,_T1_041,4.1,10
+CTRL026,comparison,T1,Итоговый тест,T1_Q07,_T1_050,5,10
+CTRL026,comparison,T1,Итоговый тест,T1_Q08,_T1_034,3.4,10
+CTRL026,comparison,T1,Итоговый тест,T1_Q09,_T1_073,7.3,10
+CTRL026,comparison,T1,Итоговый тест,T1_Q10,_T1_074,7.4,10
+CTRL026,comparison,T2,Отложенный тест,T2_Q01,_T2_054,5.4,10
+CTRL026,comparison,T2,Отложенный тест,T2_Q02,_T2_043,4.3,10
+CTRL026,comparison,T2,Отложенный тест,T2_Q03,_T2_040,4,10
+CTRL026,comparison,T2,Отложенный тест,T2_Q04,_T2_051,5.1,10
+CTRL026,comparison,T2,Отложенный тест,T2_Q05,_T2_027,2.7,10
+CTRL026,comparison,T2,Отложенный тест,T2_Q06,_T2_034,3.4,10
+CTRL026,comparison,T2,Отложенный тест,T2_Q07,_T2_024,2.4,10
+CTRL026,comparison,T2,Отложенный тест,T2_Q08,_T2_018,1.8,10
+CTRL026,comparison,T2,Отложенный тест,T2_Q09,_T2_050,5,10
+CTRL026,comparison,T2,Отложенный тест,T2_Q10,_T2_044,4.4,10
+CTRL026,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_020,2,5
+CTRL026,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_042,4.2,5
+CTRL026,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_050,5,5
+CTRL026,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_017,1.7,5
+CTRL026,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_006,0.6,5
+CTRL026,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_018,1.8,5
+CTRL026,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_011,1.1,5
+CTRL026,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_027,2.7,5
+CTRL026,comparison,TR,Задача переноса,TR_Q01,_TR_050,5,5
+CTRL026,comparison,TR,Задача переноса,TR_Q02,_TR_020,2,5
+CTRL026,comparison,TR,Задача переноса,TR_Q03,_TR_011,1.1,5
+CTRL026,comparison,TR,Задача переноса,TR_Q04,_TR_026,2.6,5
+CTRL027,comparison,T0,Входной тест,T0_Q01,_T0_073,7.3,10
+CTRL027,comparison,T0,Входной тест,T0_Q02,_T0_077,7.7,10
+CTRL027,comparison,T0,Входной тест,T0_Q03,_T0_054,5.4,10
+CTRL027,comparison,T0,Входной тест,T0_Q04,_T0_031,3.1,10
+CTRL027,comparison,T0,Входной тест,T0_Q05,_T0_056,5.6,10
+CTRL027,comparison,T0,Входной тест,T0_Q06,_T0_074,7.4,10
+CTRL027,comparison,T0,Входной тест,T0_Q07,_T0_051,5.1,10
+CTRL027,comparison,T0,Входной тест,T0_Q08,_T0_049,4.9,10
+CTRL027,comparison,T0,Входной тест,T0_Q09,_T0_051,5.1,10
+CTRL027,comparison,T0,Входной тест,T0_Q10,_T0_044,4.4,10
+CTRL027,comparison,T1,Итоговый тест,T1_Q01,_T1_079,7.9,10
+CTRL027,comparison,T1,Итоговый тест,T1_Q02,_T1_062,6.2,10
+CTRL027,comparison,T1,Итоговый тест,T1_Q03,_T1_075,7.5,10
+CTRL027,comparison,T1,Итоговый тест,T1_Q04,_T1_040,4,10
+CTRL027,comparison,T1,Итоговый тест,T1_Q05,_T1_070,7,10
+CTRL027,comparison,T1,Итоговый тест,T1_Q06,_T1_100,10,10
+CTRL027,comparison,T1,Итоговый тест,T1_Q07,_T1_083,8.3,10
+CTRL027,comparison,T1,Итоговый тест,T1_Q08,_T1_039,3.9,10
+CTRL027,comparison,T1,Итоговый тест,T1_Q09,_T1_057,5.7,10
+CTRL027,comparison,T1,Итоговый тест,T1_Q10,_T1_051,5.1,10
+CTRL027,comparison,T2,Отложенный тест,T2_Q01,_T2_041,4.1,10
+CTRL027,comparison,T2,Отложенный тест,T2_Q02,_T2_081,8.1,10
+CTRL027,comparison,T2,Отложенный тест,T2_Q03,_T2_083,8.3,10
+CTRL027,comparison,T2,Отложенный тест,T2_Q04,_T2_048,4.8,10
+CTRL027,comparison,T2,Отложенный тест,T2_Q05,_T2_050,5,10
+CTRL027,comparison,T2,Отложенный тест,T2_Q06,_T2_056,5.6,10
+CTRL027,comparison,T2,Отложенный тест,T2_Q07,_T2_063,6.3,10
+CTRL027,comparison,T2,Отложенный тест,T2_Q08,_T2_057,5.7,10
+CTRL027,comparison,T2,Отложенный тест,T2_Q09,_T2_060,6,10
+CTRL027,comparison,T2,Отложенный тест,T2_Q10,_T2_054,5.4,10
+CTRL027,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_047,4.7,5
+CTRL027,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_024,2.4,5
+CTRL027,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_013,1.3,5
+CTRL027,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_026,2.6,5
+CTRL027,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_014,1.4,5
+CTRL027,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_036,3.6,5
+CTRL027,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_040,4,5
+CTRL027,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_044,4.4,5
+CTRL027,comparison,TR,Задача переноса,TR_Q01,_TR_040,4,5
+CTRL027,comparison,TR,Задача переноса,TR_Q02,_TR_045,4.5,5
+CTRL027,comparison,TR,Задача переноса,TR_Q03,_TR_047,4.7,5
+CTRL027,comparison,TR,Задача переноса,TR_Q04,_TR_037,3.7,5
+CTRL028,comparison,T0,Входной тест,T0_Q01,_T0_040,4,10
+CTRL028,comparison,T0,Входной тест,T0_Q02,_T0_049,4.9,10
+CTRL028,comparison,T0,Входной тест,T0_Q03,_T0_092,9.2,10
+CTRL028,comparison,T0,Входной тест,T0_Q04,_T0_085,8.5,10
+CTRL028,comparison,T0,Входной тест,T0_Q05,_T0_056,5.6,10
+CTRL028,comparison,T0,Входной тест,T0_Q06,_T0_048,4.8,10
+CTRL028,comparison,T0,Входной тест,T0_Q07,_T0_049,4.9,10
+CTRL028,comparison,T0,Входной тест,T0_Q08,_T0_088,8.8,10
+CTRL028,comparison,T0,Входной тест,T0_Q09,_T0_029,2.9,10
+CTRL028,comparison,T0,Входной тест,T0_Q10,_T0_076,7.6,10
+CTRL028,comparison,T1,Итоговый тест,T1_Q01,_T1_079,7.9,10
+CTRL028,comparison,T1,Итоговый тест,T1_Q02,_T1_080,8,10
+CTRL028,comparison,T1,Итоговый тест,T1_Q03,_T1_089,8.9,10
+CTRL028,comparison,T1,Итоговый тест,T1_Q04,_T1_056,5.6,10
+CTRL028,comparison,T1,Итоговый тест,T1_Q05,_T1_043,4.3,10
+CTRL028,comparison,T1,Итоговый тест,T1_Q06,_T1_100,10,10
+CTRL028,comparison,T1,Итоговый тест,T1_Q07,_T1_067,6.7,10
+CTRL028,comparison,T1,Итоговый тест,T1_Q08,_T1_057,5.7,10
+CTRL028,comparison,T1,Итоговый тест,T1_Q09,_T1_060,6,10
+CTRL028,comparison,T1,Итоговый тест,T1_Q10,_T1_039,3.9,10
+CTRL028,comparison,T2,Отложенный тест,T2_Q01,_T2_048,4.8,10
+CTRL028,comparison,T2,Отложенный тест,T2_Q02,_T2_068,6.8,10
+CTRL028,comparison,T2,Отложенный тест,T2_Q03,_T2_070,7,10
+CTRL028,comparison,T2,Отложенный тест,T2_Q04,_T2_070,7,10
+CTRL028,comparison,T2,Отложенный тест,T2_Q05,_T2_053,5.3,10
+CTRL028,comparison,T2,Отложенный тест,T2_Q06,_T2_070,7,10
+CTRL028,comparison,T2,Отложенный тест,T2_Q07,_T2_055,5.5,10
+CTRL028,comparison,T2,Отложенный тест,T2_Q08,_T2_070,7,10
+CTRL028,comparison,T2,Отложенный тест,T2_Q09,_T2_081,8.1,10
+CTRL028,comparison,T2,Отложенный тест,T2_Q10,_T2_056,5.6,10
+CTRL028,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_044,4.4,5
+CTRL028,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_050,5,5
+CTRL028,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_017,1.7,5
+CTRL028,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_049,4.9,5
+CTRL028,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_038,3.8,5
+CTRL028,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_044,4.4,5
+CTRL028,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_029,2.9,5
+CTRL028,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_022,2.2,5
+CTRL028,comparison,TR,Задача переноса,TR_Q01,_TR_039,3.9,5
+CTRL028,comparison,TR,Задача переноса,TR_Q02,_TR_029,2.9,5
+CTRL028,comparison,TR,Задача переноса,TR_Q03,_TR_033,3.3,5
+CTRL028,comparison,TR,Задача переноса,TR_Q04,_TR_022,2.2,5
+CTRL029,comparison,T0,Входной тест,T0_Q01,_T0_056,5.6,10
+CTRL029,comparison,T0,Входной тест,T0_Q02,_T0_047,4.7,10
+CTRL029,comparison,T0,Входной тест,T0_Q03,_T0_078,7.8,10
+CTRL029,comparison,T0,Входной тест,T0_Q04,_T0_031,3.1,10
+CTRL029,comparison,T0,Входной тест,T0_Q05,_T0_036,3.6,10
+CTRL029,comparison,T0,Входной тест,T0_Q06,_T0_045,4.5,10
+CTRL029,comparison,T0,Входной тест,T0_Q07,_T0_067,6.7,10
+CTRL029,comparison,T0,Входной тест,T0_Q08,_T0_030,3,10
+CTRL029,comparison,T0,Входной тест,T0_Q09,_T0_050,5,10
+CTRL029,comparison,T0,Входной тест,T0_Q10,_T0_071,7.1,10
+CTRL029,comparison,T1,Итоговый тест,T1_Q01,_T1_053,5.3,10
+CTRL029,comparison,T1,Итоговый тест,T1_Q02,_T1_052,5.2,10
+CTRL029,comparison,T1,Итоговый тест,T1_Q03,_T1_057,5.7,10
+CTRL029,comparison,T1,Итоговый тест,T1_Q04,_T1_062,6.2,10
+CTRL029,comparison,T1,Итоговый тест,T1_Q05,_T1_060,6,10
+CTRL029,comparison,T1,Итоговый тест,T1_Q06,_T1_020,2,10
+CTRL029,comparison,T1,Итоговый тест,T1_Q07,_T1_100,10,10
+CTRL029,comparison,T1,Итоговый тест,T1_Q08,_T1_038,3.8,10
+CTRL029,comparison,T1,Итоговый тест,T1_Q09,_T1_043,4.3,10
+CTRL029,comparison,T1,Итоговый тест,T1_Q10,_T1_077,7.7,10
+CTRL029,comparison,T2,Отложенный тест,T2_Q01,_T2_068,6.8,10
+CTRL029,comparison,T2,Отложенный тест,T2_Q02,_T2_053,5.3,10
+CTRL029,comparison,T2,Отложенный тест,T2_Q03,_T2_061,6.1,10
+CTRL029,comparison,T2,Отложенный тест,T2_Q04,_T2_034,3.4,10
+CTRL029,comparison,T2,Отложенный тест,T2_Q05,_T2_052,5.2,10
+CTRL029,comparison,T2,Отложенный тест,T2_Q06,_T2_043,4.3,10
+CTRL029,comparison,T2,Отложенный тест,T2_Q07,_T2_042,4.2,10
+CTRL029,comparison,T2,Отложенный тест,T2_Q08,_T2_065,6.5,10
+CTRL029,comparison,T2,Отложенный тест,T2_Q09,_T2_041,4.1,10
+CTRL029,comparison,T2,Отложенный тест,T2_Q10,_T2_078,7.8,10
+CTRL029,comparison,AIL,Критическая ИИ грамотность,AIL_Q01,_AIL_050,5,5
+CTRL029,comparison,AIL,Критическая ИИ грамотность,AIL_Q02,_AIL_049,4.9,5
+CTRL029,comparison,AIL,Критическая ИИ грамотность,AIL_Q03,_AIL_027,2.7,5
+CTRL029,comparison,AIL,Критическая ИИ грамотность,AIL_Q04,_AIL_040,4,5
+CTRL029,comparison,AIL,Критическая ИИ грамотность,AIL_Q05,_AIL_050,5,5
+CTRL029,comparison,AIL,Критическая ИИ грамотность,AIL_Q06,_AIL_010,1,5
+CTRL029,comparison,AIL,Критическая ИИ грамотность,AIL_Q07,_AIL_032,3.2,5
+CTRL029,comparison,AIL,Критическая ИИ грамотность,AIL_Q08,_AIL_037,3.7,5
+CTRL029,comparison,TR,Задача переноса,TR_Q01,_TR_032,3.2,5
+CTRL029,comparison,TR,Задача переноса,TR_Q02,_TR_040,4,5
+CTRL029,comparison,TR,Задача переноса,TR_Q03,_TR_046,4.6,5
+CTRL029,comparison,TR,Задача переноса,TR_Q04,_TR_020,2,5
